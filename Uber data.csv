@@ -1,0 +1,1156 @@
+Start_date,Start_day,Start_time,SHour,End_date,End_day,End_time,Duration,Category,Pickup,Destination,KM,Purpose,Driver_Rating,Fare,Tip,Payment_Method,Status
+27-Jul-16,Wednesday,21:11:00,21,27-Jul-16,Wednesday,21:17:00,00:06:00,Business,Fort Pierce,Fort Pierce,5.1,Meal/Entertain,4,198.3,,UPI/e-Wallet,Completed
+21-Sep-16,Wednesday,01:25:00,1,21-Sep-16,Wednesday,01:37:00,00:12:00,,Fort Pierce,Fort Pierce,5,,5,195,10,Cash,Completed
+27-Nov-16,Sunday,20:25:00,20,27-Nov-16,Sunday,20:38:00,00:13:00,,Fort Pierce,Fort Pierce,4.8,Errand/Supplies,,188.4,18,UPI/e-Wallet,Completed
+18-Dec-16,Sunday,17:31:00,17,18-Dec-16,Sunday,17:45:00,00:14:00,,Fort Pierce,Fort Pierce,4.7,Meeting,3,185.1,18,Cash,Completed
+05-Apr-16,Tuesday,14:42:00,14,05-Apr-16,Tuesday,15:49:00,01:07:00,,Fort Pierce,West Palm Beach,63.7,Customer Visit,3,2132.1,,Card,Completed
+01-Jun-16,Wednesday,17:15:00,17,01-Jun-16,Wednesday,17:19:00,00:04:00,Business,West Palm Beach,West Palm Beach,4.3,Meal/Entertain,3,171.9,17,Card,Completed
+28-Sep-16,Wednesday,17:30:00,17,28-Sep-16,Wednesday,17:35:00,00:05:00,Business,West Palm Beach,Palm Beach,7.1,Meeting,3,264.3,26,Card,Completed
+17-May-16,Tuesday,13:27:00,13,17-May-16,Tuesday,13:33:00,00:06:00,Business,Cary,Cary,0.8,Meeting,2,56.4,5,UPI/e-Wallet,Completed
+13-Jul-16,Wednesday,08:05:00,8,13-Jul-16,Wednesday,08:25:00,00:20:00,Business,Cary,Morrisville,8.3,Meeting,3,303.9,30,Card,Completed
+17-Jul-16,Sunday,12:17:00,12,17-Jul-16,Sunday,12:44:00,00:27:00,Business,Jamaica,New York,16.5,Customer Visit,0,574.5,,Cash,Completed
+24-Sep-16,Saturday,15:08:00,15,24-Sep-16,Saturday,15:51:00,00:43:00,Business,New York,Queens,10.8,Meeting,2,386.4,38,Card,Completed
+28-Apr-16,Thursday,18:18:00,18,28-Apr-16,Thursday,18:53:00,00:35:00,Business,Elmhurst,New York,7.5,Meeting,2,277.5,27,Card,Completed
+16-Feb-16,Tuesday,19:12:00,19,16-Feb-16,Tuesday,19:32:00,00:20:00,Business,Midtown,East Harlem,6.2,Meeting,,234.6,23,UPI/e-Wallet,Completed
+22-May-16,Sunday,08:55:00,8,22-May-16,Sunday,09:21:00,00:26:00,Business,East Harlem,NoMad,6.4,Temporary Site,4,241.2,24,Uber Cash,Completed
+12-Mar-16,Saturday,11:56:00,11,12-Mar-16,Saturday,12:03:00,00:07:00,Business,Flatiron District,Midtown,1.6,Errand/Supplies,0,82.8,8,Uber Cash,Completed
+27-Feb-16,Saturday,13:32:00,13,27-Feb-16,Saturday,13:46:00,00:14:00,Business,Midtown,Midtown East,1.7,Meal/Entertain,5,86.1,,Cash,Completed
+10-Jul-16,Sunday,14:30:00,14,10-Jul-16,Sunday,14:43:00,00:13:00,Business,Midtown East,Midtown,1.9,Meal/Entertain,1,92.7,,Cash,Completed
+09-Jun-16,Thursday,12:33:00,12,09-Jun-16,Thursday,12:49:00,00:16:00,Business,Midtown,Hudson Square,1.9,Meal/Entertain,1,92.7,,Cash,Completed
+02-Mar-16,Wednesday,12:53:00,12,02-Mar-16,Wednesday,13:09:00,00:16:00,Business,Hudson Square,Lower Manhattan,4,Meal/Entertain,0,162,16,Gift Card,Completed
+07-May-16,Saturday,14:42:00,14,07-May-16,Saturday,14:56:00,00:14:00,Business,Lower Manhattan,Hudson Square,1.8,Errand/Supplies,1,89.4,8,Uber Cash,Completed
+14-Jul-16,Thursday,15:13:00,15,14-Jul-16,Thursday,15:28:00,00:15:00,Business,Hudson Square,Hell's Kitchen,2.4,Customer Visit,1,109.2,10,UPI/e-Wallet,Completed
+02-Mar-16,Wednesday,15:42:00,15,02-Mar-16,Wednesday,15:54:00,00:12:00,Business,Hell's Kitchen,Midtown,2,Errand/Supplies,5,96,9,Uber Cash,Completed
+27-Feb-16,Saturday,16:02:00,16,27-Feb-16,Saturday,17:00:00,00:58:00,Business,New York,Queens County,15.1,Meeting,2,528.3,52,Uber Cash,Completed
+20-Jul-16,Wednesday,13:54:00,13,20-Jul-16,Wednesday,14:07:00,00:13:00,Business,Downtown,Gulfton,11.2,Meeting,4,399.6,39,Gift Card,Completed
+06-Aug-16,Saturday,15:00:00,15,06-Aug-16,Saturday,15:28:00,00:28:00,Business,Gulfton,Downtown,11.8,Meeting,1,419.4,41,Gift Card,Completed
+07-Nov-16,Monday,16:29:00,16,07-Nov-16,Monday,17:05:00,00:36:00,Business,Houston,Houston,21.9,Customer Visit,0,752.7,75,UPI/e-Wallet,Completed
+03-May-16,Tuesday,21:39:00,21,03-May-16,Tuesday,21:45:00,00:06:00,Business,Eagan Park,Jamestown Court,3.9,Errand/Supplies,2,158.7,15,Uber Cash,Completed
+27-Sep-16,Tuesday,00:41:00,0,27-Sep-16,Tuesday,01:01:00,00:20:00,Business,Morrisville,Cary,8,Errand/Supplies,0,294,29,Uber Cash,Completed
+24-Jun-16,Friday,11:43:00,11,24-Jun-16,Friday,12:03:00,00:20:00,Business,Cary,Durham,10.4,Meal/Entertain,,373.2,37,Gift Card,Completed
+16-Feb-16,Tuesday,13:26:00,13,16-Feb-16,Tuesday,13:44:00,00:18:00,Business,Durham,Cary,10.4,Meal/Entertain,3,373.2,37,Card,Completed
+18-Jul-16,Monday,14:55:00,14,18-Jul-16,Monday,15:06:00,00:11:00,Business,Cary,Cary,4.8,Meal/Entertain,3,188.4,18,Uber Cash,Completed
+04-May-16,Wednesday,16:13:00,16,04-May-16,Wednesday,16:24:00,00:11:00,Business,Farmington Woods,Whitebridge,4.7,Meal/Entertain,2,185.1,18,Uber Cash,Completed
+10-May-16,Tuesday,09:09:00,9,10-May-16,Tuesday,09:23:00,00:14:00,Business,Whitebridge,Lake Wellingborough,7.2,,5,267.6,26,Card,Completed
+24-Feb-16,Wednesday,10:55:00,10,24-Feb-16,Wednesday,11:09:00,00:14:00,Business,Lake Wellingborough,Whitebridge,7.6,Temporary Site,4,280.8,28,Uber Cash,Completed
+08-May-16,Sunday,10:36:00,10,08-May-16,Sunday,11:11:00,00:35:00,Business,Cary,Raleigh,17.1,Meeting,5,594.3,59,Uber Cash,Completed
+22-Apr-16,Friday,11:48:00,11,22-Apr-16,Friday,12:19:00,00:31:00,Business,Fayetteville Street,Umstead,15.1,Meeting,3,528.3,52,UPI/e-Wallet,Completed
+13-Feb-16,Saturday,13:25:00,13,13-Feb-16,Saturday,14:19:00,00:54:00,Business,Raleigh,Cary,40.2,Customer Visit,2,1356.6,50,Uber Cash,Completed
+13-Oct-16,Thursday,14:25:00,14,13-Oct-16,Thursday,14:29:00,00:04:00,Business,Cary,Cary,1.6,Errand/Supplies,4,82.8,8,Card,Completed
+09-Oct-16,Sunday,14:43:00,14,09-Oct-16,Sunday,14:51:00,00:08:00,Business,Cary,Cary,2.4,Meal/Entertain,3,109.2,10,Card,Completed
+20-Aug-16,Saturday,16:01:00,16,20-Aug-16,Saturday,16:06:00,00:05:00,Business,Cary,Cary,1,Meal/Entertain,3,63,6,Uber Cash,Completed
+28-Sep-16,Wednesday,10:41:00,10,28-Sep-16,Wednesday,10:50:00,00:09:00,Business,Whitebridge,Hazelwood,2,Meal/Entertain,3,96,,Cash,Completed
+01-Jul-16,Friday,12:33:00,12,01-Jul-16,Friday,12:41:00,00:08:00,Business,Hazelwood,Whitebridge,2.3,Errand/Supplies,3,105.9,10,Uber Cash,Completed
+01-Jun-16,Wednesday,16:24:00,16,01-Jun-16,Wednesday,16:32:00,00:08:00,Business,Whitebridge,Westpark Place,1.9,Errand/Supplies,3,92.7,9,UPI/e-Wallet,Completed
+12-Apr-16,Tuesday,17:17:00,17,12-Apr-16,Tuesday,17:22:00,00:05:00,Business,Cary,Cary,1.4,Errand/Supplies,3,76.2,7,Uber Cash,Completed
+29-Aug-16,Monday,17:27:00,17,29-Aug-16,Monday,17:29:00,00:02:00,Business,Cary,Cary,0.5,Errand/Supplies,3,46.5,,Card,Completed
+17-Oct-16,Monday,09:24:00,9,17-Oct-16,Monday,09:31:00,00:07:00,Business,Cary,Cary,1.8,Meeting,4,89.4,8,Card,Completed
+04-Sep-16,Sunday,10:19:00,10,04-Sep-16,Sunday,10:48:00,00:29:00,Business,Cary,Raleigh,18.7,Customer Visit,4,647.1,64,Uber Cash,Completed
+25-Jan-16,Monday,12:34:00,12,25-Jan-16,Monday,12:44:00,00:10:00,Business,Fairmont,Meredith Townes,3.4,Customer Visit,2,142.2,14,UPI/e-Wallet,Completed
+08-Sep-16,Thursday,14:05:00,14,08-Sep-16,Thursday,14:13:00,00:08:00,Business,Raleigh,Raleigh,2.7,Customer Visit,3,119.1,11,Uber Cash,Completed
+25-Jul-16,Monday,14:46:00,14,25-Jul-16,Monday,15:08:00,00:22:00,Business,Raleigh,Cary,12.9,Customer Visit,,455.7,45,Uber Cash,Completed
+17-Oct-16,Monday,12:28:00,12,17-Oct-16,Monday,13:00:00,00:32:00,Business,Cary,Raleigh,19,Temporary Site,4,657,65,Gift Card,Completed
+15-Jan-16,Friday,15:11:00,15,15-Jan-16,Friday,15:31:00,00:20:00,Business,Meredith Townes,Leesville Hollow,14.7,Meeting,3,515.1,51,UPI/e-Wallet,Completed
+26-Feb-16,Friday,16:21:00,16,26-Feb-16,Friday,16:51:00,00:30:00,Business,Raleigh,Cary,15.7,Meeting,3,548.1,54,UPI/e-Wallet,Completed
+25-May-16,Wednesday,09:31:00,9,25-May-16,Wednesday,09:45:00,00:14:00,Business,Cary,Cary,4.6,Customer Visit,0,181.8,18,UPI/e-Wallet,Completed
+15-Jun-16,Wednesday,10:56:00,10,15-Jun-16,Wednesday,11:07:00,00:11:00,Business,Cary,Cary,5.2,Meeting,5,201.6,20,UPI/e-Wallet,Completed
+04-Nov-16,Friday,11:43:00,11,04-Nov-16,Friday,12:03:00,00:20:00,Business,Cary,Durham,10.4,Meeting,4,373.2,37,UPI/e-Wallet,Completed
+01-May-16,Sunday,13:24:00,13,01-May-16,Sunday,13:47:00,00:23:00,Business,Durham,Cary,10.1,Meeting,5,363.3,36,UPI/e-Wallet,Completed
+01-Mar-16,Tuesday,18:31:00,18,01-Mar-16,Tuesday,18:52:00,00:21:00,Business,Cary,Apex,5.8,Errand/Supplies,2,221.4,22,UPI/e-Wallet,Completed
+17-Feb-16,Wednesday,21:21:00,21,17-Feb-16,Wednesday,21:40:00,00:19:00,Business,Apex,Cary,5.5,Meal/Entertain,1,211.5,21,Card,Completed
+31-Dec-16,Saturday,16:21:00,16,31-Dec-16,Saturday,16:33:00,00:12:00,Business,Cary,Apex,5.7,Errand/Supplies,1,218.1,21,Uber Cash,Completed
+30-Nov-16,Wednesday,18:09:00,18,30-Nov-16,Wednesday,18:24:00,00:15:00,Business,Apex,Cary,5.7,Customer Visit,2,218.1,21,Card,Completed
+30-Jun-16,Thursday,10:35:00,10,30-Jun-16,Thursday,11:15:00,00:40:00,Business,Cary,Chapel Hill,19.4,Customer Visit,3,670.2,67,Uber Cash,Completed
+16-Dec-16,Friday,12:10:00,12,16-Dec-16,Friday,12:43:00,00:33:00,Business,Chapel Hill,Cary,23.3,Customer Visit,0,798.9,,Cash,Completed
+28-Dec-16,Wednesday,12:56:00,12,28-Dec-16,Wednesday,13:07:00,00:11:00,Business,Northwoods,Whitebridge,3.9,Meal/Entertain,5,158.7,15,Uber Cash,Completed
+18-Mar-16,Friday,13:04:00,13,18-Mar-16,Friday,13:23:00,00:19:00,Business,Whitebridge,Williamsburg Manor,8.3,Meeting,2,303.9,30,Uber Cash,Completed
+01-Mar-16,Tuesday,13:51:00,13,01-Mar-16,Tuesday,14:06:00,00:15:00,Business,Cary,Cary,6,Errand/Supplies,2,228,22,Uber Cash,Completed
+07-Jun-16,Tuesday,14:38:00,14,07-Jun-16,Tuesday,14:42:00,00:04:00,Business,Cary,Cary,1.6,Errand/Supplies,4,82.8,8,Gift Card,Completed
+14-Dec-16,Wednesday,08:40:00,8,14-Dec-16,Wednesday,09:01:00,00:21:00,Business,Cary,Morrisville,5.2,Errand/Supplies,4,201.6,20,Gift Card,Completed
+04-Oct-16,Tuesday,09:37:00,9,04-Oct-16,Tuesday,10:09:00,00:32:00,Business,Morrisville,Cary,9.7,Meal/Entertain,3,350.1,35,UPI/e-Wallet,Completed
+25-Aug-16,Thursday,10:26:00,10,25-Aug-16,Thursday,10:32:00,00:06:00,Business,Cary,Cary,1.6,Meal/Entertain,5,82.8,8,UPI/e-Wallet,Completed
+06-Aug-16,Saturday,15:59:00,15,06-Aug-16,Saturday,16:03:00,00:04:00,Business,Cary,Cary,1.1,Meal/Entertain,1,66.3,6,Uber Cash,Completed
+05-Aug-16,Friday,16:35:00,16,05-Aug-16,Friday,16:39:00,00:04:00,Business,Cary,Cary,1.6,Meal/Entertain,5,82.8,8,UPI/e-Wallet,Completed
+25-May-16,Wednesday,18:04:00,18,25-May-16,Wednesday,18:31:00,00:27:00,Business,Whitebridge,Macgregor Downs,9,Meeting,,327,32,Cash,Completed
+23-Feb-16,Tuesday,20:36:00,20,23-Feb-16,Tuesday,20:55:00,00:19:00,Business,Cary,Cary,7.7,Meeting,2,284.1,28,Card,Completed
+28-May-16,Saturday,11:47:00,11,28-May-16,Saturday,12:07:00,00:20:00,Business,Cary,Durham,10.4,Meeting,0,373.2,37,Uber Cash,Completed
+31-Dec-16,Saturday,13:22:00,13,31-Dec-16,Saturday,13:41:00,00:19:00,Business,Durham,Cary,10.4,Meeting,5,373.2,37,UPI/e-Wallet,Completed
+26-Mar-16,Saturday,16:20:00,16,26-Mar-16,Saturday,16:53:00,00:33:00,Business,Cary,Raleigh,11.4,Between Offices,2,406.2,40,Uber Cash,Completed
+27-Sep-16,Tuesday,18:57:00,18,27-Sep-16,Tuesday,19:21:00,00:24:00,Business,Raleigh,Cary,9,Errand/Supplies,4,327,,UPI/e-Wallet,Completed
+05-Mar-16,Saturday,19:28:00,19,05-Mar-16,Saturday,19:37:00,00:09:00,Business,Edgehill Farms,Whitebridge,3.2,Meal/Entertain,1,135.6,13,Uber Cash,Completed
+03-Jul-16,Sunday,16:49:00,16,03-Jul-16,Sunday,17:01:00,00:12:00,Business,Cary,Apex,5.6,Errand/Supplies,1,214.8,21,Uber Cash,Completed
+15-Mar-16,Tuesday,18:03:00,18,15-Mar-16,Tuesday,18:17:00,00:14:00,Business,Apex,Cary,5.7,Customer Visit,4,218.1,21,UPI/e-Wallet,Completed
+12-Jun-16,Sunday,18:39:00,18,12-Jun-16,Sunday,18:53:00,00:14:00,Business,Cary,Morrisville,6.1,Temporary Site,1,231.3,23,Cash,Completed
+27-Jan-16,Wednesday,20:22:00,20,27-Jan-16,Wednesday,20:40:00,00:18:00,Business,Morrisville,Cary,6.1,Meeting,2,231.3,23,Cash,Completed
+03-Jan-16,Sunday,12:57:00,12,03-Jan-16,Sunday,13:08:00,00:11:00,Business,Whitebridge,Edgehill Farms,4.3,Meal/Entertain,3,171.9,17,Card,Completed
+11-Mar-16,Friday,14:00:00,14,11-Mar-16,Friday,14:10:00,00:10:00,Business,Edgehill Farms,Whitebridge,2.7,Meal/Entertain,5,119.1,0,Uber Cash,Completed
+29-May-16,Sunday,10:54:00,10,29-May-16,Sunday,11:07:00,00:13:00,Personal,Whitebridge,Northwoods,5.3,,4,204.9,20,Uber Cash,Completed
+06-Aug-16,Saturday,11:43:00,11,06-Aug-16,Saturday,11:50:00,00:07:00,Personal,Northwoods,Tanglewood,3,,2,129,12,UPI/e-Wallet,Completed
+07-Mar-16,Monday,13:36:00,13,07-Mar-16,Monday,13:52:00,00:16:00,Personal,Tanglewood,Preston,5.1,,1,198.3,19,Uber Cash,Completed
+19-Aug-16,Friday,13:58:00,13,19-Aug-16,Friday,14:02:00,00:04:00,Personal,Preston,Whitebridge,1.5,,5,79.5,7,Card,Completed
+30-Jan-16,Saturday,18:55:00,18,30-Jan-16,Saturday,19:11:00,00:16:00,Business,Cary,Morrisville,6.1,,4,231.3,,Card,Completed
+12-Mar-16,Saturday,20:24:00,20,12-Mar-16,Saturday,20:40:00,00:16:00,Business,Morrisville,Cary,6.1,Meal/Entertain,2,231.3,23,Uber Cash,Completed
+03-Oct-16,Monday,16:28:00,16,03-Oct-16,Monday,17:10:00,00:42:00,Business,Cary,Raleigh,17.3,Meal/Entertain,5,600.9,60,Uber Cash,Completed
+13-Apr-16,Wednesday,17:49:00,17,13-Apr-16,Wednesday,18:10:00,00:21:00,Business,Eastgate,Walnut Terrace,5.7,Meal/Entertain,1,218.1,21,UPI/e-Wallet,Completed
+21-Apr-16,Thursday,18:24:00,18,21-Apr-16,Thursday,18:46:00,00:22:00,Business,Raleigh,Morrisville,13.5,Temporary Site,,475.5,47,Card,Completed
+11-Apr-16,Monday,20:36:00,20,11-Apr-16,Monday,20:51:00,00:15:00,Business,Morrisville,Cary,6.1,Temporary Site,3,231.3,23,Card,Completed
+03-Aug-16,Wednesday,08:21:00,8,03-Aug-16,Wednesday,08:42:00,00:21:00,Business,Cary,Durham,8.5,Temporary Site,3,310.5,31,Card,Completed
+30-Aug-16,Tuesday,10:45:00,10,30-Aug-16,Tuesday,10:52:00,00:07:00,Business,Durham,Morrisville,2.6,Temporary Site,4,115.8,11,Card,Completed
+18-Jan-16,Monday,11:14:00,11,18-Jan-16,Monday,11:35:00,00:21:00,Business,Morrisville,Raleigh,17,Customer Visit,2,591,59,Card,Completed
+17-Jun-16,Friday,13:02:00,13,17-Jun-16,Friday,13:36:00,00:34:00,Business,Raleigh,Cary,18,Meeting,1,624,62,Card,Completed
+19-Apr-16,Tuesday,14:49:00,14,19-Apr-16,Tuesday,15:06:00,00:17:00,Business,Cary,Morrisville,8.4,Meeting,4,307.2,30,Card,Completed
+20-Mar-16,Sunday,15:33:00,15,20-Mar-16,Sunday,16:06:00,00:33:00,Business,Morrisville,Cary,11.5,Customer Visit,1,409.5,40,Card,Completed
+13-May-16,Friday,14:21:00,14,13-May-16,Friday,14:41:00,00:20:00,Business,Cary,Morrisville,8.9,Meeting,0,323.7,,Cash,Completed
+04-Feb-16,Thursday,23:45:00,23,04-Feb-16,Thursday,00:01:00,00:16:00,Personal,East Elmhurst,Jackson Heights,2.7,,2,119.1,11,Card,Completed
+18-Jul-16,Monday,00:50:00,0,18-Jul-16,Monday,01:00:00,00:10:00,Personal,Jackson Heights,East Elmhurst,1.8,,1,89.4,8,UPI/e-Wallet,Completed
+01-Apr-16,Friday,14:07:00,14,01-Apr-16,Friday,14:40:00,00:33:00,,East Elmhurst,New York,8.1,Meeting,5,297.3,29,Card,Completed
+24-Sep-16,Saturday,14:46:00,14,24-Sep-16,Saturday,15:03:00,00:17:00,,Midtown,Midtown West,2,Meeting,4,96,9,Cash,Completed
+08-Aug-16,Monday,16:35:00,16,08-Aug-16,Monday,17:02:00,00:27:00,,New York,Long Island City,13,Meeting,4,459,45,Card,Completed
+02-May-16,Monday,17:06:00,17,02-May-16,Monday,17:29:00,00:23:00,,Long Island City,Jamaica,13.9,Meeting,3,488.7,48,Uber Cash,Completed
+11-Feb-16,Thursday,03:21:00,3,11-Feb-16,Thursday,04:13:00,00:52:00,,Katunayaka,Unknown Location,43.7,Customer Visit,4,1472.1,47,Cash,Completed
+20-Aug-16,Saturday,08:29:00,8,20-Aug-16,Saturday,09:34:00,01:05:00,,Unknown Location,Colombo,14.1,,5,495.3,49,Uber Cash,Cancelled 
+13-Sep-16,Tuesday,10:31:00,10,13-Sep-16,Tuesday,10:41:00,00:10:00,,Colombo,Colombo,2.6,,1,115.8,11,Uber Cash,Completed
+28-Mar-16,Monday,11:32:00,11,28-Mar-16,Monday,12:02:00,00:30:00,Business,Colombo,Colombo,4.5,,2,178.5,17,Uber Cash,Completed
+28-Feb-16,Sunday,12:39:00,12,28-Feb-16,Sunday,12:42:00,00:03:00,Business,Colombo,Colombo,1.7,,3,86.1,8,Cash,Completed
+11-Dec-16,Sunday,13:43:00,13,11-Dec-16,Sunday,13:55:00,00:12:00,Business,Colombo,Colombo,1.8,Temporary Site,3,89.4,,Uber Cash,Completed
+23-Jan-16,Saturday,16:34:00,16,23-Jan-16,Saturday,17:10:00,00:36:00,Business,Colombo,Colombo,6,,4,228,,Uber Cash,Completed
+15-Nov-16,Tuesday,17:17:00,17,15-Nov-16,Tuesday,17:26:00,00:09:00,Business,Colombo,Nugegoda,1.1,Meal/Entertain,2,66.3,,Gift Card,Completed
+17-Mar-16,Thursday,17:40:00,17,17-Mar-16,Thursday,17:44:00,00:04:00,Business,Nugegoda,Unknown Location,3.6,Errand/Supplies,2,148.8,,UPI/e-Wallet,Completed
+24-Feb-16,Wednesday,13:18:00,13,24-Feb-16,Wednesday,14:04:00,00:46:00,Business,Unknown Location,Colombo,14.7,Temporary Site,5,515.1,,Uber Cash,Cancelled 
+04-Jun-16,Saturday,15:17:00,15,04-Jun-16,Saturday,15:22:00,00:05:00,Business,Colombo,Colombo,1.7,Meal/Entertain,1,86.1,,Card,Completed
+17-Mar-16,Thursday,15:33:00,15,17-Mar-16,Thursday,16:17:00,00:44:00,Business,Colombo,Katunayaka,21.4,Temporary Site,5,736.2,,Uber Cash,Completed
+22-May-16,Sunday,16:38:00,16,22-May-16,Sunday,16:43:00,00:05:00,Business,Katunayaka,Katunayaka,0.5,Errand/Supplies,5,46.5,,Cash,Completed
+10-Apr-16,Sunday,08:19:00,8,10-Apr-16,Sunday,08:27:00,00:08:00,Business,Unknown Location,Unknown Location,23.5,Temporary Site,0,805.5,80,Uber Cash,Cancelled 
+11-Nov-16,Friday,14:03:00,14,11-Nov-16,Friday,14:45:00,00:42:00,Business,Unknown Location,Islamabad,12.7,Temporary Site,1,449.1,44,Card,Cancelled 
+07-Feb-16,Sunday,15:16:00,15,07-Feb-16,Sunday,15:31:00,00:15:00,Business,Islamabad,Unknown Location,6,Temporary Site,5,228,22,Gift Card,Completed
+31-Mar-16,Thursday,18:44:00,18,31-Mar-16,Thursday,18:58:00,00:14:00,Business,Unknown Location,Islamabad,5.2,Customer Visit,1,201.6,,Cash,Cancelled 
+03-Aug-16,Wednesday,19:27:00,19,03-Aug-16,Wednesday,20:08:00,00:41:00,Business,Islamabad,Unknown Location,10,Meeting,0,360,36,Gift Card,Completed
+18-Apr-16,Monday,09:02:00,9,18-Apr-16,Monday,09:14:00,00:12:00,Business,Unknown Location,Unknown Location,18.3,Meeting,2,633.9,63,Card,Cancelled 
+29-Jun-16,Wednesday,09:21:00,9,29-Jun-16,Wednesday,09:51:00,00:30:00,Business,Unknown Location,Unknown Location,11.2,Meeting,1,399.6,39,Gift Card,Cancelled 
+25-Aug-16,Thursday,10:21:00,10,25-Aug-16,Thursday,10:48:00,00:27:00,Business,Unknown Location,Islamabad,7.6,Meeting,5,280.8,28,UPI/e-Wallet,Cancelled 
+26-Jan-16,Tuesday,11:20:00,11,26-Jan-16,Tuesday,11:26:00,00:06:00,Personal,Islamabad,Islamabad,1.5,,3,79.5,7,Cash,Completed
+12-Mar-16,Saturday,11:45:00,11,12-Mar-16,Saturday,11:50:00,00:05:00,Personal,Islamabad,Islamabad,1,,5,63,6,UPI/e-Wallet,Completed
+24-Aug-16,Wednesday,12:09:00,12,24-Aug-16,Wednesday,12:27:00,00:18:00,Business,Islamabad,Unknown Location,7.3,Temporary Site,0,270.9,27,Uber Cash,Completed
+14-May-16,Saturday,16:26:00,16,14-May-16,Saturday,16:45:00,00:19:00,Business,Unknown Location,Islamabad,3.5,,1,145.5,14,Uber Cash,Cancelled 
+29-Sep-16,Thursday,17:09:00,17,29-Sep-16,Thursday,17:20:00,00:11:00,Business,Islamabad,Islamabad,4.2,,0,168.6,16,UPI/e-Wallet,Completed
+11-Oct-16,Tuesday,20:08:00,20,11-Oct-16,Tuesday,20:30:00,00:22:00,Personal,Islamabad,Unknown Location,13.6,,3,478.8,47,Uber Cash,Completed
+15-Oct-16,Saturday,20:34:00,20,15-Oct-16,Saturday,20:51:00,00:17:00,Personal,Unknown Location,Unknown Location,2.5,,5,112.5,11,Card,Cancelled 
+27-Aug-16,Saturday,07:59:00,7,27-Aug-16,Saturday,08:32:00,00:33:00,Personal,Unknown Location,Islamabad,14.4,,5,505.2,50,Gift Card,Cancelled 
+07-Dec-16,Wednesday,10:48:00,10,07-Dec-16,Wednesday,10:56:00,00:08:00,Personal,Islamabad,Islamabad,3,,4,129,,Cash,Completed
+17-Feb-16,Wednesday,11:45:00,11,17-Feb-16,Wednesday,11:53:00,00:08:00,Personal,Islamabad,Islamabad,1.5,,,79.5,7,Uber Cash,Completed
+19-May-16,Thursday,12:41:00,12,19-May-16,Thursday,13:17:00,00:36:00,Business,Islamabad,R?walpindi,18.4,,3,637.2,63,Gift Card,Completed
+08-Apr-16,Friday,14:50:00,14,08-Apr-16,Friday,15:54:00,01:04:00,Business,R?walpindi,R?walpindi,23.1,Meeting,1,792.3,79,Card,Completed
+06-Aug-16,Saturday,16:59:00,16,06-Aug-16,Saturday,17:54:00,00:55:00,Personal,R?walpindi,Unknown Location,16.5,,2,574.5,57,Uber Cash,Completed
+03-Jul-16,Sunday,18:00:00,18,03-Jul-16,Sunday,18:03:00,00:03:00,Business,Unknown Location,Unknown Location,3.2,Errand/Supplies,1,135.6,13,Uber Cash,Cancelled 
+04-May-16,Wednesday,19:28:00,19,04-May-16,Wednesday,19:49:00,00:21:00,Business,Unknown Location,Unknown Location,7.7,Errand/Supplies,4,284.1,28,UPI/e-Wallet,Cancelled 
+29-Jan-16,Friday,09:07:00,9,29-Jan-16,Friday,09:46:00,00:39:00,Business,Unknown Location,Islamabad,14.5,,2,508.5,50,Uber Cash,Cancelled 
+13-Aug-16,Saturday,11:39:00,11,13-Aug-16,Saturday,11:43:00,00:04:00,Business,Unknown Location,Islamabad,2.4,Errand/Supplies,1,109.2,10,Uber Cash,Cancelled 
+21-Dec-16,Wednesday,11:47:00,11,21-Dec-16,Wednesday,12:01:00,00:14:00,Business,Islamabad,Islamabad,4.6,Errand/Supplies,3,181.8,18,Card,Completed
+30-Dec-16,Friday,12:13:00,12,30-Dec-16,Friday,12:35:00,00:22:00,Business,Islamabad,Unknown Location,8.8,Meal/Entertain,5,320.4,32,Uber Cash,Completed
+06-Mar-16,Sunday,12:51:00,12,06-Mar-16,Sunday,13:12:00,00:21:00,Business,Unknown Location,Unknown Location,8.3,Temporary Site,4,303.9,30,Uber Cash,Cancelled 
+16-Dec-16,Friday,13:33:00,13,16-Dec-16,Friday,14:30:00,00:57:00,Business,Unknown Location,Unknown Location,22.7,Temporary Site,3,779.1,77,Card,Cancelled 
+28-Mar-16,Monday,14:36:00,14,28-Mar-16,Monday,15:03:00,00:27:00,Business,Unknown Location,Islamabad,13,Temporary Site,0,459,45,Uber Cash,Cancelled 
+20-Sep-16,Tuesday,15:14:00,15,20-Sep-16,Tuesday,15:31:00,00:17:00,Business,Islamabad,Noorpur Shahan,8.1,Temporary Site,1,297.3,29,Uber Cash,Completed
+10-Jan-16,Sunday,15:36:00,15,10-Jan-16,Sunday,15:41:00,00:05:00,Business,Noorpur Shahan,Unknown Location,2.2,Meal/Entertain,2,102.6,,UPI/e-Wallet,Completed
+25-Apr-16,Monday,16:04:00,16,25-Apr-16,Monday,16:32:00,00:28:00,Business,Unknown Location,Unknown Location,9.7,,5,350.1,35,Uber Cash,Cancelled 
+22-Dec-16,Thursday,23:15:00,23,22-Dec-16,Thursday,23:52:00,00:37:00,Business,Unknown Location,R?walpindi,20,Meeting,5,690,69,Uber Cash,Cancelled 
+26-Jun-16,Sunday,21:54:00,21,26-Jun-16,Sunday,22:09:00,00:15:00,Business,Morrisville,Cary,8.1,Customer Visit,0,297.3,29,Card,Completed
+19-May-16,Thursday,14:30:00,14,19-May-16,Thursday,14:35:00,00:05:00,Business,Whitebridge,Preston,1.5,,0,79.5,7,Uber Cash,Completed
+04-Dec-16,Sunday,15:19:00,15,04-Dec-16,Sunday,15:25:00,00:06:00,Business,Preston,Whitebridge,1.7,Errand/Supplies,0,86.1,8,Uber Cash,Completed
+18-Mar-16,Friday,16:27:00,16,18-Mar-16,Friday,16:35:00,00:08:00,Business,Whitebridge,Heritage Pines,3.1,Errand/Supplies,,132.3,13,Card,Completed
+11-Sep-16,Sunday,16:47:00,16,11-Sep-16,Sunday,17:02:00,00:15:00,Business,Heritage Pines,Whitebridge,3.2,Errand/Supplies,,135.6,13,Uber Cash,Completed
+31-May-16,Tuesday,17:16:00,17,31-May-16,Tuesday,17:36:00,00:20:00,Business,Whitebridge,Tanglewood,6,Meal/Entertain,,228,,Cash,Completed
+15-Dec-16,Thursday,18:22:00,18,15-Dec-16,Thursday,18:39:00,00:17:00,Business,Tanglewood,Whitebridge,5.8,Meal/Entertain,0,221.4,22,Uber Cash,Completed
+07-Nov-16,Monday,09:06:00,9,07-Nov-16,Monday,09:29:00,00:23:00,Business,Whitebridge,Westpark Place,6.3,,,237.9,23,Card,Completed
+10-Feb-16,Wednesday,11:05:00,11,10-Feb-16,Wednesday,11:11:00,00:06:00,Personal,Westpark Place,Whitebridge,1.7,,0,86.1,8,Uber Cash,Completed
+11-Sep-16,Sunday,11:35:00,11,11-Sep-16,Sunday,11:59:00,00:24:00,Business,Cary,Durham,10.6,Meeting,3,379.8,37,Uber Cash,Completed
+28-Nov-16,Monday,13:01:00,13,28-Nov-16,Monday,13:24:00,00:23:00,Business,Durham,Cary,9.9,Meeting,0,356.7,35,UPI/e-Wallet,Completed
+01-Jul-16,Friday,14:38:00,14,01-Jul-16,Friday,14:46:00,00:08:00,Personal,Whitebridge,Westpark Place,1.9,,2,92.7,9,Uber Cash,Completed
+18-Sep-16,Sunday,15:00:00,15,18-Sep-16,Sunday,15:18:00,00:18:00,Personal,Westpark Place,Hazelwood,4.2,,3,168.6,16,Uber Cash,Completed
+02-May-16,Monday,17:01:00,17,02-May-16,Monday,17:12:00,00:11:00,Personal,Hazelwood,Whitebridge,2,,4,96,9,Uber Cash,Completed
+06-May-16,Friday,05:22:00,5,06-May-16,Friday,05:38:00,00:16:00,Business,Whitebridge,Waverly Place,7.7,Meeting,2,284.1,,Cash,Completed
+02-Aug-16,Tuesday,09:26:00,9,02-Aug-16,Tuesday,09:42:00,00:16:00,Business,Waverly Place,Whitebridge,6.8,Meeting,0,254.4,0,Gift Card,Completed
+09-Apr-16,Saturday,11:07:00,11,09-Apr-16,Saturday,11:14:00,00:07:00,Personal,Whitebridge,Westpark Place,2.1,,5,99.3,9,UPI/e-Wallet,Completed
+07-Jun-16,Tuesday,11:30:00,11,07-Jun-16,Tuesday,11:40:00,00:10:00,Business,Cary,Apex,3.8,Meeting,4,155.4,15,UPI/e-Wallet,Completed
+23-Jul-16,Saturday,12:36:00,12,23-Jul-16,Saturday,12:48:00,00:12:00,Business,Apex,Cary,5.6,Meeting,0,214.8,21,UPI/e-Wallet,Completed
+19-Mar-16,Saturday,14:55:00,14,19-Mar-16,Saturday,15:03:00,00:08:00,Business,Whitebridge,Hazelwood,2.6,,3,115.8,11,Gift Card,Completed
+30-Jan-16,Saturday,16:40:00,16,30-Jan-16,Saturday,17:00:00,00:20:00,Business,Hazelwood,Whitebridge,6.6,Customer Visit,3,247.8,24,UPI/e-Wallet,Completed
+18-Oct-16,Tuesday,18:47:00,18,18-Oct-16,Tuesday,19:10:00,00:23:00,Business,Whitebridge,Wayne Ridge,8,Meal/Entertain,5,294,29,Gift Card,Completed
+13-Nov-16,Sunday,21:27:00,21,13-Nov-16,Sunday,21:45:00,00:18:00,Business,Wayne Ridge,Whitebridge,8,Meeting,2,294,29,Gift Card,Completed
+07-Dec-16,Wednesday,09:45:00,9,07-Dec-16,Wednesday,09:52:00,00:07:00,Personal,Whitebridge,Westpark Place,2.2,,2,102.6,,Cash,Completed
+10-Apr-16,Sunday,11:04:00,11,10-Apr-16,Sunday,11:10:00,00:06:00,Business,Westpark Place,Whitebridge,2.3,Errand/Supplies,3,105.9,10,Card,Completed
+26-Feb-16,Friday,14:44:00,14,26-Feb-16,Friday,14:58:00,00:14:00,Business,Whitebridge,Northwoods,5.2,Meal/Entertain,0,201.6,20,Gift Card,Completed
+25-Oct-16,Tuesday,15:27:00,15,25-Oct-16,Tuesday,15:48:00,00:21:00,Business,Cary,Raleigh,7.6,Customer Visit,5,280.8,28,Gift Card,Completed
+26-Feb-16,Friday,16:02:00,16,26-Feb-16,Friday,16:42:00,00:40:00,Business,Raleigh,Cary,17.3,Meeting,1,600.9,60,UPI/e-Wallet,Completed
+29-Sep-16,Thursday,07:47:00,7,29-Sep-16,Thursday,08:06:00,00:19:00,Business,Cary,Durham,9.9,Meeting,4,356.7,35,Gift Card,Completed
+21-Aug-16,Sunday,09:46:00,9,21-Aug-16,Sunday,10:03:00,00:17:00,Business,Durham,Cary,9.9,Customer Visit,3,356.7,35,UPI/e-Wallet,Completed
+20-Apr-16,Wednesday,11:46:00,11,20-Apr-16,Wednesday,12:06:00,00:20:00,Business,Cary,Durham,10.4,Meeting,4,373.2,37,Gift Card,Completed
+06-Apr-16,Wednesday,13:03:00,13,06-Apr-16,Wednesday,13:25:00,00:22:00,Business,Durham,Cary,10.9,Meeting,1,389.7,38,UPI/e-Wallet,Completed
+12-May-16,Thursday,13:40:00,13,12-May-16,Thursday,14:09:00,00:29:00,Business,Cary,Raleigh,15.7,Customer Visit,4,548.1,,Cash,Completed
+16-Apr-16,Saturday,15:56:00,15,16-Apr-16,Saturday,16:08:00,00:12:00,Business,Raleigh,Raleigh,4.9,Meal/Entertain,2,191.7,19,Uber Cash,Completed
+21-Jun-16,Tuesday,16:16:00,16,21-Jun-16,Tuesday,16:22:00,00:06:00,Business,Fayetteville Street,Depot Historic District,0.8,Errand/Supplies,2,56.4,5,Uber Cash,Completed
+04-Dec-16,Sunday,16:43:00,16,04-Dec-16,Sunday,17:12:00,00:29:00,Business,Raleigh,Cary,13.5,Meeting,1,475.5,47,UPI/e-Wallet,Completed
+25-Sep-16,Sunday,19:02:00,19,25-Sep-16,Sunday,19:08:00,00:06:00,Business,Cary,Morrisville,1.9,Temporary Site,2,92.7,9,Gift Card,Completed
+27-Apr-16,Wednesday,19:16:00,19,27-Apr-16,Wednesday,19:25:00,00:09:00,Business,Morrisville,Cary,2,Meal/Entertain,2,96,0,UPI/e-Wallet,Completed
+17-Oct-16,Monday,11:44:00,11,17-Oct-16,Monday,11:59:00,00:15:00,Business,Cary,Morrisville,6.5,Meal/Entertain,2,244.5,24,Gift Card,Completed
+05-Dec-16,Monday,12:57:00,12,05-Dec-16,Monday,13:12:00,00:15:00,Personal,Weston,Weston,4.2,,5,168.6,16,Card,Completed
+14-Nov-16,Monday,14:08:00,14,14-Nov-16,Monday,14:18:00,00:10:00,Personal,Morrisville,Cary,3.5,,4,145.5,14,Gift Card,Completed
+24-Jan-16,Sunday,14:39:00,14,24-Jan-16,Sunday,15:01:00,00:22:00,Business,Whitebridge,Wayne Ridge,7.8,Meal/Entertain,3,287.4,,UPI/e-Wallet,Completed
+08-Dec-16,Thursday,16:52:00,16,08-Dec-16,Thursday,17:13:00,00:21:00,Business,Cary,Morrisville,7.8,Meal/Entertain,2,287.4,28,Gift Card,Completed
+22-Jan-16,Friday,17:23:00,17,22-Jan-16,Friday,17:34:00,00:11:00,Business,Morrisville,Cary,3.9,Meal/Entertain,2,158.7,15,Card,Completed
+02-Aug-16,Tuesday,09:10:00,9,02-Aug-16,Tuesday,09:20:00,00:10:00,Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies,0,122.4,12,Uber Cash,Completed
+20-Jun-16,Monday,09:23:00,9,20-Jun-16,Monday,09:47:00,00:24:00,Business,Cary,Raleigh,12.4,Customer Visit,5,439.2,43,Uber Cash,Completed
+04-Dec-16,Sunday,12:10:00,12,04-Dec-16,Sunday,12:26:00,00:16:00,Business,Fayetteville Street,Meredith Townes,5.9,Customer Visit,0,224.7,22,UPI/e-Wallet,Completed
+06-Nov-16,Sunday,13:57:00,13,06-Nov-16,Sunday,14:18:00,00:21:00,Business,Meredith Townes,Leesville Hollow,9.4,Meeting,0,340.2,34,Uber Cash,Completed
+16-Jul-16,Saturday,15:19:00,15,16-Jul-16,Saturday,15:45:00,00:26:00,Business,Raleigh,Cary,11.9,Between Offices,0,422.7,42,Card,Completed
+15-Dec-16,Thursday,14:38:00,14,15-Dec-16,Thursday,14:55:00,00:17:00,Business,Whitebridge,Waverly Place,7.2,Between Offices,5,267.6,0,Card,Completed
+25-Sep-16,Sunday,15:35:00,15,25-Sep-16,Sunday,16:00:00,00:25:00,Business,Waverly Place,Whitebridge,7.6,Meal/Entertain,5,280.8,28,Card,Completed
+06-Feb-16,Saturday,16:13:00,16,06-Feb-16,Saturday,16:25:00,00:12:00,Personal,Whitebridge,Whitebridge,1.6,,,82.8,8,Uber Cash,Completed
+08-Mar-16,Tuesday,03:36:00,3,08-Mar-16,Tuesday,03:53:00,00:17:00,Business,Cary,Morrisville,8.4,Meeting,0,307.2,30,UPI/e-Wallet,Completed
+20-Mar-16,Sunday,10:08:00,10,20-Mar-16,Sunday,10:37:00,00:29:00,Business,East Austin,West University,12.8,Meeting,0,452.4,,Cash,Completed
+10-Jun-16,Friday,14:39:00,14,10-Jun-16,Friday,14:55:00,00:16:00,Business,West University,South Congress,2.3,,5,105.9,10,UPI/e-Wallet,Completed
+18-Oct-16,Tuesday,16:18:00,16,18-Oct-16,Tuesday,16:28:00,00:10:00,Business,South Congress,Arts District,1.6,,4,82.8,8,Card,Completed
+27-Feb-16,Saturday,09:47:00,9,27-Feb-16,Saturday,09:59:00,00:12:00,Business,The Drag,Congress Ave District,2,Meal/Entertain,3,96,9,Uber Cash,Completed
+11-Jun-16,Saturday,10:29:00,10,11-Jun-16,Saturday,10:36:00,00:07:00,Business,Congress Ave District,Downtown,0.8,,3,56.4,5,Uber Cash,Completed
+28-Dec-16,Wednesday,11:57:00,11,28-Dec-16,Wednesday,12:04:00,00:07:00,Business,Downtown,Red River District,1.2,,3,69.6,6,UPI/e-Wallet,Completed
+05-May-16,Thursday,13:43:00,13,05-May-16,Thursday,13:51:00,00:08:00,Business,Red River District,Downtown,1,,5,63,6,Uber Cash,Completed
+19-Sep-16,Monday,19:21:00,19,19-Sep-16,Monday,19:35:00,00:14:00,Business,South Congress,The Drag,2.1,,3,99.3,9,UPI/e-Wallet,Completed
+24-Nov-16,Thursday,09:13:00,9,24-Nov-16,Thursday,09:22:00,00:09:00,Business,The Drag,South Congress,2.2,,1,102.6,10,Uber Cash,Completed
+03-May-16,Tuesday,18:27:00,18,03-May-16,Tuesday,18:37:00,00:10:00,Personal,South Congress,The Drag,1.9,,4,92.7,9,Card,Completed
+18-Jan-16,Monday,09:07:00,9,18-Jan-16,Monday,09:37:00,00:30:00,Business,The Drag,Convention Center District,5.7,Meal/Entertain,4,218.1,21,Uber Cash,Completed
+05-Dec-16,Monday,18:23:00,18,05-Dec-16,Monday,18:43:00,00:20:00,Business,South Congress,North Austin,8.4,Meal/Entertain,1,307.2,30,UPI/e-Wallet,Completed
+21-Oct-16,Friday,20:07:00,20,21-Oct-16,Friday,20:28:00,00:21:00,Business,Georgian Acres,The Drag,6.2,Meal/Entertain,3,234.6,,Cash,Completed
+17-Mar-16,Thursday,20:39:00,20,17-Mar-16,Thursday,20:58:00,00:19:00,Business,The Drag,North Austin,10.5,Meal/Entertain,2,376.5,37,Uber Cash,Completed
+28-Apr-16,Thursday,21:11:00,21,28-Apr-16,Thursday,21:23:00,00:12:00,Business,North Austin,Coxville,7.2,Meal/Entertain,2,267.6,26,Card,Completed
+18-May-16,Wednesday,22:19:00,22,18-May-16,Wednesday,22:39:00,00:20:00,Business,Coxville,The Drag,12.5,,1,442.5,44,Uber Cash,Completed
+22-Jul-16,Friday,08:34:00,8,22-Jul-16,Friday,08:49:00,00:15:00,,The Drag,South Congress,2,Errand/Supplies,4,96,9,Uber Cash,Completed
+05-Jan-16,Tuesday,18:39:00,18,05-Jan-16,Tuesday,18:55:00,00:16:00,Business,South Congress,The Drag,2.7,,2,119.1,11,UPI/e-Wallet,Completed
+24-Jul-16,Sunday,08:45:00,8,24-Jul-16,Sunday,08:57:00,00:12:00,Business,The Drag,Convention Center District,2,Meal/Entertain,1,96,9,Uber Cash,Completed
+11-Aug-16,Thursday,20:48:00,20,11-Aug-16,Thursday,21:01:00,00:13:00,Business,Downtown,The Drag,2.8,Meal/Entertain,2,122.4,12,UPI/e-Wallet,Completed
+04-Nov-16,Friday,11:34:00,11,04-Nov-16,Friday,11:45:00,00:11:00,Business,The Drag,Congress Ave District,1.7,Meal/Entertain,0,86.1,8,Uber Cash,Completed
+08-Dec-16,Thursday,14:44:00,14,08-Dec-16,Thursday,14:55:00,00:11:00,,Convention Center District,West University,2,,3,96,,Card,Completed
+29-Mar-16,Tuesday,18:43:00,18,29-Mar-16,Tuesday,18:56:00,00:13:00,,West University,Congress Ave District,2.1,Meal/Entertain,,99.3,,Uber Cash,Completed
+27-Feb-16,Saturday,00:33:00,0,27-Feb-16,Saturday,00:44:00,00:11:00,,Downtown,The Drag,1.7,,4,86.1,8,UPI/e-Wallet,Completed
+06-Feb-16,Saturday,12:52:00,12,06-Feb-16,Saturday,15:11:00,02:19:00,,Austin,Katy,136,Customer Visit,1,4518,50,Uber Cash,Completed
+03-Oct-16,Monday,15:16:00,15,03-Oct-16,Monday,15:58:00,00:42:00,,Katy,Houston,30.2,Meeting,0,1026.6,50,Uber Cash,Completed
+11-Nov-16,Friday,17:20:00,17,11-Nov-16,Friday,18:02:00,00:42:00,,Midtown,Alief,15.5,Meal/Entertain,1,541.5,54,UPI/e-Wallet,Completed
+21-Nov-16,Monday,18:47:00,18,21-Nov-16,Monday,19:09:00,00:22:00,,Houston,Houston,4.9,,2,191.7,19,UPI/e-Wallet,Completed
+06-Apr-16,Wednesday,20:57:00,20,06-Apr-16,Wednesday,21:28:00,00:31:00,,Houston,Houston,12.6,,0,445.8,44,UPI/e-Wallet,Completed
+14-Jan-16,Thursday,21:48:00,21,14-Jan-16,Thursday,22:04:00,00:16:00,,Sharpstown,Midtown,10.4,,0,373.2,37,Gift Card,Completed
+17-Jan-16,Sunday,07:15:00,7,17-Jan-16,Sunday,07:21:00,00:06:00,,Midtown,Midtown,1.1,Meal/Entertain,3,66.3,0,Card,Completed
+18-Mar-16,Friday,08:35:00,8,18-Mar-16,Friday,08:43:00,00:08:00,Business,Midtown,Midtown,1.1,Meal/Entertain,1,66.3,6,Card,Completed
+13-Jul-16,Wednesday,18:24:00,18,13-Jul-16,Wednesday,19:08:00,00:44:00,Business,Midtown,Sharpstown,13.2,Meeting,5,465.6,46,Uber Cash,Completed
+09-Nov-16,Wednesday,19:23:00,19,09-Nov-16,Wednesday,19:29:00,00:06:00,Business,Sharpstown,Sharpstown,1,Errand/Supplies,2,63,,Cash,Completed
+09-Jul-16,Saturday,21:01:00,21,09-Jul-16,Saturday,21:15:00,00:14:00,Business,Sharpstown,Midtown,9.2,Customer Visit,0,333.6,33,UPI/e-Wallet,Completed
+15-Jul-16,Friday,09:10:00,9,15-Jul-16,Friday,09:25:00,00:15:00,Business,Midtown,Sharpstown,9.4,Meal/Entertain,3,340.2,34,Gift Card,Completed
+14-Mar-16,Monday,12:50:00,12,14-Mar-16,Monday,13:13:00,00:23:00,Business,Houston,Sugar Land,12,Customer Visit,4,426,42,UPI/e-Wallet,Completed
+31-Jan-16,Sunday,14:01:00,14,31-Jan-16,Sunday,14:57:00,00:56:00,Business,Sugar Land,Houston,35.1,Customer Visit,0,1188.3,50,Uber Cash,Completed
+31-Mar-16,Thursday,15:34:00,15,31-Mar-16,Thursday,16:38:00,01:04:00,Business,Houston,Galveston,36.5,Meal/Entertain,4,1234.5,50,UPI/e-Wallet,Completed
+25-Jan-16,Monday,17:17:00,17,25-Jan-16,Monday,17:32:00,00:15:00,Business,Galveston,Port Bolivar,3.1,Meal/Entertain,2,132.3,13,Gift Card,Completed
+30-Nov-16,Wednesday,17:37:00,17,30-Nov-16,Wednesday,17:47:00,00:10:00,Business,Port Bolivar,Port Bolivar,2.1,Errand/Supplies,3,99.3,,UPI/e-Wallet,Completed
+14-Aug-16,Sunday,17:52:00,17,14-Aug-16,Sunday,18:00:00,00:08:00,Business,Port Bolivar,Port Bolivar,1.2,,4,69.6,6,Uber Cash,Completed
+02-Nov-16,Wednesday,18:53:00,18,02-Nov-16,Wednesday,19:29:00,00:36:00,Business,Port Bolivar,Galveston,7.5,Meeting,2,277.5,27,Card,Completed
+22-Sep-16,Thursday,19:33:00,19,22-Sep-16,Thursday,20:39:00,01:06:00,Business,Galveston,Houston,57,Customer Visit,3,1911,0,Gift Card,Completed
+12-Jun-16,Sunday,07:37:00,7,12-Jun-16,Sunday,07:48:00,00:11:00,Business,Midtown,Washington Avenue,5.9,Meeting,4,224.7,22,UPI/e-Wallet,Completed
+02-Feb-16,Tuesday,11:42:00,11,02-Feb-16,Tuesday,11:56:00,00:14:00,Business,Washington Avenue,Midtown,6.2,Meeting,3,234.6,0,Uber Cash,Completed
+03-Jul-16,Sunday,17:08:00,17,03-Jul-16,Sunday,17:34:00,00:26:00,Business,Midtown,Sharpstown,10.4,,,373.2,,Cash,Completed
+20-Feb-16,Saturday,18:34:00,18,20-Feb-16,Saturday,18:40:00,00:06:00,Personal,Sharpstown,Briar Meadow,1.2,,5,69.6,6,UPI/e-Wallet,Completed
+27-Jul-16,Wednesday,18:45:00,18,27-Jul-16,Wednesday,19:06:00,00:21:00,Business,Briar Meadow,Midtown,9.6,Customer Visit,1,346.8,34,Uber Cash,Completed
+17-Sep-16,Saturday,10:21:00,10,17-Sep-16,Saturday,10:26:00,00:05:00,Personal,Midtown,Downtown,1,,5,63,6,UPI/e-Wallet,Completed
+18-Apr-16,Monday,16:05:00,16,18-Apr-16,Monday,16:13:00,00:08:00,Business,Downtown,Midtown,0.9,Meal/Entertain,5,59.7,5,Uber Cash,Completed
+11-Feb-16,Thursday,18:59:00,18,11-Feb-16,Thursday,19:15:00,00:16:00,Business,Midtown,Sharpstown,8.8,,3,320.4,32,Card,Completed
+11-Jan-16,Monday,20:18:00,20,11-Jan-16,Monday,20:55:00,00:37:00,Business,Sharpstown,Midtown,25.6,Meal/Entertain,1,874.8,87,Card,Completed
+10-Jul-16,Sunday,06:17:00,6,10-Jul-16,Sunday,06:43:00,00:26:00,Business,Midtown,Greater Greenspoint,23,Meal/Entertain,1,789,78,Uber Cash,Completed
+17-Mar-16,Thursday,12:06:00,12,17-Mar-16,Thursday,12:24:00,00:18:00,Personal,Morrisville,Cary,8.1,,0,297.3,29,Card,Completed
+30-Nov-16,Wednesday,19:12:00,19,30-Nov-16,Wednesday,19:25:00,00:13:00,Personal,Whitebridge,Whitebridge,1.4,,5,76.2,,UPI/e-Wallet,Completed
+07-Mar-16,Monday,14:37:00,14,07-Mar-16,Monday,14:42:00,00:05:00,Personal,Whitebridge,Preston,1.7,,4,86.1,8,Uber Cash,Completed
+10-Apr-16,Sunday,14:53:00,14,10-Apr-16,Sunday,14:59:00,00:06:00,Personal,Preston,Whitebridge,1.6,,3,82.8,8,Card,Completed
+06-Sep-16,Tuesday,19:47:00,19,06-Sep-16,Tuesday,19:54:00,00:07:00,Personal,Whitebridge,Westpark Place,2,,2,96,9,Card,Completed
+21-May-16,Saturday,20:34:00,20,21-May-16,Saturday,20:40:00,00:06:00,Business,Westpark Place,Whitebridge,2.2,,1,102.6,10,Card,Completed
+10-May-16,Tuesday,13:24:00,13,10-May-16,Tuesday,16:22:00,02:58:00,Business,Cary,Latta,144,Customer Visit,4,4782,0,Card,Completed
+06-Feb-16,Saturday,16:52:00,16,06-Feb-16,Saturday,22:22:00,05:30:00,Business,Latta,Jacksonville,310.3,Customer Visit,3,10269.9,0,Card,Completed
+01-Jan-16,Friday,22:54:00,22,01-Jan-16,Friday,01:39:00,02:45:00,Business,Jacksonville,Kissimmee,201,Meeting,0,6663,0,Card,Completed
+27-Sep-16,Tuesday,14:05:00,14,27-Sep-16,Tuesday,14:29:00,00:24:00,Personal,Couples Glen,Isles of Buena Vista,6.7,,4,251.1,25,Card,Completed
+02-Feb-16,Tuesday,15:19:00,15,02-Feb-16,Tuesday,15:49:00,00:30:00,Personal,Kissimmee,Orlando,8.8,,0,320.4,,Cash,Completed
+26-Feb-16,Friday,16:26:00,16,26-Feb-16,Friday,16:30:00,00:04:00,Personal,Lake Reams,Lake Reams,1.2,,2,69.6,6,Uber Cash,Completed
+12-May-16,Thursday,00:31:00,0,12-May-16,Thursday,00:40:00,00:09:00,Business,Lake Reams,Lake Reams,2.1,Errand/Supplies,4,99.3,9,Card,Completed
+09-Oct-16,Sunday,01:11:00,1,09-Oct-16,Sunday,01:23:00,00:12:00,Business,Orlando,Kissimmee,6.6,Meal/Entertain,4,247.8,24,Card,Completed
+10-Sep-16,Saturday,15:31:00,15,10-Sep-16,Saturday,15:56:00,00:25:00,Business,Kissimmee,Orlando,6.1,Customer Visit,3,231.3,23,Uber Cash,Completed
+12-Sep-16,Monday,21:26:00,21,12-Sep-16,Monday,21:41:00,00:15:00,Personal,Orlando,Orlando,6.9,,2,257.7,25,Card,Completed
+27-Sep-16,Tuesday,23:04:00,23,27-Sep-16,Tuesday,23:18:00,00:14:00,Personal,Orlando,Kissimmee,7.3,,3,270.9,27,Uber Cash,Completed
+05-Jan-16,Tuesday,12:29:00,12,05-Jan-16,Tuesday,12:42:00,00:13:00,Personal,Kissimmee,Orlando,3.6,,4,148.8,14,Card,Completed
+14-Oct-16,Friday,19:30:00,19,14-Oct-16,Friday,20:23:00,00:53:00,Personal,Couples Glen,Vista East,27.2,,5,927.6,92,Uber Cash,Completed
+27-Aug-16,Saturday,22:55:00,22,27-Aug-16,Saturday,23:26:00,00:31:00,Personal,Orlando,Kissimmee,25.7,,4,878.1,,UPI/e-Wallet,Completed
+01-Aug-16,Monday,15:27:00,15,01-Aug-16,Monday,16:11:00,00:44:00,Personal,Kissimmee,Orlando,13.6,,5,478.8,0,Uber Cash,Completed
+18-May-16,Wednesday,18:20:00,18,18-May-16,Wednesday,18:39:00,00:19:00,Personal,Sand Lake Commons,Sky Lake,6.2,,5,234.6,23,Uber Cash,Completed
+14-May-16,Saturday,20:29:00,20,14-May-16,Saturday,20:44:00,00:15:00,Personal,Sky Lake,Sand Lake Commons,6,,0,228,22,Cash,Completed
+08-Jun-16,Wednesday,23:04:00,23,08-Jun-16,Wednesday,23:21:00,00:17:00,Personal,Orlando,Kissimmee,13.8,,3,485.4,48,Uber Cash,Completed
+23-Nov-16,Wednesday,22:05:00,22,23-Nov-16,Wednesday,22:55:00,00:50:00,Business,Orlando,Kissimmee,28.8,Meal/Entertain,2,980.4,0,Card,Completed
+02-Feb-16,Tuesday,12:47:00,12,02-Feb-16,Tuesday,13:22:00,00:35:00,Business,Kissimmee,Orlando,16.1,Temporary Site,1,561.3,56,Uber Cash,Completed
+03-Jul-16,Sunday,14:37:00,14,03-Jul-16,Sunday,15:09:00,00:32:00,Business,Orlando,Kissimmee,16.4,Meal/Entertain,2,571.2,0,Cash,Completed
+24-Sep-16,Saturday,13:43:00,13,24-Sep-16,Saturday,14:01:00,00:18:00,Business,Kissimmee,Kissimmee,11,Meeting,1,393,39,Uber Cash,Completed
+10-Jan-16,Sunday,14:36:00,14,10-Jan-16,Sunday,15:24:00,00:48:00,Business,Kissimmee,Orlando,15.5,Customer Visit,1,541.5,54,Uber Cash,Completed
+20-Oct-16,Thursday,16:01:00,16,20-Oct-16,Thursday,16:49:00,00:48:00,Business,Orlando,Kissimmee,20.3,Meeting,3,699.9,0,Cash,Completed
+10-Mar-16,Thursday,16:52:00,16,10-Mar-16,Thursday,16:57:00,00:05:00,Personal,Kissimmee,Kissimmee,0.7,,3,53.1,5,Uber Cash,Completed
+28-Jul-16,Thursday,08:48:00,8,28-Jul-16,Thursday,09:04:00,00:16:00,Personal,Kissimmee,Kissimmee,5.5,,1,211.5,21,Card,Completed
+12-Mar-16,Saturday,11:01:00,11,12-Mar-16,Saturday,11:16:00,00:15:00,Personal,Kissimmee,Kissimmee,5.1,,4,198.3,19,Uber Cash,Completed
+16-May-16,Monday,12:21:00,12,16-May-16,Monday,14:47:00,02:26:00,Business,Kissimmee,Daytona Beach,77.3,Customer Visit,3,2580.9,25,Uber Cash,Completed
+06-Sep-16,Tuesday,16:57:00,16,06-Sep-16,Tuesday,18:09:00,01:12:00,Business,Daytona Beach,Jacksonville,80.5,Customer Visit,1,2686.5,11,Card,Completed
+21-Apr-16,Thursday,19:38:00,19,21-Apr-16,Thursday,22:36:00,02:58:00,Business,Jacksonville,Ridgeland,174.2,Customer Visit,3,5778.6,50,Uber Cash,Completed
+09-Oct-16,Sunday,23:11:00,23,09-Oct-16,Sunday,01:34:00,02:23:00,Business,Ridgeland,Florence,144,Meeting,1,4782,0,Uber Cash,Completed
+03-Apr-16,Sunday,02:00:00,2,03-Apr-16,Sunday,04:16:00,02:16:00,Business,Florence,Cary,159.3,Meeting,1,5286.9,0,UPI/e-Wallet,Completed
+15-Aug-16,Monday,21:39:00,21,15-Aug-16,Monday,21:55:00,00:16:00,Business,Whitebridge,Wayne Ridge,7.9,Meal/Entertain,4,290.7,29,Uber Cash,Completed
+08-Jul-16,Friday,00:19:00,0,08-Jul-16,Friday,00:39:00,00:20:00,Business,Wayne Ridge,Whitebridge,8,Meal/Entertain,0,294,29,Card,Completed
+20-Dec-16,Tuesday,18:20:00,18,20-Dec-16,Tuesday,18:39:00,00:19:00,Business,Cary,Morrisville,6.1,Meal/Entertain,1,231.3,23,Uber Cash,Completed
+06-Apr-16,Wednesday,19:45:00,19,06-Apr-16,Wednesday,20:00:00,00:15:00,Business,Morrisville,Cary,6.1,Errand/Supplies,4,231.3,23,Card,Completed
+27-Oct-16,Thursday,12:30:00,12,27-Oct-16,Thursday,12:48:00,00:18:00,Business,Cary,Durham,10.5,Meeting,3,376.5,37,Card,Completed
+18-Oct-16,Tuesday,13:34:00,13,18-Oct-16,Tuesday,13:51:00,00:17:00,Business,Durham,Cary,8.7,Meal/Entertain,4,317.1,31,Uber Cash,Completed
+25-Dec-16,Sunday,13:55:00,13,25-Dec-16,Sunday,14:03:00,00:08:00,Business,Westpark Place,Whitebridge,1.8,Errand/Supplies,0,89.4,8,Card,Completed
+27-Oct-16,Thursday,14:43:00,14,27-Oct-16,Thursday,15:20:00,00:37:00,Business,Cary,Raleigh,19.1,Meeting,1,660.3,66,Uber Cash,Completed
+28-Feb-16,Sunday,16:05:00,16,28-Feb-16,Sunday,16:47:00,00:42:00,Business,Raleigh,Cary,18.6,Meeting,0,643.8,64,Cash,Completed
+14-Nov-16,Monday,09:15:00,9,14-Nov-16,Monday,09:26:00,00:11:00,Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies,0,122.4,12,Cash,Completed
+26-May-16,Thursday,09:34:00,9,26-May-16,Thursday,09:53:00,00:19:00,Business,Cary,Raleigh,8.9,Meeting,2,323.7,32,Cash,Completed
+03-Mar-16,Thursday,10:58:00,10,03-Mar-16,Thursday,11:18:00,00:20:00,Business,Meredith,Cedar Hill,7.5,Customer Visit,2,277.5,27,Cash,Completed
+19-Oct-16,Wednesday,12:22:00,12,19-Oct-16,Wednesday,12:44:00,00:22:00,Business,Raleigh,Morrisville,15.9,Meeting,5,554.7,55,Cash,Completed
+06-Jan-16,Wednesday,13:42:00,13,06-Jan-16,Wednesday,14:01:00,00:19:00,Business,Morrisville,Cary,6.5,Meal/Entertain,4,244.5,24,Card,Completed
+18-Jun-16,Saturday,07:29:00,7,18-Jun-16,Saturday,08:09:00,00:40:00,Business,Cary,Holly Springs,15.3,Temporary Site,2,534.9,53,Uber Cash,Completed
+18-Aug-16,Thursday,16:00:00,16,18-Aug-16,Thursday,16:43:00,00:43:00,Business,Holly Springs,Cary,13.7,Temporary Site,5,482.1,48,UPI/e-Wallet,Completed
+19-Oct-16,Wednesday,11:36:00,11,19-Oct-16,Wednesday,12:07:00,00:31:00,Business,Cary,Raleigh,11.9,Temporary Site,1,422.7,42,Card,Completed
+06-Apr-16,Wednesday,12:29:00,12,06-Apr-16,Wednesday,12:32:00,00:03:00,Business,Meredith Townes,Harden Place,1.4,Errand/Supplies,1,76.2,7,Uber Cash,Completed
+29-Jul-16,Friday,14:31:00,14,29-Jul-16,Friday,15:01:00,00:30:00,Business,Raleigh,Cary,15.2,Meeting,,531.6,53,Card,Completed
+17-Oct-16,Monday,12:59:00,12,17-Oct-16,Monday,13:17:00,00:18:00,Business,Cary,Morrisville,6,Errand/Supplies,5,228,22,Uber Cash,Completed
+14-Jan-16,Thursday,15:10:00,15,14-Jan-16,Thursday,15:26:00,00:16:00,Business,Morrisville,Cary,6.1,Meal/Entertain,4,231.3,23,UPI/e-Wallet,Completed
+13-Oct-16,Thursday,17:44:00,17,13-Oct-16,Thursday,18:08:00,00:24:00,Business,Whitebridge,Wayne Ridge,8.2,Meal/Entertain,5,300.6,30,Uber Cash,Completed
+10-Mar-16,Thursday,19:57:00,19,10-Mar-16,Thursday,20:19:00,00:22:00,Business,Wayne Ridge,Whitebridge,8,Meal/Entertain,3,294,29,Uber Cash,Completed
+17-Jan-16,Sunday,08:25:00,8,17-Jan-16,Sunday,09:04:00,00:39:00,Business,Cary,Raleigh,13.6,Meeting,1,478.8,47,UPI/e-Wallet,Completed
+15-Jan-16,Friday,10:10:00,10,15-Jan-16,Friday,10:40:00,00:30:00,Business,Raleigh,Cary,22.5,Meeting,5,772.5,77,Uber Cash,Completed
+05-Sep-16,Monday,12:08:00,12,05-Sep-16,Monday,12:28:00,00:20:00,Business,Cary,Durham,10.4,Meeting,1,373.2,37,UPI/e-Wallet,Completed
+14-Aug-16,Sunday,13:02:00,13,14-Aug-16,Sunday,13:26:00,00:24:00,Business,Durham,Cary,10,Meeting,5,360,36,Cash,Completed
+26-Oct-16,Wednesday,17:03:00,17,26-Oct-16,Wednesday,17:16:00,00:13:00,Business,Whitebridge,Tanglewood,6,Meal/Entertain,5,228,,Uber Cash,Completed
+26-Apr-16,Tuesday,18:49:00,18,26-Apr-16,Tuesday,19:05:00,00:16:00,Business,Tanglewood,Whitebridge,6.5,Meal/Entertain,1,244.5,24,Uber Cash,Completed
+29-Dec-16,Thursday,19:07:00,19,29-Dec-16,Thursday,19:16:00,00:09:00,Business,Cary,Morrisville,3.1,Errand/Supplies,2,132.3,13,UPI/e-Wallet,Completed
+13-Sep-16,Tuesday,19:46:00,19,13-Sep-16,Tuesday,19:52:00,00:06:00,Business,Chessington,Chessington,1.9,Errand/Supplies,1,92.7,9,Uber Cash,Completed
+18-Aug-16,Thursday,21:41:00,21,18-Aug-16,Thursday,21:50:00,00:09:00,Business,Morrisville,Cary,4.2,Between Offices,5,168.6,16,UPI/e-Wallet,Completed
+19-Jul-16,Tuesday,13:30:00,13,19-Jul-16,Tuesday,13:40:00,00:10:00,Business,Whitebridge,Burtrose,4.9,Between Offices,1,191.7,19,Uber Cash,Completed
+30-Oct-16,Sunday,14:13:00,14,30-Oct-16,Sunday,14:25:00,00:12:00,Business,Burtrose,Whitebridge,4.8,Between Offices,1,188.4,18,Card,Completed
+18-Sep-16,Sunday,12:09:00,12,18-Sep-16,Sunday,12:34:00,00:25:00,Business,Cary,Raleigh,12.4,Customer Visit,5,439.2,43,Card,Completed
+05-Aug-16,Friday,13:30:00,13,05-Aug-16,Friday,13:49:00,00:19:00,Business,Raleigh,Cary,32.8,Customer Visit,,1112.4,0,Card,Completed
+31-Mar-16,Thursday,22:10:00,22,31-Mar-16,Thursday,22:28:00,00:18:00,Business,Morrisville,Cary,5.5,Customer Visit,4,211.5,21,Card,Completed
+22-May-16,Sunday,11:44:00,11,22-May-16,Sunday,12:01:00,00:17:00,Business,Cary,Durham,9.9,Meeting,2,356.7,35,Card,Completed
+28-Jul-16,Thursday,13:13:00,13,28-Jul-16,Thursday,13:34:00,00:21:00,Business,Durham,Cary,10,Meeting,1,360,36,Uber Cash,Completed
+26-Nov-16,Saturday,18:46:00,18,26-Nov-16,Saturday,19:18:00,00:32:00,Business,Cary,Durham,14.2,Customer Visit,4,498.6,49,UPI/e-Wallet,Completed
+08-Oct-16,Saturday,22:44:00,22,08-Oct-16,Saturday,23:19:00,00:35:00,Business,Durham,Cary,18.2,Meeting,3,630.6,63,Uber Cash,Completed
+19-Aug-16,Friday,18:42:00,18,19-Aug-16,Friday,18:57:00,00:15:00,Business,Whitebridge,Waverly Place,7.7,Meal/Entertain,5,284.1,28,Uber Cash,Completed
+11-Jul-16,Monday,22:16:00,22,11-Jul-16,Monday,22:34:00,00:18:00,Business,Waverly Place,Whitebridge,6.8,,1,254.4,,UPI/e-Wallet,Completed
+09-Nov-16,Wednesday,13:45:00,13,09-Nov-16,Wednesday,13:53:00,00:08:00,Business,Whitebridge,Westpark Place,2.1,Meal/Entertain,5,99.3,9,Uber Cash,Completed
+11-Jan-16,Monday,14:26:00,14,11-Jan-16,Monday,14:31:00,00:05:00,Business,Westpark Place,Whitebridge,2.3,,1,105.9,10,UPI/e-Wallet,Completed
+27-Aug-16,Saturday,17:33:00,17,27-Aug-16,Saturday,17:45:00,00:12:00,Business,Whitebridge,Tanglewood,6.2,Between Offices,4,234.6,23,Cash,Completed
+12-Sep-16,Monday,17:54:00,17,12-Sep-16,Monday,18:10:00,00:16:00,Business,Tanglewood,Parkway,7.5,Meeting,0,277.5,27,Uber Cash,Completed
+08-Aug-16,Monday,22:38:00,22,08-Aug-16,Monday,22:49:00,00:11:00,Business,Parkway,Whitebridge,3.1,Errand/Supplies,3,132.3,13,Uber Cash,Completed
+14-Jun-16,Tuesday,14:14:00,14,14-Jun-16,Tuesday,14:21:00,00:07:00,Business,Whitebridge,Westpark Place,2.2,Errand/Supplies,3,102.6,10,UPI/e-Wallet,Completed
+20-Jan-16,Wednesday,15:37:00,15,20-Jan-16,Wednesday,15:48:00,00:11:00,Business,Westpark Place,Whitebridge,3.9,Meal/Entertain,3,158.7,15,Uber Cash,Completed
+24-Jan-16,Sunday,22:20:00,22,24-Jan-16,Sunday,22:28:00,00:08:00,Business,Morrisville,Cary,2.5,Meal/Entertain,2,112.5,11,UPI/e-Wallet,Completed
+06-Dec-16,Tuesday,15:16:00,15,06-Dec-16,Tuesday,15:37:00,00:21:00,Business,Cary,Morrisville,8.7,Meal/Entertain,3,317.1,31,Uber Cash,Completed
+03-Mar-16,Thursday,20:55:00,20,03-Mar-16,Thursday,21:14:00,00:19:00,Business,Mcvan,Capitol One,14.5,Errand/Supplies,0,508.5,50,Gift Card,Completed
+01-Feb-16,Monday,21:30:00,21,01-Feb-16,Monday,21:36:00,00:06:00,Business,Capitol One,University District,4.5,Meal/Entertain,3,178.5,17,Uber Cash,Completed
+04-Jul-16,Monday,22:19:00,22,04-Jul-16,Monday,22:27:00,00:08:00,Business,University District,Capitol One,5,Meal/Entertain,2,195,19,UPI/e-Wallet,Completed
+29-Sep-16,Thursday,21:24:00,21,29-Sep-16,Thursday,21:36:00,00:12:00,Business,Seattle,Redmond,14.2,Meal/Entertain,3,498.6,49,Uber Cash,Completed
+30-Aug-16,Tuesday,22:34:00,22,30-Aug-16,Tuesday,22:40:00,00:06:00,Business,Redmond,Bellevue,2.9,Errand/Supplies,4,125.7,12,Card,Completed
+05-Aug-16,Friday,23:55:00,23,05-Aug-16,Friday,00:08:00,00:13:00,Business,Bellevue,Seattle,12.9,Meeting,0,455.7,45,Card,Completed
+12-Aug-16,Friday,05:47:00,5,12-Aug-16,Friday,06:02:00,00:15:00,Business,Capitol One,Mcvan,14.4,Meeting,3,505.2,50,Card,Completed
+10-May-16,Tuesday,16:45:00,16,10-May-16,Tuesday,16:59:00,00:14:00,Business,Chapel Hill,Morrisville,17,Meeting,,591,59,Card,Completed
+23-Nov-16,Wednesday,17:18:00,17,23-Nov-16,Wednesday,17:44:00,00:26:00,Business,Morrisville,Cary,7.9,Customer Visit,3,290.7,29,Card,Completed
+31-Jul-16,Sunday,06:08:00,6,31-Jul-16,Sunday,06:25:00,00:17:00,Business,Cary,Morrisville,8.4,Customer Visit,0,307.2,30,Card,Completed
+09-Jan-16,Saturday,14:39:00,14,09-Jan-16,Saturday,15:06:00,00:27:00,Business,San Francisco,Palo Alto,20.5,Between Offices,3,706.5,70,Card,Completed
+28-Aug-16,Sunday,17:58:00,17,28-Aug-16,Sunday,18:26:00,00:28:00,Business,Palo Alto,Sunnyvale,9.8,Customer Visit,2,353.4,,Cash,Completed
+23-Dec-16,Friday,19:35:00,19,23-Dec-16,Friday,19:59:00,00:24:00,Business,Sunnyvale,Newark,17.6,Customer Visit,3,610.8,,Card,Completed
+27-Oct-16,Thursday,09:03:00,9,27-Oct-16,Thursday,09:20:00,00:17:00,Business,Newark,Menlo Park,9.3,Customer Visit,3,336.9,,Card,Completed
+07-Jan-16,Thursday,17:19:00,17,07-Jan-16,Thursday,17:31:00,00:12:00,Business,Menlo Park,Newark,7.9,Customer Visit,1,290.7,,Card,Completed
+28-Mar-16,Monday,08:35:00,8,28-Mar-16,Monday,09:12:00,00:37:00,Business,Newark,San Francisco,25.6,Meeting,1,874.8,,Card,Completed
+01-Oct-16,Saturday,21:47:00,21,01-Oct-16,Saturday,22:04:00,00:17:00,Business,Morrisville,Cary,8.1,Meeting,5,297.3,,Card,Completed
+13-Oct-16,Thursday,18:35:00,18,13-Oct-16,Thursday,18:39:00,00:04:00,Business,Cary,Morrisville,3.1,Meal/Entertain,5,132.3,,UPI/e-Wallet,Completed
+21-Sep-16,Wednesday,23:01:00,23,21-Sep-16,Wednesday,23:05:00,00:04:00,Business,Morrisville,Cary,3.1,Meal/Entertain,3,132.3,,Uber Cash,Completed
+31-Jan-16,Sunday,13:15:00,13,31-Jan-16,Sunday,13:23:00,00:08:00,Business,Whitebridge,Preston,2.8,Errand/Supplies,5,122.4,,Card,Completed
+20-Aug-16,Saturday,13:56:00,13,20-Aug-16,Saturday,14:08:00,00:12:00,Business,Preston,Westpark Place,2.7,Errand/Supplies,0,119.1,,Card,Completed
+27-Jan-16,Wednesday,14:34:00,14,27-Jan-16,Wednesday,14:40:00,00:06:00,Business,Westpark Place,Whitebridge,1.9,Errand/Supplies,3,92.7,,Card,Completed
+11-Jun-16,Saturday,09:11:00,9,11-Jun-16,Saturday,09:41:00,00:30:00,Business,Cary,Morrisville,8.4,Customer Visit,5,307.2,30,Uber Cash,Completed
+12-Aug-16,Friday,13:00:00,13,12-Aug-16,Friday,13:02:00,00:02:00,Business,Morrisville,Raleigh,7.6,Customer Visit,0,280.8,28,Uber Cash,Completed
+30-Dec-16,Friday,14:37:00,14,30-Dec-16,Friday,15:01:00,00:24:00,Business,Old City,Parkway Museums,2.9,Meal/Entertain,3,125.7,12,Cash,Completed
+17-Apr-16,Sunday,10:56:00,10,17-Apr-16,Sunday,11:07:00,00:11:00,Business,Old City,Hog Island,11.2,Meeting,,399.6,39,UPI/e-Wallet,Completed
+26-Jan-16,Tuesday,15:43:00,15,26-Jan-16,Tuesday,16:12:00,00:29:00,Business,Morrisville,Cary,8.2,Meal/Entertain,4,300.6,30,Uber Cash,Completed
+05-Feb-16,Friday,15:39:00,15,05-Feb-16,Friday,15:46:00,00:07:00,Business,Cary,Morrisville,3,Meal/Entertain,2,129,12,UPI/e-Wallet,Completed
+29-May-16,Sunday,18:46:00,18,29-May-16,Sunday,18:53:00,00:07:00,Business,Morrisville,Cary,2.5,Meal/Entertain,3,112.5,11,Cash,Completed
+05-Sep-16,Monday,20:19:00,20,05-Sep-16,Monday,20:27:00,00:08:00,Business,Whitebridge,Savon Height,3.6,Meal/Entertain,3,148.8,14,Card,Completed
+25-Nov-16,Friday,21:09:00,21,25-Nov-16,Friday,21:21:00,00:12:00,Business,Savon Height,Whitebridge,3.6,Errand/Supplies,1,148.8,14,Card,Completed
+28-Dec-16,Wednesday,20:26:00,20,28-Dec-16,Wednesday,20:30:00,00:04:00,Business,Whitebridge,Kildaire Farms,4.5,Errand/Supplies,0,178.5,,UPI/e-Wallet,Completed
+16-May-16,Monday,20:47:00,20,16-May-16,Monday,20:53:00,00:06:00,Business,Savon Height,Kilarney Woods,1.2,,1,69.6,6,Card,Completed
+03-Jul-16,Sunday,22:11:00,22,03-Jul-16,Sunday,22:14:00,00:03:00,Business,Kilarney Woods,Kildaire Farms,1.7,Errand/Supplies,1,86.1,8,UPI/e-Wallet,Completed
+02-Oct-16,Sunday,00:15:00,0,02-Oct-16,Sunday,00:21:00,00:06:00,Business,Kilarney Woods,Whitebridge,4.7,Errand/Supplies,0,185.1,18,Card,Completed
+18-Jun-16,Saturday,12:52:00,12,18-Jun-16,Saturday,13:06:00,00:14:00,Business,Cary,Morrisville,6.1,Meal/Entertain,5,231.3,23,UPI/e-Wallet,Completed
+07-Sep-16,Wednesday,14:35:00,14,07-Sep-16,Wednesday,15:04:00,00:29:00,Business,Morrisville,Cary,11.3,Customer Visit,0,402.9,40,Card,Completed
+12-Jan-16,Tuesday,13:54:00,13,12-Jan-16,Tuesday,14:41:00,00:47:00,Business,Cary,Raleigh,14.9,Meeting,1,521.7,52,Card,Completed
+02-Sep-16,Friday,16:02:00,16,02-Sep-16,Friday,16:39:00,00:37:00,Business,Raleigh,Cary,14,Meeting,4,492,49,Cash,Completed
+14-May-16,Saturday,17:50:00,17,14-May-16,Saturday,17:59:00,00:09:00,Business,Westpark Place,Whitebridge,1.8,,4,89.4,8,Card,Completed
+28-Mar-16,Monday,10:19:00,10,28-Mar-16,Monday,10:47:00,00:28:00,Business,Cary,Morrisville,6.7,Customer Visit,5,251.1,25,UPI/e-Wallet,Completed
+11-Oct-16,Tuesday,13:10:00,13,11-Oct-16,Tuesday,13:39:00,00:29:00,Business,Morrisville,Cary,9.6,Meeting,2,346.8,34,Card,Completed
+01-Sep-16,Thursday,11:29:00,11,01-Sep-16,Thursday,11:49:00,00:20:00,Business,Cary,Durham,10.4,Meeting,2,373.2,37,UPI/e-Wallet,Completed
+05-Jul-16,Tuesday,13:08:00,13,05-Jul-16,Tuesday,13:38:00,00:30:00,Business,Durham,Cary,9.9,Meeting,3,356.7,35,Cash,Completed
+09-Jul-16,Saturday,15:31:00,15,09-Jul-16,Saturday,15:54:00,00:23:00,Business,Cary,Morrisville,6,Meal/Entertain,1,228,22,Card,Completed
+02-Feb-16,Tuesday,18:14:00,18,02-Feb-16,Tuesday,18:29:00,00:15:00,Business,Townes at Everett Crossing,Chessington,3.3,Errand/Supplies,3,138.9,13,Card,Completed
+28-Jan-16,Thursday,18:41:00,18,28-Jan-16,Thursday,18:53:00,00:12:00,Business,Morrisville,Cary,3.1,Errand/Supplies,,132.3,13,UPI/e-Wallet,Completed
+27-Sep-16,Tuesday,19:36:00,19,27-Sep-16,Tuesday,19:42:00,00:06:00,Business,Huntington Woods,Weston,1.7,Errand/Supplies,1,86.1,8,Card,Completed
+26-Dec-16,Monday,22:47:00,22,26-Dec-16,Monday,23:06:00,00:19:00,Business,Morrisville,Cary,4,Between Offices,1,162,16,UPI/e-Wallet,Completed
+17-Dec-16,Saturday,14:03:00,14,17-Dec-16,Saturday,14:33:00,00:30:00,Business,Whitebridge,Savon Height,7.8,Customer Visit,0,287.4,28,Card,Completed
+19-Aug-16,Friday,15:06:00,15,19-Aug-16,Friday,15:22:00,00:16:00,Business,Cary,Morrisville,7.8,Customer Visit,0,287.4,28,UPI/e-Wallet,Completed
+01-Apr-16,Friday,15:57:00,15,01-Apr-16,Friday,16:08:00,00:11:00,Business,Weston,Weston,3.8,Meal/Entertain,3,155.4,15,Card,Completed
+04-Apr-16,Monday,18:05:00,18,04-Apr-16,Monday,18:14:00,00:09:00,Business,Morrisville,Cary,2.5,Meal/Entertain,2,112.5,,Card,Completed
+11-Feb-16,Thursday,21:53:00,21,11-Feb-16,Thursday,22:05:00,00:12:00,Business,Cary,Durham,9.9,Meeting,3,356.7,35,Cash,Completed
+10-Jun-16,Friday,23:52:00,23,10-Jun-16,Friday,00:08:00,00:14:00,Business,Durham,Cary,9.9,Meeting,4,356.7,35,Cash,Completed
+10-Sep-16,Saturday,15:36:00,15,10-Sep-16,Saturday,15:45:00,00:09:00,Business,Whitebridge,Hazelwood,3,Errand/Supplies,0,129,12,Cash,Completed
+17-Jul-16,Sunday,16:16:00,16,17-Jul-16,Sunday,16:24:00,00:08:00,Business,Hazelwood,Whitebridge,2.4,Errand/Supplies,4,109.2,10,Card,Completed
+15-Dec-16,Thursday,20:06:00,20,15-Dec-16,Thursday,20:20:00,00:14:00,Business,Cary,Apex,5.7,Meal/Entertain,4,218.1,21,Card,Completed
+22-Mar-16,Tuesday,21:08:00,21,22-Mar-16,Tuesday,21:37:00,00:29:00,Business,Apex,Cary,7.2,Meal/Entertain,4,267.6,26,Card,Completed
+19-Jan-16,Tuesday,21:41:00,21,19-Jan-16,Tuesday,22:00:00,00:19:00,Business,Cary,Durham,10.4,Meeting,0,373.2,37,Card,Completed
+07-Jan-16,Thursday,23:34:00,23,07-Jan-16,Thursday,23:48:00,00:14:00,Business,Durham,Cary,9.9,Meeting,5,356.7,35,Card,Completed
+27-Nov-16,Sunday,21:42:00,21,27-Nov-16,Sunday,22:00:00,00:18:00,Business,Cary,Durham,10.4,Meeting,2,373.2,37,Cash,Completed
+20-Jun-16,Monday,23:41:00,23,20-Jun-16,Monday,00:04:00,00:23:00,Business,Durham,Cary,9.9,Meeting,3,356.7,35,Cash,Completed
+22-Jan-16,Friday,08:23:00,8,22-Jan-16,Friday,08:53:00,00:30:00,Business,Cary,Morrisville,8.7,Meal/Entertain,3,317.1,31,Card,Completed
+29-Jan-16,Friday,12:04:00,12,29-Jan-16,Friday,13:01:00,00:57:00,Business,Jamaica,New York,22.3,Errand/Supplies,0,765.9,76,Card,Completed
+11-Dec-16,Sunday,13:12:00,13,11-Dec-16,Sunday,13:29:00,00:17:00,Business,Seaport,Gramercy-Flatiron,3.3,Meal/Entertain,5,138.9,13,Card,Completed
+27-Dec-16,Tuesday,14:31:00,14,27-Dec-16,Tuesday,14:37:00,00:06:00,Business,Medical Centre,Tudor City,0.7,Errand/Supplies,0,53.1,5,Card,Completed
+09-Nov-16,Wednesday,16:55:00,16,09-Nov-16,Wednesday,17:11:00,00:16:00,Business,Rose Hill,Soho,2.5,Meal/Entertain,1,112.5,11,Card,Completed
+27-Sep-16,Tuesday,17:16:00,17,27-Sep-16,Tuesday,17:18:00,00:02:00,Business,Soho,Tribeca,0.5,Errand/Supplies,0,46.5,4,Card,Completed
+02-Jul-16,Saturday,17:59:00,17,02-Jul-16,Saturday,18:05:00,00:06:00,Business,Tribeca,Financial District,0.9,Errand/Supplies,2,59.7,5,Cash,Completed
+18-May-16,Wednesday,20:11:00,20,18-May-16,Wednesday,20:25:00,00:14:00,Business,Financial District,Kips Bay,4.8,Errand/Supplies,1,188.4,18,Cash,Completed
+10-Apr-16,Sunday,15:19:00,15,10-Apr-16,Sunday,16:28:00,01:09:00,Business,New York,Jamaica,16.3,Meeting,1,567.9,56,UPI/e-Wallet,Completed
+30-Aug-16,Tuesday,21:47:00,21,30-Aug-16,Tuesday,22:04:00,00:17:00,Business,Cary,Durham,10.4,Meeting,1,373.2,37,Cash,Completed
+04-Sep-16,Sunday,23:53:00,23,04-Sep-16,Sunday,00:01:00,00:07:00,Business,Durham,Cary,9.9,Meeting,0,356.7,35,Card,Completed
+10-Apr-16,Sunday,17:08:00,17,10-Apr-16,Sunday,17:16:00,00:08:00,Business,Cary,Morrisville,3.7,Errand/Supplies,2,152.1,15,Cash,Completed
+11-Jan-16,Monday,17:34:00,17,11-Jan-16,Monday,17:39:00,00:05:00,Business,Morrisville,Cary,4.6,Meal/Entertain,2,181.8,18,Card,Completed
+19-Jul-16,Tuesday,17:50:00,17,19-Jul-16,Tuesday,17:56:00,00:06:00,Business,Westpark Place,Whitebridge,1.7,,1,86.1,8,Uber Cash,Completed
+06-Aug-16,Saturday,21:45:00,21,06-Aug-16,Saturday,22:04:00,00:19:00,Business,Cary,Durham,10.4,Meeting,5,373.2,37,Gift Card,Completed
+03-Sep-16,Saturday,23:39:00,23,03-Sep-16,Saturday,00:05:00,00:26:00,Business,Durham,Cary,9.9,Meeting,0,356.7,35,Cash,Completed
+11-Jul-16,Monday,19:53:00,19,11-Jul-16,Monday,19:56:00,00:03:00,Business,Cary,Morrisville,2.5,Meal/Entertain,3,112.5,11,Uber Cash,Completed
+20-Aug-16,Saturday,20:05:00,20,20-Aug-16,Saturday,20:16:00,00:11:00,Business,Morrisville,Cary,4.3,Errand/Supplies,1,171.9,17,Cash,Completed
+21-Jul-16,Thursday,21:58:00,21,21-Jul-16,Thursday,22:19:00,00:21:00,Business,Parkway,Whitebridge,2.8,Errand/Supplies,5,122.4,12,Uber Cash,Completed
+12-Oct-16,Wednesday,05:23:00,5,12-Oct-16,Wednesday,05:42:00,00:19:00,Business,Cary,Morrisville,8.4,Meal/Entertain,3,307.2,30,Cash,Completed
+21-Apr-16,Thursday,14:17:00,14,21-Apr-16,Thursday,14:46:00,00:29:00,Business,Oakland,Emeryville,13.2,Meeting,0,465.6,46,Cash,Completed
+07-Feb-16,Sunday,18:08:00,18,07-Feb-16,Sunday,18:47:00,00:39:00,Business,Emeryville,Berkeley,3.9,Meal/Entertain,2,158.7,15,Cash,Completed
+04-Jul-16,Monday,18:54:00,18,04-Jul-16,Monday,19:23:00,00:29:00,Business,Berkeley,Oakland,5.1,Meal/Entertain,0,198.3,19,Uber Cash,Completed
+18-Apr-16,Monday,20:00:00,20,18-Apr-16,Monday,20:05:00,00:05:00,Business,Oakland,Unknown Location,5.2,Customer Visit,0,201.6,20,Cash,Completed
+05-Jun-16,Sunday,12:03:00,12,05-Jun-16,Sunday,12:21:00,00:18:00,Business,Emeryville,San Francisco,9.8,,0,353.4,35,Uber Cash,Completed
+16-Oct-16,Sunday,16:09:00,16,16-Oct-16,Sunday,16:39:00,00:30:00,Business,San Francisco,Emeryville,11.6,Meeting,1,412.8,41,Cash,Completed
+24-Jun-16,Friday,17:15:00,17,24-Jun-16,Friday,17:24:00,00:09:00,Business,Emeryville,Oakland,5.1,Meeting,0,198.3,19,Card,Completed
+29-Jul-16,Friday,17:27:00,17,29-Jul-16,Friday,17:57:00,00:30:00,Business,Downtown,Bay Farm Island,9.3,Errand/Supplies,0,336.9,33,Uber Cash,Completed
+20-Jan-16,Wednesday,01:46:00,1,20-Jan-16,Wednesday,02:06:00,00:20:00,Business,Kenner,New Orleans,12.4,Between Offices,5,439.2,43,Gift Card,Completed
+15-Jul-16,Friday,15:26:00,15,15-Jul-16,Friday,15:34:00,00:08:00,Business,CBD,Lower Garden District,1.9,Between Offices,5,92.7,9,UPI/e-Wallet,Completed
+25-Nov-16,Friday,16:37:00,16,25-Nov-16,Friday,17:02:00,00:25:00,Business,Lower Garden District,Lakeview,6.4,Customer Visit,0,241.2,24,Gift Card,Completed
+18-May-16,Wednesday,17:29:00,17,18-May-16,Wednesday,17:49:00,00:20:00,Personal,Lakeview,Storyville,5.5,,1,211.5,21,Cash,Completed
+18-Jan-16,Monday,19:52:00,19,18-Jan-16,Monday,19:58:00,00:06:00,Business,Storyville,Faubourg Marigny,1.5,Meal/Entertain,3,79.5,,Gift Card,Completed
+18-May-16,Wednesday,13:36:00,13,18-May-16,Wednesday,14:30:00,00:54:00,Business,New Orleans,Metairie,14.5,,0,508.5,50,Cash,Completed
+03-Jun-16,Friday,14:42:00,14,03-Jun-16,Friday,14:46:00,00:04:00,Business,Metairie,Kenner,2.7,,1,119.1,11,Gift Card,Completed
+01-Jul-16,Friday,15:17:00,15,01-Jul-16,Friday,15:41:00,00:24:00,Business,Kenner,New Orleans,15,,2,525,52,Cash,Completed
+03-Feb-16,Wednesday,19:39:00,19,03-Feb-16,Wednesday,19:56:00,00:17:00,Business,New Orleans,Kenner,12.9,,5,455.7,45,Cash,Completed
+12-Sep-16,Monday,21:43:00,21,12-Sep-16,Monday,21:56:00,00:13:00,Business,Kenner,New Orleans,13.6,,5,478.8,47,Uber Cash,Completed
+31-Mar-16,Thursday,16:11:00,16,31-Mar-16,Thursday,16:44:00,00:33:00,Business,New Orleans,Kenner,12.2,,4,432.6,43,Uber Cash,Completed
+17-Feb-16,Wednesday,00:29:00,0,17-Feb-16,Wednesday,00:51:00,00:22:00,Business,Morrisville,Cary,8.7,,0,317.1,31,Cash,Completed
+23-Oct-16,Sunday,02:39:00,2,23-Oct-16,Sunday,02:50:00,00:11:00,Business,Cary,Raleigh,6,,1,228,22,Cash,Completed
+30-Oct-16,Sunday,05:51:00,5,30-Oct-16,Sunday,06:00:00,00:09:00,Business,Raleigh,Cary,5.9,,1,224.7,22,Uber Cash,Completed
+07-Nov-16,Monday,15:39:00,15,07-Nov-16,Monday,16:08:00,00:29:00,Business,Cary,Raleigh,19.3,,4,666.9,66,Uber Cash,Completed
+25-Apr-16,Monday,17:11:00,17,25-Apr-16,Monday,18:02:00,00:51:00,Business,Raleigh,Cary,16.6,Meal/Entertain,0,577.8,57,Cash,Completed
+16-Jun-16,Thursday,10:41:00,10,16-Jun-16,Thursday,10:57:00,00:16:00,Business,Whitebridge,Waverly Place,7.1,Meal/Entertain,0,264.3,26,Card,Completed
+30-Jan-16,Saturday,11:54:00,11,30-Jan-16,Saturday,12:01:00,00:07:00,Business,Waverly Place,Macgregor Downs,2.1,Meal/Entertain,3,99.3,9,Card,Completed
+18-May-16,Wednesday,12:19:00,12,18-May-16,Wednesday,12:37:00,00:18:00,Business,Cary,Raleigh,8.6,Errand/Supplies,1,313.8,31,Card,Completed
+27-Aug-16,Saturday,12:50:00,12,27-Aug-16,Saturday,13:12:00,00:22:00,Business,Raleigh,Morrisville,9,Errand/Supplies,5,327,32,Card,Completed
+09-Apr-16,Saturday,13:18:00,13,09-Apr-16,Saturday,13:27:00,00:09:00,Business,Morrisville,Cary,3.1,Errand/Supplies,1,132.3,13,Card,Completed
+19-Mar-16,Saturday,14:01:00,14,19-Mar-16,Saturday,14:20:00,00:19:00,Business,Cary,Morrisville,8.4,Temporary Site,3,307.2,30,Uber Cash,Completed
+07-Aug-16,Sunday,20:44:00,20,07-Aug-16,Sunday,21:02:00,00:18:00,Business,Kenner,New Orleans,12.8,,5,452.4,45,UPI/e-Wallet,Completed
+29-Aug-16,Monday,09:03:00,9,29-Aug-16,Monday,09:12:00,00:09:00,Business,CBD,Bywater,4.5,,3,178.5,17,Uber Cash,Completed
+11-Sep-16,Sunday,09:15:00,9,11-Sep-16,Sunday,10:08:00,00:53:00,Business,New Orleans,Chalmette,11.8,Between Offices,2,419.4,41,Card,Completed
+10-Jan-16,Sunday,10:18:00,10,10-Jan-16,Sunday,10:25:00,00:07:00,Business,Chalmette,Arabi,1.1,Errand/Supplies,5,66.3,6,Card,Completed
+28-Jan-16,Thursday,10:50:00,10,28-Jan-16,Thursday,11:18:00,00:28:00,Business,Arabi,Metairie,17,Meal/Entertain,5,591,59,Uber Cash,Completed
+11-Jul-16,Monday,11:25:00,11,11-Jul-16,Monday,11:34:00,00:09:00,Business,Pontchartrain Shores,Pontchartrain Shores,1.7,Meeting,5,86.1,8,Cash,Completed
+28-Mar-16,Monday,11:53:00,11,28-Mar-16,Monday,13:21:00,01:28:00,Business,Metairie,New Orleans,15.5,Meeting,1,541.5,54,Uber Cash,Completed
+28-Feb-16,Sunday,19:47:00,19,28-Feb-16,Sunday,19:58:00,00:11:00,Business,Storyville,Marigny,1.6,,4,82.8,,Card,Completed
+20-Mar-16,Sunday,23:19:00,23,20-Mar-16,Sunday,23:26:00,00:07:00,Business,Marigny,Storyville,1.5,,5,79.5,,Card,Completed
+19-Apr-16,Tuesday,17:43:00,17,19-Apr-16,Tuesday,18:18:00,00:35:00,Business,New Orleans,Kenner,12.6,Meeting,0,445.8,44,Uber Cash,Completed
+16-Jan-16,Saturday,18:45:00,18,16-Jan-16,Saturday,19:12:00,00:27:00,,Pontchartrain Shores,Pontchartrain Shores,4.8,,0,188.4,18,Cash,Completed
+31-Dec-16,Saturday,19:41:00,19,31-Dec-16,Saturday,19:50:00,00:09:00,,Kenner,Kenner,2.2,,0,102.6,10,Uber Cash,Completed
+30-Jul-16,Saturday,21:14:00,21,30-Jul-16,Saturday,21:42:00,00:28:00,,Kenner,New Orleans,13,,4,459,45,Uber Cash,Completed
+02-Oct-16,Sunday,07:37:00,7,02-Oct-16,Sunday,08:48:00,01:11:00,,New Orleans,Covington,46.9,,1,1577.7,99,Gift Card,Completed
+25-Oct-16,Tuesday,08:51:00,8,25-Oct-16,Tuesday,09:00:00,00:09:00,,Covington,Covington,2.5,,2,112.5,11,Cash,Completed
+16-Oct-16,Sunday,09:05:00,9,16-Oct-16,Sunday,09:33:00,00:28:00,,Covington,Covington,8.6,,2,313.8,31,Gift Card,Completed
+06-Oct-16,Thursday,09:43:00,9,06-Oct-16,Thursday,10:08:00,00:25:00,,Covington,Covington,5.2,,0,201.6,20,Cash,Completed
+08-Mar-16,Tuesday,10:22:00,10,08-Mar-16,Tuesday,10:39:00,00:17:00,,Covington,Covington,7.6,,2,280.8,28,Gift Card,Completed
+02-Dec-16,Friday,10:51:00,10,02-Dec-16,Friday,10:58:00,00:07:00,,Covington,Covington,1.8,,4,89.4,8,Card,Completed
+29-Jan-16,Friday,11:06:00,11,29-Jan-16,Friday,11:24:00,00:18:00,Business,Covington,Mandeville,4.7,,2,185.1,18,Card,Completed
+30-Apr-16,Saturday,11:30:00,11,30-Apr-16,Saturday,11:42:00,00:12:00,Business,Mandeville,Mandeville,2.8,,2,122.4,12,Uber Cash,Completed
+06-Mar-16,Sunday,12:22:00,12,06-Mar-16,Sunday,13:02:00,00:40:00,Business,Mandeville,Metairie,30,,1,1020,100,UPI/e-Wallet,Completed
+22-Sep-16,Thursday,13:56:00,13,22-Sep-16,Thursday,14:05:00,00:09:00,Business,Metairie,Kenner,4.4,,,175.2,17,Card,Completed
+04-May-16,Wednesday,21:09:00,21,04-May-16,Wednesday,21:19:00,00:10:00,Business,Jamestown Court,Jamestown Court,1,,5,63,,Cash,Completed
+17-May-16,Tuesday,00:48:00,0,17-May-16,Tuesday,01:05:00,00:17:00,Business,Morrisville,Cary,8.2,Customer Visit,5,300.6,30,Card,Completed
+24-Jan-16,Sunday,20:13:00,20,24-Jan-16,Sunday,20:33:00,00:20:00,Business,Cary,Durham,10.4,Meeting,2,373.2,37,Uber Cash,Completed
+18-Apr-16,Monday,23:34:00,23,18-Apr-16,Monday,23:59:00,00:25:00,Business,Durham,Cary,9.9,Meeting,2,356.7,35,Cash,Completed
+18-Jan-16,Monday,23:34:00,23,18-Jan-16,Monday,23:59:00,00:25:00,Business,Durham,Cary,9.9,Meeting,4,356.7,35,Card,Completed
+09-Jun-16,Thursday,08:56:00,8,09-Jun-16,Thursday,09:24:00,00:28:00,Business,Cary,Morrisville,7.3,,2,270.9,27,Uber Cash,Completed
+28-Jan-16,Thursday,10:22:00,10,28-Jan-16,Thursday,10:38:00,00:16:00,Business,Morrisville,Cary,7.4,,4,274.2,27,Uber Cash,Completed
+30-Jan-16,Saturday,11:49:00,11,30-Jan-16,Saturday,11:51:00,00:02:00,Business,Whitebridge,Westpark Place,1.6,,1,82.8,,Cash,Completed
+24-Jun-16,Friday,12:11:00,12,24-Jun-16,Friday,12:16:00,00:05:00,Business,Westpark Place,Whitebridge,1.8,,0,89.4,,Uber Cash,Completed
+19-Oct-16,Wednesday,20:11:00,20,19-Oct-16,Wednesday,20:29:00,00:18:00,Business,Cary,Durham,10.4,Meeting,1,373.2,37,Uber Cash,Completed
+16-Feb-16,Tuesday,23:38:00,23,16-Feb-16,Tuesday,23:59:00,00:21:00,Business,Durham,Cary,9.9,Meeting,2,356.7,35,Cash,Completed
+19-Oct-16,Wednesday,20:09:00,20,19-Oct-16,Wednesday,20:26:00,00:17:00,Business,Cary,Durham,9.9,Meeting,1,356.7,35,Uber Cash,Completed
+24-Feb-16,Wednesday,00:00:00,0,24-Feb-16,Wednesday,00:25:00,00:25:00,Business,Durham,Cary,9.9,Meeting,4,356.7,35,Gift Card,Completed
+19-Apr-16,Tuesday,09:34:00,9,19-Apr-16,Tuesday,09:57:00,00:23:00,Business,Cary,Raleigh,13.3,Meeting,0,468.9,46,Cash,Completed
+28-Dec-16,Wednesday,12:36:00,12,28-Dec-16,Wednesday,13:00:00,00:24:00,Business,Raleigh,Cary,11.3,Meeting,3,402.9,40,Gift Card,Completed
+14-Apr-16,Thursday,20:06:00,20,14-Apr-16,Thursday,20:24:00,00:18:00,Business,Cary,Durham,10.5,Meeting,0,376.5,37,Cash,Completed
+10-Dec-16,Saturday,23:48:00,23,10-Dec-16,Saturday,08:00:00,08:12:00,Business,Durham,Cary,9.9,Meeting,1,356.7,35,Uber Cash,Completed
+01-Nov-16,Tuesday,20:18:00,20,01-Nov-16,Tuesday,20:36:00,00:18:00,Business,Cary,Durham,10.1,Meeting,4,363.3,36,Gift Card,Completed
+18-Mar-16,Friday,23:48:00,23,18-Mar-16,Friday,23:55:00,00:07:00,Business,Durham,Cary,9.9,Meeting,3,356.7,35,Cash,Completed
+11-Dec-16,Sunday,00:28:00,0,11-Dec-16,Sunday,00:38:00,00:10:00,Business,Cary,Morrisville,3.1,Errand/Supplies,2,132.3,13,Uber Cash,Completed
+22-May-16,Sunday,03:02:00,3,22-May-16,Sunday,03:08:00,00:06:00,Business,Morrisville,Cary,3.1,Errand/Supplies,0,132.3,13,Gift Card,Completed
+22-Feb-16,Monday,20:00:00,20,22-Feb-16,Monday,20:18:00,00:18:00,Business,Cary,Durham,9.9,Meeting,5,356.7,35,UPI/e-Wallet,Completed
+29-Oct-16,Saturday,00:32:00,0,29-Oct-16,Saturday,00:47:00,00:15:00,Business,Durham,Cary,9.9,Meeting,1,356.7,35,Card,Completed
+16-Aug-16,Tuesday,17:31:00,17,16-Aug-16,Tuesday,17:49:00,00:18:00,Business,Whitebridge,Summerwinds,8.8,Meeting,2,320.4,32,Card,Completed
+03-May-16,Tuesday,18:23:00,18,03-May-16,Tuesday,18:49:00,00:26:00,Business,Summerwinds,Whitebridge,8.7,Temporary Site,2,317.1,31,Card,Completed
+10-May-16,Tuesday,20:00:00,20,10-May-16,Tuesday,20:17:00,00:17:00,Business,Cary,Durham,11.8,Meeting,0,419.4,41,Card,Completed
+18-Jun-16,Saturday,00:00:00,0,18-Jun-16,Saturday,00:05:00,00:05:00,Business,Parkwood,Parkwood,1.2,Errand/Supplies,,69.6,,UPI/e-Wallet,Completed
+27-May-16,Friday,00:08:00,0,27-May-16,Friday,00:28:00,00:20:00,Business,Durham,Cary,9.9,Meeting,,356.7,35,UPI/e-Wallet,Completed
+14-Feb-16,Sunday,16:48:00,16,14-Feb-16,Sunday,16:52:00,00:04:00,Business,Whitebridge,Whitebridge,0.6,Errand/Supplies,4,49.8,,UPI/e-Wallet,Completed
+08-Jan-16,Friday,20:06:00,20,08-Jan-16,Friday,20:26:00,00:20:00,Business,Cary,Durham,9.9,,5,356.7,35,UPI/e-Wallet,Completed
+07-Apr-16,Thursday,22:41:00,22,07-Apr-16,Thursday,23:02:00,00:21:00,Business,Durham,Morrisville,8.6,,2,313.8,31,UPI/e-Wallet,Completed
+29-Jul-16,Friday,00:33:00,0,29-Jul-16,Friday,00:53:00,00:20:00,Business,Morrisville,Cary,6.3,Meal/Entertain,1,237.9,23,UPI/e-Wallet,Completed
+29-Aug-16,Monday,09:06:00,9,29-Aug-16,Monday,09:25:00,00:19:00,Business,Cary,Durham,9.9,Meeting,,356.7,35,UPI/e-Wallet,Completed
+12-Feb-16,Friday,12:48:00,12,12-Feb-16,Friday,13:08:00,00:20:00,Business,Durham,Cary,9.9,,4,356.7,35,UPI/e-Wallet,Completed
+31-Aug-16,Wednesday,20:04:00,20,31-Aug-16,Wednesday,20:14:00,00:10:00,Business,Cary,Morrisville,3.3,Meal/Entertain,,138.9,13,UPI/e-Wallet,Completed
+28-Jul-16,Thursday,23:46:00,23,28-Jul-16,Thursday,23:59:00,00:13:00,Business,Morrisville,Cary,3.1,Customer Visit,3,132.3,13,UPI/e-Wallet,Completed
+30-Jan-16,Saturday,08:22:00,8,30-Jan-16,Saturday,08:50:00,00:28:00,Business,Cary,Morrisville,7.9,Temporary Site,5,290.7,29,UPI/e-Wallet,Completed
+30-Nov-16,Wednesday,10:27:00,10,30-Nov-16,Wednesday,10:33:00,00:06:00,Business,Morrisville,Cary,8.9,,0,323.7,32,UPI/e-Wallet,Completed
+02-Nov-16,Wednesday,12:59:00,12,02-Nov-16,Wednesday,13:35:00,00:36:00,Business,Kenner,New Orleans,12.8,,1,452.4,45,UPI/e-Wallet,Completed
+06-Mar-16,Sunday,09:50:00,9,06-Mar-16,Sunday,10:13:00,00:23:00,Business,CBD,Pontchartrain Beach,7.7,,0,284.1,28,UPI/e-Wallet,Completed
+20-Jan-16,Wednesday,10:51:00,10,20-Jan-16,Wednesday,11:12:00,00:21:00,Business,Pontchartrain Beach,CBD,7,,3,261,26,UPI/e-Wallet,Completed
+21-Mar-16,Monday,13:48:00,13,21-Mar-16,Monday,14:11:00,00:23:00,Business,New Orleans,Metairie,12.5,,3,442.5,44,UPI/e-Wallet,Completed
+27-Sep-16,Tuesday,17:11:00,17,27-Sep-16,Tuesday,17:30:00,00:19:00,Business,Kenner,New Orleans,13.2,,3,465.6,46,UPI/e-Wallet,Completed
+10-Sep-16,Saturday,09:03:00,9,10-Sep-16,Saturday,09:46:00,00:43:00,Business,New Orleans,Kenner,13,,0,459,45,UPI/e-Wallet,Completed
+07-Oct-16,Friday,09:52:00,9,07-Oct-16,Friday,10:06:00,00:14:00,Business,Kenner,Metairie,4.9,,2,191.7,19,Uber Cash,Completed
+20-Mar-16,Sunday,10:15:00,10,20-Mar-16,Sunday,10:33:00,00:18:00,Business,Metairie,New Orleans,8.5,,4,310.5,31,Cash,Completed
+05-Apr-16,Tuesday,14:10:00,14,05-Apr-16,Tuesday,14:17:00,00:07:00,Business,CBD,St Thomas,1.3,,5,72.9,,Uber Cash,Completed
+19-Feb-16,Friday,16:04:00,16,19-Feb-16,Friday,16:15:00,00:11:00,Business,St Thomas,CBD,1.8,,2,89.4,,Card,Completed
+27-Jan-16,Wednesday,18:05:00,18,27-Jan-16,Wednesday,18:21:00,00:16:00,Business,New Orleans,Kenner,13.6,,2,478.8,47,Uber Cash,Completed
+06-Mar-16,Sunday,19:51:00,19,06-Mar-16,Sunday,20:08:00,00:17:00,Business,Kenner,New Orleans,13.4,,1,472.2,47,Uber Cash,Completed
+29-Nov-16,Tuesday,16:10:00,16,29-Nov-16,Tuesday,16:45:00,00:35:00,Business,New Orleans,Kenner,12.3,,0,435.9,43,Uber Cash,Completed
+29-Nov-16,Tuesday,19:21:00,19,29-Nov-16,Tuesday,19:26:00,00:05:00,Personal,Kenner,Kenner,1.4,,4,76.2,,Cash,Completed
+12-Jun-16,Sunday,23:47:00,23,12-Jun-16,Sunday,23:59:00,00:12:00,Personal,Morrisville,Cary,8.7,,1,317.1,31,Gift Card,Completed
+06-Jan-16,Wednesday,12:39:00,12,06-Jan-16,Wednesday,13:20:00,00:41:00,Personal,Cary,Morrisville,23.5,,1,805.5,80,Gift Card,Completed
+02-Aug-16,Tuesday,13:25:00,13,02-Aug-16,Tuesday,13:39:00,00:14:00,Personal,Morrisville,Morrisville,2.2,,4,102.6,10,Cash,Completed
+01-Jan-16,Friday,13:42:00,13,01-Jan-16,Friday,13:54:00,00:12:00,Personal,Morrisville,Cary,4.4,,4,175.2,17,Uber Cash,Completed
+24-Feb-16,Wednesday,15:51:00,15,24-Feb-16,Wednesday,15:59:00,00:08:00,Personal,Cary,Morrisville,3.3,,0,138.9,13,Uber Cash,Completed
+05-Aug-16,Friday,16:03:00,16,05-Aug-16,Friday,16:34:00,00:31:00,Business,Morrisville,Morrisville,11.8,Errand/Supplies,5,419.4,40,Uber Cash,Completed
+26-Nov-16,Saturday,16:39:00,16,26-Nov-16,Saturday,20:05:00,03:26:00,Business,Morrisville,Banner Elk,195.3,,5,6474.9,0,Cash,Completed
+24-Mar-16,Thursday,11:32:00,11,24-Mar-16,Thursday,11:53:00,00:21:00,Personal,Banner Elk,Banner Elk,8.3,,5,303.9,30,Card,Completed
+26-Jun-16,Sunday,12:09:00,12,26-Jun-16,Sunday,12:19:00,00:10:00,Personal,Banner Elk,Banner Elk,3.2,,5,135.6,13,Card,Completed
+10-Sep-16,Saturday,12:35:00,12,10-Sep-16,Saturday,13:15:00,00:40:00,Personal,Banner Elk,Elk Park,22.4,,5,769.2,76,Card,Completed
+23-May-16,Monday,15:03:00,15,23-May-16,Monday,15:33:00,00:30:00,Personal,Elk Park,Banner Elk,12.2,,2,432.6,43,Card,Completed
+03-Mar-16,Thursday,15:40:00,15,03-Mar-16,Thursday,15:52:00,00:12:00,Personal,Banner Elk,Banner Elk,4.5,,4,178.5,17,Card,Completed
+06-Nov-16,Sunday,13:14:00,13,06-Nov-16,Sunday,14:10:00,00:56:00,Personal,Banner Elk,Newland,28.1,,1,957.3,95,Uber Cash,Completed
+15-Aug-16,Monday,14:14:00,14,15-Aug-16,Monday,14:30:00,00:16:00,Personal,Newland,Newland,3.8,,4,155.4,15,Card,Completed
+02-Mar-16,Wednesday,15:29:00,15,02-Mar-16,Wednesday,16:57:00,01:28:00,Personal,Newland,Boone,41.9,,,1412.7,41,Card,Completed
+24-Nov-16,Thursday,19:42:00,19,24-Nov-16,Thursday,20:35:00,00:53:00,Personal,Boone,Banner Elk,23.8,,5,815.4,81,Uber Cash,Completed
+23-Nov-16,Wednesday,21:45:00,21,23-Nov-16,Wednesday,22:18:00,00:33:00,Personal,Banner Elk,Banner Elk,13,,5,459,45,Cash,Completed
+17-Nov-16,Thursday,22:50:00,22,17-Nov-16,Thursday,23:03:00,00:13:00,Business,Banner Elk,Banner Elk,4.4,Errand/Supplies,5,175.2,17,Card,Completed
+14-Sep-16,Wednesday,11:23:00,11,14-Sep-16,Wednesday,11:50:00,00:27:00,Personal,Banner Elk,Boone,15.1,Charity ($),,528.3,52,Uber Cash,Completed
+30-Mar-16,Wednesday,12:20:00,12,30-Mar-16,Wednesday,15:25:00,03:05:00,Personal,Boone,Cary,180.2,Commute,5,5976.6,0,Uber Cash,Completed
+23-Aug-16,Tuesday,10:37:00,10,23-Aug-16,Tuesday,10:49:00,00:12:00,Personal,Cary,Morrisville,4.1,Moving,5,165.3,16,Cash,Completed
+09-Aug-16,Tuesday,10:54:00,10,09-Aug-16,Tuesday,11:15:00,00:21:00,Personal,Morrisville,Cary,6.1,Moving,4,231.3,23,UPI/e-Wallet,Completed
+16-Apr-16,Saturday,11:25:00,11,16-Apr-16,Saturday,11:36:00,00:11:00,Personal,Northwoods,Preston,3.3,Moving,,138.9,13,Uber Cash,Completed
+09-Mar-16,Wednesday,11:40:00,11,09-Mar-16,Wednesday,11:56:00,00:16:00,Personal,Preston,Whitebridge,4.7,Moving,4,185.1,18,UPI/e-Wallet,Completed
+12-Feb-16,Friday,17:12:00,17,12-Feb-16,Friday,17:33:00,00:21:00,Business,Cary,Apex,7.2,Meeting,3,267.6,26,Cash,Completed
+10-May-16,Tuesday,18:32:00,18,10-May-16,Tuesday,18:47:00,00:15:00,Business,Apex,Cary,5.5,Meal/Entertain,4,211.5,21,Uber Cash,Completed
+30-Jan-16,Saturday,19:07:00,19,30-Jan-16,Saturday,19:14:00,00:07:00,Business,Cary,Morrisville,3.3,Meal/Entertain,,138.9,13,Uber Cash,Completed
+09-Sep-16,Friday,20:28:00,20,09-Sep-16,Friday,20:32:00,00:04:00,Business,Hazelwood,Weston,0.9,Errand/Supplies,3,59.7,5,UPI/e-Wallet,Completed
+19-Aug-16,Friday,21:11:00,21,19-Aug-16,Friday,21:19:00,00:08:00,Business,Morrisville,Cary,3.8,Meal/Entertain,1,155.4,15,Uber Cash,Completed
+10-Oct-16,Monday,10:35:00,10,10-Oct-16,Monday,10:51:00,00:16:00,Business,Whitebridge,Stonewater,6.4,Customer Visit,4,241.2,24,UPI/e-Wallet,Completed
+25-Nov-16,Friday,10:56:00,10,25-Nov-16,Friday,11:11:00,00:15:00,Business,Stonewater,Lexington Park at Amberly,3,Meeting,0,129,12,Uber Cash,Completed
+31-Aug-16,Wednesday,11:30:00,11,31-Aug-16,Wednesday,12:00:00,00:30:00,Business,Lexington Park at Amberly,Whitebridge,8.7,Meal/Entertain,2,317.1,31,Uber Cash,Completed
+19-Feb-16,Friday,17:14:00,17,19-Feb-16,Friday,17:24:00,00:10:00,Business,Whitebridge,Chessington,3.9,Errand/Supplies,3,158.7,15,Cash,Completed
+13-Dec-16,Tuesday,17:50:00,17,13-Dec-16,Tuesday,18:08:00,00:18:00,Personal,Chessington,Whitebridge,4.8,,4,188.4,18,Card,Completed
+02-Nov-16,Wednesday,17:12:00,17,02-Nov-16,Wednesday,17:24:00,00:12:00,Personal,Whitebridge,Edgehill Farms,2.8,,0,122.4,12,Card,Completed
+22-Jan-16,Friday,17:50:00,17,22-Jan-16,Friday,17:57:00,00:07:00,Personal,Edgehill Farms,Preston,1.4,,1,76.2,7,Card,Completed
+06-Jan-16,Wednesday,18:16:00,18,06-Jan-16,Wednesday,18:20:00,00:04:00,Personal,Preston,Whitebridge,1.4,,1,76.2,7,Uber Cash,Completed
+28-Mar-16,Monday,17:17:00,17,28-Mar-16,Monday,17:23:00,00:06:00,Business,Whitebridge,Edgehill Farms,2.7,,2,119.1,11,Cash,Completed
+16-Nov-16,Wednesday,17:42:00,17,16-Nov-16,Wednesday,17:51:00,00:09:00,Business,Edgehill Farms,Burtrose,2.3,,,105.9,10,Uber Cash,Completed
+05-Sep-16,Monday,18:27:00,18,05-Sep-16,Monday,18:42:00,00:15:00,Business,Cary,Morrisville,3.7,,2,152.1,15,Card,Completed
+31-Dec-16,Saturday,19:30:00,19,31-Dec-16,Saturday,19:39:00,00:09:00,Business,Morrisville,Cary,2.9,,5,125.7,12,Card,Completed
+11-Jan-16,Monday,10:42:00,10,11-Jan-16,Monday,10:53:00,00:11:00,Business,Cary,Morrisville,3.8,,5,155.4,15,Uber Cash,Completed
+23-Mar-16,Wednesday,11:11:00,11,23-Mar-16,Wednesday,11:25:00,00:14:00,Business,Morrisville,Cary,5.1,,,198.3,19,Cash,Completed
+17-Dec-16,Saturday,11:37:00,11,17-Dec-16,Saturday,12:00:00,00:23:00,Business,Hazelwood,Lexington Park at Amberly,9.1,,2,330.3,33,Uber Cash,Completed
+08-Dec-16,Thursday,12:14:00,12,08-Dec-16,Thursday,12:31:00,00:17:00,Business,Cary,Durham,8,,,294,29,Card,Completed
+11-Mar-16,Friday,13:21:00,13,11-Mar-16,Friday,13:42:00,00:21:00,Business,Durham,Cary,9.9,Meeting,0,356.7,35,Card,Completed
+25-Dec-16,Sunday,14:27:00,14,25-Dec-16,Sunday,14:43:00,00:16:00,Business,Cary,Morrisville,6.1,Meal/Entertain,4,231.3,23,Cash,Completed
+13-Jan-16,Wednesday,15:49:00,15,13-Jan-16,Wednesday,16:22:00,00:33:00,Business,Morrisville,Cary,12.2,,0,432.6,43,Card,Completed
+06-Apr-16,Wednesday,18:33:00,18,06-Apr-16,Wednesday,18:51:00,00:18:00,Business,Wayne Ridge,Whitebridge,8,,1,294,29,Card,Completed
+27-Mar-16,Sunday,14:27:00,14,27-Mar-16,Sunday,14:44:00,00:17:00,Business,Cary,Morrisville,4,,5,162,16,Card,Completed
+15-Jan-16,Friday,14:48:00,14,15-Jan-16,Friday,15:12:00,00:24:00,Business,Morrisville,Cary,9.5,,5,343.5,34,Cash,Completed
+22-May-16,Sunday,15:15:00,15,22-May-16,Sunday,15:27:00,00:12:00,Business,Cary,Morrisville,3,,1,129,12,Card,Completed
+25-Jul-16,Monday,15:50:00,15,25-Jul-16,Monday,16:10:00,00:20:00,Business,Morrisville,Cary,6.3,,3,237.9,23,Card,Completed
+15-Apr-16,Friday,20:17:00,20,15-Apr-16,Friday,20:33:00,00:16:00,Business,Cary,Durham,10.4,Meeting,1,373.2,37,Card,Completed
+26-Aug-16,Friday,23:18:00,23,26-Aug-16,Friday,23:43:00,00:25:00,Business,Durham,Cary,9.9,Meeting,4,356.7,35,Card,Completed
+14-Nov-16,Monday,10:35:00,10,14-Nov-16,Monday,10:41:00,00:06:00,Business,Whitebridge,Parkway,1.5,,5,79.5,7,Card,Completed
+14-Dec-16,Wednesday,10:47:00,10,14-Dec-16,Wednesday,10:58:00,00:11:00,Business,Cary,Morrisville,4.9,,4,191.7,19,Cash,Completed
+27-Aug-16,Saturday,11:04:00,11,27-Aug-16,Saturday,11:33:00,00:29:00,Business,Morrisville,Cary,7.9,,2,290.7,29,Card,Completed
+15-Apr-16,Friday,11:37:00,11,15-Apr-16,Friday,11:44:00,00:07:00,Business,Parkway,Whitebridge,1.7,,5,86.1,8,Card,Completed
+16-Nov-16,Wednesday,15:43:00,15,16-Nov-16,Wednesday,15:49:00,00:06:00,Business,Whitebridge,Westpark Place,2.2,,1,102.6,10,Card,Completed
+13-Aug-16,Saturday,17:14:00,17,13-Aug-16,Saturday,17:24:00,00:10:00,Business,Westpark Place,Whitebridge,2.1,,0,99.3,9,Card,Completed
+27-Dec-16,Tuesday,20:52:00,20,27-Dec-16,Tuesday,21:00:00,00:08:00,Business,Cary,Morrisville,2.5,Meal/Entertain,1,112.5,11,Cash,Completed
+22-Oct-16,Saturday,22:31:00,22,22-Oct-16,Saturday,22:39:00,00:08:00,Business,Morrisville,Cary,2.5,Meal/Entertain,0,112.5,11,UPI/e-Wallet,Completed
+22-Oct-16,Saturday,19:08:00,19,22-Oct-16,Saturday,19:20:00,00:12:00,Business,Cary,Morrisville,2.8,,3,122.4,12,Card,Completed
+12-Apr-16,Tuesday,21:34:00,21,12-Apr-16,Tuesday,21:57:00,00:23:00,Business,Morrisville,Raleigh,14.7,,2,515.1,51,UPI/e-Wallet,Completed
+07-Dec-16,Wednesday,22:00:00,22,07-Dec-16,Wednesday,22:26:00,00:26:00,Business,Raleigh,Morrisville,14.6,,2,511.8,51,Cash,Completed
+16-Sep-16,Friday,00:04:00,0,16-Sep-16,Friday,00:09:00,00:05:00,Business,Morrisville,Cary,2.3,,0,105.9,10,Card,Completed
+14-Mar-16,Monday,15:45:00,15,14-Mar-16,Monday,15:47:00,00:02:00,Business,Whitebridge,Westpark Place,2.2,,5,102.6,10,Card,Completed
+24-May-16,Tuesday,17:27:00,17,24-May-16,Tuesday,17:45:00,00:18:00,Business,Westpark Place,Whitebridge,2.2,Meal/Entertain,4,102.6,10,UPI/e-Wallet,Completed
+01-Jul-16,Friday,17:02:00,17,01-Jul-16,Friday,17:27:00,00:25:00,Business,Cary,Durham,14,,5,492,49,Card,Completed
+15-Dec-16,Thursday,21:16:00,21,15-Dec-16,Thursday,21:41:00,00:25:00,Business,Durham,Cary,13.3,,2,468.9,46,UPI/e-Wallet,Completed
+20-Jan-16,Wednesday,17:30:00,17,20-Jan-16,Wednesday,17:37:00,00:07:00,Business,Westpark Place,Whitebridge,1.8,,3,89.4,8,Cash,Completed
+07-Nov-16,Monday,12:47:00,12,07-Nov-16,Monday,13:04:00,00:17:00,Business,Whitebridge,Arlington Park at Amberly,6.2,,1,234.6,23,Card,Completed
+01-Apr-16,Friday,13:08:00,13,01-Apr-16,Friday,13:19:00,00:11:00,Business,Arlington Park at Amberly,Lexington Park at Amberly,1.3,,4,72.9,7,Card,Completed
+05-Jan-16,Tuesday,13:28:00,13,05-Jan-16,Tuesday,13:46:00,00:18:00,Business,Lexington Park at Amberly,Westpark Place,1.9,,5,92.7,9,Card,Completed
+16-Oct-16,Sunday,13:52:00,13,16-Oct-16,Sunday,14:14:00,00:22:00,Business,Cary,Apex,6.9,,2,257.7,25,Card,Completed
+14-Apr-16,Thursday,15:40:00,15,14-Apr-16,Thursday,15:47:00,00:07:00,Business,Apex,Cary,4.6,,2,181.8,18,Uber Cash,Completed
+24-Mar-16,Thursday,16:18:00,16,24-Mar-16,Thursday,16:25:00,00:07:00,Business,Whitebridge,Edgehill Farms,2.8,,3,122.4,12,Card,Completed
+31-May-16,Tuesday,16:29:00,16,31-May-16,Tuesday,16:59:00,00:30:00,Business,Cary,Morrisville,9.1,,3,330.3,33,Card,Completed
+26-Dec-16,Monday,17:23:00,17,26-Dec-16,Monday,17:55:00,00:32:00,Business,Morrisville,Cary,8.1,,3,297.3,29,Uber Cash,Completed
+06-Apr-16,Wednesday,08:11:00,8,06-Apr-16,Wednesday,08:32:00,00:21:00,Business,Cary,Morrisville,8.4,Meeting,2,307.2,30,Cash,Completed
+13-Jun-16,Monday,11:51:00,11,13-Jun-16,Monday,12:15:00,00:24:00,Business,Arlington,Washington,4.9,,5,191.7,19,Uber Cash,Completed
+25-Dec-16,Sunday,19:15:00,19,25-Dec-16,Sunday,19:23:00,00:08:00,Business,Kalorama Triangle,K Street,1,,5,63,6,Uber Cash,Completed
+14-Jun-16,Tuesday,21:23:00,21,14-Jun-16,Tuesday,21:29:00,00:06:00,Business,K Street,Kalorama Triangle,1,,2,63,6,Uber Cash,Completed
+28-May-16,Saturday,12:46:00,12,28-May-16,Saturday,13:00:00,00:14:00,Business,West End,Northwest Rectangle,2,,5,96,9,Card,Completed
+29-Aug-16,Monday,14:59:00,14,29-Aug-16,Monday,15:03:00,00:04:00,Business,K Street,Kalorama Triangle,1.1,,2,66.3,6,Card,Completed
+13-Oct-16,Thursday,16:00:00,16,13-Oct-16,Thursday,16:04:00,00:04:00,Business,Kalorama Triangle,Downtown,1.5,,1,79.5,,Card,Completed
+04-Jun-16,Saturday,17:23:00,17,04-Jun-16,Saturday,17:30:00,00:07:00,Business,Connecticut Avenue,Kalorama Triangle,1.3,,5,72.9,7,Card,Completed
+13-Jan-16,Wednesday,18:17:00,18,13-Jan-16,Wednesday,18:21:00,00:04:00,Business,Kalorama Triangle,Columbia Heights,1.8,,3,89.4,8,Card,Completed
+21-Dec-16,Wednesday,19:17:00,19,21-Dec-16,Wednesday,19:27:00,00:10:00,Business,Columbia Heights,Kalorama Triangle,1.5,,2,79.5,,Card,Completed
+24-Mar-16,Thursday,06:40:00,6,24-Mar-16,Thursday,06:58:00,00:18:00,Business,Washington,Arlington,6.6,,0,247.8,24,Card,Completed
+30-Dec-16,Friday,09:31:00,9,30-Dec-16,Friday,09:53:00,00:22:00,Business,Morrisville,Cary,8,,2,294,29,Card,Completed
+23-Oct-16,Sunday,17:14:00,17,23-Oct-16,Sunday,17:23:00,00:09:00,Business,Whitebridge,Edgehill Farms,2.7,,2,119.1,11,Card,Completed
+29-Dec-16,Thursday,17:28:00,17,29-Dec-16,Thursday,17:43:00,00:15:00,Business,Edgehill Farms,Whitebridge,2.7,Customer Visit,3,119.1,11,Card,Completed
+08-Jan-16,Friday,18:17:00,18,08-Jan-16,Friday,18:23:00,00:06:00,Business,Cary,Morrisville,2.5,,0,112.5,11,Uber Cash,Completed
+18-Jun-16,Saturday,20:15:00,20,18-Jun-16,Saturday,20:23:00,00:08:00,Business,Morrisville,Cary,2.5,Meal/Entertain,4,112.5,11,Cash,Completed
+23-Jul-16,Saturday,16:17:00,16,23-Jul-16,Saturday,16:31:00,00:14:00,Business,Whitebridge,Farmington Woods,5.2,,4,201.6,20,UPI/e-Wallet,Completed
+25-Oct-16,Tuesday,16:37:00,16,25-Oct-16,Tuesday,16:50:00,00:13:00,Business,Farmington Woods,Edgehill Farms,4,,1,162,16,Uber Cash,Completed
+22-Nov-16,Tuesday,17:02:00,17,22-Nov-16,Tuesday,17:13:00,00:11:00,Business,Edgehill Farms,Whitebridge,2.7,Customer Visit,5,119.1,11,UPI/e-Wallet,Completed
+28-Apr-16,Thursday,21:50:00,21,28-Apr-16,Thursday,22:15:00,00:25:00,Business,Cary,Morrisville,4.8,,5,188.4,18,Cash,Completed
+21-Oct-16,Friday,23:28:00,23,21-Oct-16,Friday,23:37:00,00:09:00,Business,Morrisville,Cary,3.2,Customer Visit,0,135.6,13,Uber Cash,Completed
+13-Dec-16,Tuesday,14:20:00,14,13-Dec-16,Tuesday,14:38:00,00:18:00,Business,Whitebridge,Waverly Place,6.9,,0,257.7,25,Uber Cash,Completed
+30-Mar-16,Wednesday,15:15:00,15,30-Mar-16,Wednesday,15:36:00,00:21:00,Business,Cary,Raleigh,14.9,,0,521.7,52,UPI/e-Wallet,Completed
+21-Sep-16,Wednesday,16:04:00,16,21-Sep-16,Wednesday,16:37:00,00:33:00,Business,Raleigh,Cary,17.4,,2,604.2,60,Uber Cash,Completed
+12-Feb-16,Friday,16:56:00,16,12-Feb-16,Friday,17:24:00,00:28:00,Business,Cary,Durham,12.9,,0,455.7,45,UPI/e-Wallet,Completed
+20-Jul-16,Wednesday,17:53:00,17,20-Jul-16,Wednesday,18:28:00,00:35:00,Business,Durham,Apex,15.3,,3,534.9,53,Card,Completed
+14-Jul-16,Thursday,18:49:00,18,14-Jul-16,Thursday,18:50:00,00:01:00,Business,Apex,Apex,1,,1,63,,Card,Completed
+22-Aug-16,Monday,19:47:00,19,22-Aug-16,Monday,20:02:00,00:15:00,Business,Apex,Cary,6,,,228,22,Card,Completed
+04-Nov-16,Friday,12:53:00,12,04-Nov-16,Friday,13:00:00,00:07:00,Business,Whitebridge,Heritage Pines,2.2,,1,102.6,10,Card,Completed
+21-Nov-16,Monday,13:14:00,13,21-Nov-16,Monday,13:28:00,00:14:00,Business,Heritage Pines,Edgehill Farms,4.4,,4,175.2,17,Uber Cash,Completed
+10-Feb-16,Wednesday,13:32:00,13,10-Feb-16,Wednesday,13:42:00,00:10:00,Business,Edgehill Farms,Whitebridge,2.8,,0,122.4,12,Cash,Completed
+15-May-16,Sunday,18:37:00,18,15-May-16,Sunday,19:29:00,00:52:00,Business,Cary,Wake Forest,31.7,,1,1076.1,100,Gift Card,Completed
+09-Jul-16,Saturday,20:59:00,20,09-Jul-16,Saturday,21:44:00,00:45:00,Business,Wake Forest,Cary,31.9,,2,1082.7,100,Card,Completed
+22-Mar-16,Tuesday,18:49:00,18,22-Mar-16,Tuesday,18:52:00,00:03:00,Business,Whitebridge,Westpark Place,1.9,,0,92.7,,Card,Completed
+03-Aug-16,Wednesday,18:56:00,18,03-Aug-16,Wednesday,19:05:00,00:09:00,Business,Westpark Place,Whitebridge,1.8,,0,89.4,8,Card,Completed
+17-Sep-16,Saturday,15:35:00,15,17-Sep-16,Saturday,15:58:00,00:23:00,Business,Cary,Morrisville,8.4,Meeting,4,307.2,30,Card,Completed
+03-Dec-16,Saturday,09:05:00,9,03-Dec-16,Saturday,09:52:00,00:47:00,Business,R?walpindi,Unknown Location,15.6,,1,544.8,54,Card,Completed
+27-Oct-16,Thursday,15:20:00,15,27-Oct-16,Thursday,15:47:00,00:27:00,Business,Unknown Location,Unknown Location,14.1,,2,495.3,49,Card,Cancelled 
+10-Sep-16,Saturday,16:52:00,16,10-Sep-16,Saturday,17:30:00,00:38:00,Business,Unknown Location,Unknown Location,15.7,,1,548.1,54,Gift Card,Cancelled 
+11-Jul-16,Monday,19:08:00,19,11-Jul-16,Monday,20:30:00,01:22:00,Business,Unknown Location,Unknown Location,25.9,Temporary Site,1,884.7,88,Cash,Cancelled 
+03-Feb-16,Wednesday,07:58:00,7,03-Feb-16,Wednesday,08:11:00,00:13:00,Business,Unknown Location,Unknown Location,7.9,,5,290.7,29,Gift Card,Cancelled 
+05-Sep-16,Monday,08:16:00,8,05-Sep-16,Monday,08:23:00,00:07:00,Business,Unknown Location,Unknown Location,2.7,,2,119.1,11,Card,Cancelled 
+17-Feb-16,Wednesday,08:46:00,8,17-Feb-16,Wednesday,08:53:00,00:07:00,Business,Unknown Location,Unknown Location,5.5,,5,211.5,21,Card,Cancelled 
+06-Dec-16,Tuesday,10:06:00,10,06-Dec-16,Tuesday,10:27:00,00:21:00,Business,Unknown Location,Islamabad,5.7,,3,218.1,21,Card,Cancelled 
+19-Feb-16,Friday,10:31:00,10,19-Feb-16,Friday,10:38:00,00:07:00,Business,Islamabad,Islamabad,1.2,,0,69.6,6,Card,Completed
+30-Jun-16,Thursday,11:47:00,11,30-Jun-16,Thursday,12:03:00,00:16:00,Business,Islamabad,Unknown Location,5.7,Temporary Site,0,218.1,21,Card,Completed
+02-Sep-16,Friday,15:13:00,15,02-Sep-16,Friday,15:36:00,00:23:00,Business,Unknown Location,Unknown Location,16.2,,3,564.6,56,Card,Cancelled 
+04-Oct-16,Tuesday,10:17:00,10,04-Oct-16,Tuesday,10:41:00,00:24:00,Business,Unknown Location,Unknown Location,2.6,,2,115.8,11,Gift Card,Cancelled 
+25-Aug-16,Thursday,10:57:00,10,25-Aug-16,Thursday,11:20:00,00:23:00,Business,Unknown Location,Unknown Location,12.1,,1,429.3,42,Cash,Cancelled 
+31-Mar-16,Thursday,14:45:00,14,31-Mar-16,Thursday,14:50:00,00:05:00,Business,Unknown Location,R?walpindi,1.4,,4,76.2,,Gift Card,Cancelled 
+27-Nov-16,Sunday,15:32:00,15,27-Nov-16,Sunday,15:47:00,00:15:00,Business,R?walpindi,Islamabad,6.4,,0,241.2,24,Card,Completed
+27-Jan-16,Wednesday,16:29:00,16,27-Jan-16,Wednesday,16:50:00,00:21:00,Business,Islamabad,Unknown Location,7.3,,5,270.9,27,Card,Completed
+08-Mar-16,Tuesday,16:54:00,16,08-Mar-16,Tuesday,17:00:00,00:06:00,Business,Unknown Location,Unknown Location,5.3,,2,204.9,20,Card,Cancelled 
+04-Feb-16,Thursday,17:05:00,17,04-Feb-16,Thursday,17:34:00,00:29:00,Business,Unknown Location,Unknown Location,5.5,,3,211.5,21,Card,Cancelled 
+23-Jan-16,Saturday,18:38:00,18,23-Jan-16,Saturday,18:57:00,00:19:00,Business,Unknown Location,Unknown Location,7.7,Temporary Site,2,284.1,28,Card,Cancelled 
+30-Sep-16,Friday,18:40:00,18,30-Sep-16,Friday,19:07:00,00:27:00,Business,Unknown Location,Unknown Location,7.6,Temporary Site,0,280.8,28,Card,Cancelled 
+17-Nov-16,Thursday,08:24:00,8,17-Nov-16,Thursday,08:45:00,00:21:00,Business,Unknown Location,Noorpur Shahan,7.6,,0,280.8,28,Gift Card,Cancelled 
+06-Oct-16,Thursday,08:54:00,8,06-Oct-16,Thursday,09:07:00,00:13:00,Business,Noorpur Shahan,Islamabad,3.3,,2,138.9,13,Cash,Completed
+09-Mar-16,Wednesday,09:27:00,9,09-Mar-16,Wednesday,09:47:00,00:20:00,Business,Islamabad,R?walpindi,6.5,,1,244.5,24,Gift Card,Completed
+27-Sep-16,Tuesday,10:57:00,10,27-Sep-16,Tuesday,11:06:00,00:09:00,Business,R?walpindi,Unknown Location,2,,5,96,,Card,Completed
+26-Feb-16,Friday,12:07:00,12,26-Feb-16,Friday,12:24:00,00:17:00,Business,Unknown Location,Islamabad,5.7,,0,218.1,21,Card,Cancelled 
+05-Dec-16,Monday,15:51:00,15,05-Dec-16,Monday,16:06:00,00:15:00,Business,Islamabad,Islamabad,3.2,,4,135.6,13,Card,Completed
+17-Jul-16,Sunday,17:12:00,17,17-Jul-16,Sunday,17:52:00,00:40:00,Business,Islamabad,Unknown Location,12.5,,0,442.5,44,Card,Completed
+09-Apr-16,Saturday,10:00:00,10,09-Apr-16,Saturday,10:29:00,00:29:00,Business,Unknown Location,Unknown Location,7.6,Airport/Travel,5,280.8,28,Card,Cancelled 
+18-Oct-16,Tuesday,14:05:00,14,18-Oct-16,Tuesday,14:34:00,00:29:00,Business,Unknown Location,Unknown Location,7.7,,5,284.1,28,Card,Cancelled 
+12-Nov-16,Saturday,16:30:00,16,12-Nov-16,Saturday,17:02:00,00:32:00,Business,Unknown Location,Islamabad,12.2,,0,432.6,43,Gift Card,Cancelled 
+19-Jan-16,Tuesday,18:10:00,18,19-Jan-16,Tuesday,18:17:00,00:07:00,Business,Islamabad,Islamabad,1.4,,0,76.2,7,Cash,Completed
+02-Feb-16,Tuesday,18:48:00,18,02-Feb-16,Tuesday,19:24:00,00:36:00,Business,Islamabad,Unknown Location,20.2,,0,696.6,69,Uber Cash,Completed
+16-Jan-16,Saturday,10:00:00,10,16-Jan-16,Saturday,10:44:00,00:44:00,Business,Unknown Location,Islamabad,9.8,,2,353.4,35,Uber Cash,Cancelled 
+22-Jul-16,Friday,11:07:00,11,22-Jul-16,Friday,11:23:00,00:16:00,Business,Islamabad,Unknown Location,6.3,,2,237.9,23,Uber Cash,Completed
+23-Apr-16,Saturday,12:36:00,12,23-Apr-16,Saturday,12:49:00,00:13:00,Business,Unknown Location,Islamabad,4.9,,2,191.7,19,Uber Cash,Cancelled 
+03-Sep-16,Saturday,13:02:00,13,03-Sep-16,Saturday,13:11:00,00:09:00,Business,Islamabad,Islamabad,1.5,,4,79.5,7,Uber Cash,Completed
+24-Jan-16,Sunday,14:07:00,14,24-Jan-16,Sunday,14:31:00,00:24:00,Business,Islamabad,Unknown Location,10.9,,1,389.7,38,Cash,Completed
+03-Sep-16,Saturday,15:14:00,15,03-Sep-16,Saturday,15:49:00,00:35:00,Business,Unknown Location,Unknown Location,19,,,657,65,Gift Card,Cancelled 
+14-Jun-16,Tuesday,15:59:00,15,14-Jun-16,Tuesday,17:16:00,01:17:00,Business,Unknown Location,Unknown Location,19,,4,657,65,Card,Cancelled 
+28-Apr-16,Thursday,19:58:00,19,28-Apr-16,Thursday,20:50:00,00:52:00,Business,Unknown Location,R?walpindi,7.9,,1,290.7,29,Card,Cancelled 
+15-Apr-16,Friday,20:53:00,20,15-Apr-16,Friday,21:31:00,00:38:00,Business,R?walpindi,R?walpindi,4.1,,0,165.3,16,Card,Completed
+17-Oct-16,Monday,22:31:00,22,17-Oct-16,Monday,23:00:00,00:29:00,Business,R?walpindi,Unknown Location,18.7,,1,647.1,64,Card,Completed
+13-Mar-16,Sunday,08:10:00,8,13-Mar-16,Sunday,08:25:00,00:15:00,Business,Unknown Location,Noorpur Shahan,8.7,,2,317.1,31,Card,Cancelled 
+22-Jul-16,Friday,09:35:00,9,22-Jul-16,Friday,10:09:00,00:34:00,Business,Noorpur Shahan,Unknown Location,7.5,,2,277.5,27,Card,Completed
+29-Nov-16,Tuesday,12:59:00,12,29-Nov-16,Tuesday,13:15:00,00:16:00,Business,Unknown Location,Noorpur Shahan,7.7,,3,284.1,28,Card,Cancelled 
+08-Nov-16,Tuesday,13:19:00,13,08-Nov-16,Tuesday,13:30:00,00:11:00,Business,Noorpur Shahan,Islamabad,4.4,,5,175.2,17,Cash,Completed
+30-Mar-16,Wednesday,13:49:00,13,30-Mar-16,Wednesday,14:04:00,00:15:00,Business,Islamabad,Unknown Location,5,,4,195,19,Gift Card,Completed
+28-Jul-16,Thursday,15:07:00,15,28-Jul-16,Thursday,15:12:00,00:05:00,Business,Unknown Location,Unknown Location,1.9,,2,92.7,,Card,Cancelled 
+27-May-16,Friday,15:15:00,15,27-May-16,Friday,17:16:00,02:01:00,Business,Unknown Location,Unknown Location,7.9,,5,290.7,29,Card,Cancelled 
+07-Nov-16,Monday,17:42:00,17,07-Nov-16,Monday,18:31:00,00:49:00,Business,Unknown Location,Unknown Location,17.7,,3,614.1,61,UPI/e-Wallet,Cancelled 
+25-Apr-16,Monday,12:05:00,12,25-Apr-16,Monday,12:56:00,00:51:00,Business,Unknown Location,Unknown Location,25.2,,5,861.6,86,UPI/e-Wallet,Cancelled 
+06-Apr-16,Wednesday,13:01:00,13,06-Apr-16,Wednesday,15:25:00,02:24:00,Business,Unknown Location,Unknown Location,96.2,,1,3204.6,69,UPI/e-Wallet,Cancelled 
+06-Jun-16,Monday,15:17:00,15,06-Jun-16,Monday,16:22:00,01:05:00,Business,Unknown Location,Unknown Location,35,,5,1185,77,UPI/e-Wallet,Cancelled 
+21-Mar-16,Monday,16:36:00,16,21-Mar-16,Monday,16:56:00,00:20:00,,Unknown Location,Unknown Location,5.5,,1,211.5,21,UPI/e-Wallet,Cancelled 
+12-Mar-16,Saturday,17:19:00,17,12-Mar-16,Saturday,19:20:00,02:01:00,,Unknown Location,Unknown Location,50.4,,4,1693.2,96,UPI/e-Wallet,Cancelled 
+27-Sep-16,Tuesday,19:25:00,19,27-Sep-16,Tuesday,19:57:00,00:32:00,,Unknown Location,Lahore,9.2,,2,333.6,33,UPI/e-Wallet,Cancelled 
+12-May-16,Thursday,22:58:00,22,12-May-16,Thursday,23:16:00,00:18:00,,Lahore,Unknown Location,7.3,,0,270.9,27,UPI/e-Wallet,Completed
+14-Jun-16,Tuesday,09:06:00,9,14-Jun-16,Tuesday,09:20:00,00:14:00,,Unknown Location,Unknown Location,5,,5,195,19,UPI/e-Wallet,Cancelled 
+23-Aug-16,Tuesday,11:14:00,11,23-Aug-16,Tuesday,11:26:00,00:12:00,,Unknown Location,Unknown Location,3.8,,0,155.4,15,UPI/e-Wallet,Cancelled 
+21-Feb-16,Sunday,12:10:00,12,21-Feb-16,Sunday,12:20:00,00:10:00,,Unknown Location,Lahore,3.9,,1,158.7,15,UPI/e-Wallet,Cancelled 
+02-May-16,Monday,14:10:00,14,02-May-16,Monday,14:33:00,00:23:00,Business,Lahore,Lahore,7.4,,,274.2,27,UPI/e-Wallet,Completed
+26-Dec-16,Monday,15:23:00,15,26-Dec-16,Monday,15:35:00,00:12:00,Business,Lahore,Lahore,1.5,,3,79.5,,UPI/e-Wallet,Completed
+27-Jul-16,Wednesday,15:59:00,15,27-Jul-16,Wednesday,16:24:00,00:25:00,Business,Lahore,Unknown Location,7.9,,0,290.7,29,UPI/e-Wallet,Completed
+19-Jul-16,Tuesday,16:55:00,16,19-Jul-16,Tuesday,17:12:00,00:17:00,Business,Unknown Location,Lahore,2.9,,0,125.7,12,UPI/e-Wallet,Cancelled 
+07-May-16,Saturday,18:42:00,18,07-May-16,Saturday,18:56:00,00:14:00,Business,Lahore,Lahore,3.4,,2,142.2,14,UPI/e-Wallet,Completed
+17-Nov-16,Thursday,19:31:00,19,17-Nov-16,Thursday,19:54:00,00:23:00,Business,Lahore,Lahore,3.8,,3,155.4,15,UPI/e-Wallet,Completed
+06-Sep-16,Tuesday,20:06:00,20,06-Sep-16,Tuesday,20:16:00,00:10:00,Business,Lahore,Unknown Location,5.9,,1,224.7,22,UPI/e-Wallet,Completed
+09-Dec-16,Friday,09:34:00,9,09-Dec-16,Friday,10:11:00,00:37:00,Business,Unknown Location,Lahore,9.6,,0,346.8,34,UPI/e-Wallet,Cancelled 
+17-Jul-16,Sunday,11:47:00,11,17-Jul-16,Sunday,12:06:00,00:19:00,Business,Lahore,Lahore,7,,4,261,26,Gift Card,Completed
+21-Jul-16,Thursday,12:12:00,12,21-Jul-16,Thursday,12:17:00,00:05:00,Business,Lahore,Lahore,0.9,,,59.7,,UPI/e-Wallet,Completed
+04-Oct-16,Tuesday,14:01:00,14,04-Oct-16,Tuesday,15:44:00,01:43:00,Business,Lahore,Unknown Location,86.6,,0,2887.8,88,Cash,Completed
+30-Dec-16,Friday,16:15:00,16,30-Dec-16,Friday,19:13:00,02:58:00,Business,Unknown Location,Unknown Location,156.9,,4,5207.7,52,Uber Cash,Cancelled 
+21-Feb-16,Sunday,09:57:00,9,21-Feb-16,Sunday,10:18:00,00:21:00,Business,Unknown Location,Noorpur Shahan,10.1,,2,363.3,36,Uber Cash,Cancelled 
+06-Apr-16,Wednesday,16:39:00,16,06-Apr-16,Wednesday,16:55:00,00:16:00,Business,Noorpur Shahan,Islamabad,6.2,,2,234.6,23,UPI/e-Wallet,Completed
+12-Nov-16,Saturday,17:37:00,17,12-Nov-16,Saturday,17:55:00,00:18:00,Business,Islamabad,Islamabad,5.3,,5,204.9,20,Gift Card,Completed
+03-Jun-16,Friday,21:15:00,21,03-Jun-16,Friday,21:59:00,00:44:00,Business,Islamabad,Unknown Location,12.1,,1,429.3,42,UPI/e-Wallet,Completed
+05-Jun-16,Sunday,12:02:00,12,05-Jun-16,Sunday,12:31:00,00:29:00,Business,Unknown Location,Islamabad,10.8,,1,386.4,38,Gift Card,Cancelled 
+04-Feb-16,Thursday,13:38:00,13,04-Feb-16,Thursday,13:48:00,00:10:00,Business,Islamabad,Islamabad,4.3,,1,171.9,17,Card,Completed
+22-May-16,Sunday,14:31:00,14,22-May-16,Sunday,14:41:00,00:10:00,Business,Islamabad,Islamabad,2.5,,3,112.5,11,Card,Completed
+18-Aug-16,Thursday,14:49:00,14,18-Aug-16,Thursday,15:04:00,00:15:00,Business,Islamabad,Unknown Location,5.7,Temporary Site,,218.1,21,Card,Completed
+06-Aug-16,Saturday,15:49:00,15,06-Aug-16,Saturday,15:59:00,00:10:00,Business,Unknown Location,Islamabad,2.8,,5,122.4,12,Card,Cancelled 
+18-Feb-16,Thursday,16:06:00,16,18-Feb-16,Thursday,16:21:00,00:15:00,Business,Islamabad,Unknown Location,4,,3,162,16,Card,Completed
+31-May-16,Tuesday,17:24:00,17,31-May-16,Tuesday,17:41:00,00:17:00,Business,Unknown Location,Islamabad,5.5,,1,211.5,21,Card,Cancelled 
+10-Nov-16,Thursday,18:27:00,18,10-Nov-16,Thursday,18:36:00,00:09:00,Business,Islamabad,Islamabad,2.6,,5,115.8,11,Cash,Completed
+26-Nov-16,Saturday,11:53:00,11,26-Nov-16,Saturday,12:05:00,00:12:00,Business,Unknown Location,Unknown Location,2.1,,0,99.3,,Cash,Cancelled 
+13-Sep-16,Tuesday,12:46:00,12,13-Sep-16,Tuesday,13:09:00,00:23:00,Business,Unknown Location,Islamabad,8.8,,2,320.4,32,Cash,Cancelled 
+24-Sep-16,Saturday,13:25:00,13,24-Sep-16,Saturday,13:46:00,00:21:00,Business,Islamabad,Islamabad,4.4,,2,175.2,17,Cash,Completed
+25-Sep-16,Sunday,14:00:00,14,25-Sep-16,Sunday,14:20:00,00:20:00,Business,Islamabad,Unknown Location,5.3,,5,204.9,20,Cash,Completed
+22-Jan-16,Friday,17:27:00,17,22-Jan-16,Friday,18:09:00,00:42:00,Business,Unknown Location,Unknown Location,13,,3,459,45,Cash,Cancelled 
+27-May-16,Friday,11:51:00,11,27-May-16,Friday,12:24:00,00:33:00,Business,Unknown Location,Islamabad,13,,2,459,45,Cash,Cancelled 
+03-Apr-16,Sunday,17:21:00,17,03-Apr-16,Sunday,17:36:00,00:15:00,Business,Islamabad,Unknown Location,10.6,,2,379.8,37,Cash,Completed
+13-Jan-16,Wednesday,18:49:00,18,13-Jan-16,Wednesday,19:08:00,00:19:00,Business,Unknown Location,Unknown Location,2.2,,2,102.6,10,Cash,Cancelled 
+11-Nov-16,Friday,11:37:00,11,11-Nov-16,Friday,12:24:00,00:47:00,Business,Unknown Location,Islamabad,9.2,,4,333.6,33,Cash,Cancelled 
+06-Aug-16,Saturday,18:56:00,18,06-Aug-16,Saturday,19:37:00,00:41:00,Business,Unknown Location,Unknown Location,12.9,,1,455.7,45,Cash,Cancelled 
+06-Sep-16,Tuesday,10:25:00,10,06-Sep-16,Tuesday,10:44:00,00:19:00,Business,Unknown Location,R?walpindi,17.2,,3,597.6,59,UPI/e-Wallet,Cancelled 
+11-May-16,Wednesday,17:49:00,17,11-May-16,Wednesday,17:49:00,00:00:00,Business,Unknown Location,Unknown Location,69.1,,1,2310.3,,Card,Cancelled 
+03-Jun-16,Friday,10:28:00,10,03-Jun-16,Friday,10:45:00,00:17:00,Business,Unknown Location,Unknown Location,2.8,,0,122.4,12,UPI/e-Wallet,Cancelled 
+14-Jul-16,Thursday,09:51:00,9,14-Jul-16,Thursday,09:55:00,00:04:00,Business,Unknown Location,Unknown Location,8.6,,0,313.8,31,Cash,Cancelled 
+08-Dec-16,Thursday,21:40:00,21,08-Dec-16,Thursday,21:42:00,00:02:00,Business,Unknown Location,Unknown Location,9.8,,3,353.4,35,Card,Cancelled 
+04-Oct-16,Tuesday,08:07:00,8,04-Oct-16,Tuesday,08:12:00,00:05:00,Business,Unknown Location,Unknown Location,3.6,,1,148.8,14,Card,Cancelled 
+20-May-16,Friday,11:15:00,11,20-May-16,Friday,11:24:00,00:09:00,Business,Unknown Location,Unknown Location,1.7,,3,86.1,8,UPI/e-Wallet,Cancelled 
+01-Nov-16,Tuesday,13:04:00,13,01-Nov-16,Tuesday,13:44:00,00:40:00,Business,Unknown Location,Unknown Location,11.5,,1,409.5,40,Gift Card,Cancelled 
+18-Dec-16,Sunday,16:56:00,16,18-Dec-16,Sunday,17:02:00,00:06:00,Business,Unknown Location,Unknown Location,0.7,,3,53.1,,UPI/e-Wallet,Cancelled 
+02-Apr-16,Saturday,11:55:00,11,02-Apr-16,Saturday,11:59:00,00:04:00,Business,Unknown Location,Unknown Location,0.7,,5,53.1,5,Cash,Cancelled 
+19-Mar-16,Saturday,20:33:00,20,19-Mar-16,Saturday,20:38:00,00:05:00,Business,Unknown Location,Unknown Location,0.9,,0,59.7,,Cash,Cancelled 
+27-Dec-16,Tuesday,07:08:00,7,27-Dec-16,Tuesday,07:08:00,00:00:00,Business,Unknown Location,Unknown Location,1.6,,,82.8,8,Card,Cancelled 
+09-May-16,Monday,18:07:00,18,09-May-16,Monday,18:11:00,00:04:00,Business,Unknown Location,Unknown Location,9.4,,1,340.2,34,Card,Cancelled 
+27-Nov-16,Sunday,06:18:00,6,27-Nov-16,Sunday,06:49:00,00:31:00,Business,R?walpindi,Unknown Location,18.2,,4,630.6,63,Card,Completed
+25-Feb-16,Thursday,14:40:00,14,25-Feb-16,Thursday,14:56:00,00:16:00,Business,Unknown Location,Islamabad,10.5,,2,376.5,37,Card,Cancelled 
+05-Dec-16,Monday,16:23:00,16,05-Dec-16,Monday,16:31:00,00:08:00,Business,Islamabad,Unknown Location,5.7,,4,218.1,21,Card,Completed
+22-Mar-16,Tuesday,17:36:00,17,22-Mar-16,Tuesday,18:20:00,00:44:00,Business,Unknown Location,Unknown Location,18,,4,624,62,Cash,Cancelled 
+07-Jan-16,Thursday,19:10:00,19,07-Jan-16,Thursday,19:49:00,00:39:00,Business,Unknown Location,Islamabad,18.3,,3,633.9,63,UPI/e-Wallet,Cancelled 
+20-Jan-16,Wednesday,11:29:00,11,20-Jan-16,Wednesday,11:48:00,00:19:00,Business,Islamabad,Unknown Location,16.5,,1,574.5,57,Card,Completed
+13-Nov-16,Sunday,20:47:00,20,13-Nov-16,Sunday,22:47:00,02:00:00,Business,Unknown Location,R?walpindi,9.6,,3,346.8,34,UPI/e-Wallet,Cancelled 
+28-Dec-16,Wednesday,13:15:00,13,28-Dec-16,Wednesday,13:40:00,00:25:00,Business,Karachi,Karachi,2.9,,2,125.7,12,Cash,Completed
+09-Apr-16,Saturday,14:34:00,14,09-Apr-16,Saturday,15:15:00,00:41:00,Business,Karachi,Unknown Location,8.2,,1,300.6,30,Card,Completed
+04-Feb-16,Thursday,20:29:00,20,04-Feb-16,Thursday,20:33:00,00:04:00,Business,Unknown Location,Unknown Location,2.4,,2,109.2,10,Card,Cancelled 
+12-Jun-16,Sunday,08:33:00,8,12-Jun-16,Sunday,08:35:00,00:02:00,Business,Unknown Location,Unknown Location,5.8,,1,221.4,22,UPI/e-Wallet,Cancelled 
+03-Dec-16,Saturday,13:21:00,13,03-Dec-16,Saturday,14:43:00,01:22:00,Business,Lahore,Lahore,9.8,,1,353.4,35,Card,Completed
+14-Feb-16,Sunday,19:14:00,19,14-Feb-16,Sunday,20:34:00,01:20:00,Business,Lahore,Unknown Location,7.3,,1,270.9,27,UPI/e-Wallet,Completed
+12-Jun-16,Sunday,02:01:00,2,12-Jun-16,Sunday,06:37:00,04:36:00,Business,Unknown Location,Unknown Location,195.6,,3,6484.8,100,UPI/e-Wallet,Cancelled 
+10-Jun-16,Friday,17:21:00,17,10-Jun-16,Friday,19:36:00,02:15:00,Business,Islamabad,Unknown Location,20.5,,2,706.5,70,Card,Completed
+12-Mar-16,Saturday,16:13:00,16,12-Mar-16,Saturday,18:47:00,02:34:00,Business,Unknown Location,Islamabad,12.6,,3,445.8,44,UPI/e-Wallet,Cancelled 
+08-Apr-16,Friday,17:39:00,17,08-Apr-16,Friday,20:20:00,02:41:00,Business,Islamabad,Islamabad,37.7,,1,1274.1,127,Cash,Completed
+01-May-16,Sunday,20:59:00,20,01-May-16,Sunday,22:34:00,01:35:00,Business,Islamabad,Unknown Location,16.7,,4,581.1,58,Card,Completed
+18-Oct-16,Tuesday,17:09:00,17,18-Oct-16,Tuesday,17:12:00,00:03:00,Business,Unknown Location,Islamabad,10.5,,5,376.5,37,Card,Cancelled 
+06-May-16,Friday,18:17:00,18,06-May-16,Friday,18:34:00,00:17:00,Business,Islamabad,Islamabad,2.8,,,122.4,12,UPI/e-Wallet,Completed
+12-Dec-16,Monday,18:51:00,18,12-Dec-16,Monday,19:01:00,00:10:00,Business,Islamabad,Islamabad,1.6,,0,82.8,8,Card,Completed
+10-Jun-16,Friday,22:04:00,22,10-Jun-16,Friday,22:33:00,00:29:00,Business,Islamabad,Unknown Location,12.7,,,449.1,44,UPI/e-Wallet,Completed
+03-Nov-16,Thursday,09:50:00,9,03-Nov-16,Thursday,10:52:00,01:02:00,Business,Unknown Location,Unknown Location,28.6,,5,973.8,97,Card,Cancelled 
+02-Feb-16,Tuesday,12:17:00,12,02-Feb-16,Tuesday,12:18:00,00:01:00,Business,Unknown Location,Unknown Location,15.1,,2,528.3,52,Card,Cancelled 
+09-Nov-16,Wednesday,08:49:00,8,09-Nov-16,Wednesday,11:36:00,02:47:00,Business,Unknown Location,R?walpindi,17.9,,0,620.7,62,Cash,Cancelled 
+26-Nov-16,Saturday,17:23:00,17,26-Nov-16,Saturday,17:40:00,00:17:00,Business,R?walpindi,Unknown Location,112.6,,2,3745.8,100,UPI/e-Wallet,Completed
+06-Feb-16,Saturday,18:37:00,18,06-Feb-16,Saturday,18:39:00,00:02:00,Business,Unknown Location,Unknown Location,18.4,,2,637.2,63,Card,Cancelled 
+04-Nov-16,Friday,19:46:00,19,04-Nov-16,Friday,20:26:00,00:40:00,Business,Unknown Location,Unknown Location,13.8,,4,485.4,48,UPI/e-Wallet,Cancelled 
+21-Jan-16,Thursday,10:56:00,10,21-Jan-16,Thursday,10:59:00,00:03:00,Business,Unknown Location,Lahore,33.2,,0,1125.6,99,Cash,Cancelled 
+18-Dec-16,Sunday,11:27:00,11,18-Dec-16,Sunday,11:50:00,00:23:00,Business,Lahore,Lahore,2.6,,3,115.8,11,Uber Cash,Completed
+15-Jul-16,Friday,13:52:00,13,15-Jul-16,Friday,14:08:00,00:16:00,Business,Lahore,Unknown Location,5.8,,2,221.4,22,Uber Cash,Completed
+23-Nov-16,Wednesday,14:29:00,14,23-Nov-16,Wednesday,15:11:00,00:42:00,Business,Unknown Location,Lahore,8.3,,2,303.9,30,UPI/e-Wallet,Cancelled 
+27-Sep-16,Tuesday,15:47:00,15,27-Sep-16,Tuesday,16:02:00,00:15:00,Business,Lahore,Lahore,2.4,,3,109.2,10,Gift Card,Completed
+26-Jul-16,Tuesday,18:08:00,18,26-Jul-16,Tuesday,18:27:00,00:19:00,Business,Lahore,Lahore,3.1,,4,132.3,13,UPI/e-Wallet,Completed
+12-Jun-16,Sunday,18:33:00,18,12-Jun-16,Sunday,19:01:00,00:28:00,Business,Lahore,Lahore,6.1,,0,231.3,23,Gift Card,Completed
+06-Nov-16,Sunday,15:03:00,15,06-Nov-16,Sunday,15:03:00,00:00:00,Business,Karachi,Karachi,3.6,,3,148.8,14,Card,Completed
+13-Feb-16,Saturday,18:15:00,18,13-Feb-16,Saturday,18:18:00,00:03:00,Business,Karachi,Unknown Location,8,,2,294,29,Card,Completed
+24-Mar-16,Thursday,14:04:00,14,24-Mar-16,Thursday,14:23:00,00:19:00,Business,Unknown Location,Unknown Location,7.7,Temporary Site,2,284.1,28,Card,Cancelled 
+07-Jan-16,Thursday,17:22:00,17,07-Jan-16,Thursday,17:28:00,00:06:00,Business,Islamabad,Islamabad,1.7,,1,86.1,8,Card,Completed
+03-Dec-16,Saturday,17:33:00,17,03-Dec-16,Saturday,18:13:00,00:40:00,Business,Islamabad,Unknown Location,9.5,,1,343.5,34,Card,Completed
+11-Jul-16,Monday,01:27:00,1,11-Jul-16,Monday,02:08:00,00:41:00,Business,Unknown Location,R?walpindi,17.1,Meeting,2,594.3,59,Cash,Cancelled 
+03-Jun-16,Friday,19:18:00,19,03-Jun-16,Friday,19:21:00,00:03:00,Business,R?walpindi,Unknown Location,18.4,,5,637.2,63,Cash,Completed
+25-Dec-16,Sunday,11:20:00,11,25-Dec-16,Sunday,11:58:00,00:38:00,Business,Unknown Location,Islamabad,9.8,,5,353.4,35,Cash,Cancelled 
+25-Apr-16,Monday,12:08:00,12,25-Apr-16,Monday,12:14:00,00:06:00,Business,Islamabad,Islamabad,1,,5,63,6,Card,Completed
+14-Oct-16,Friday,13:02:00,13,14-Oct-16,Friday,13:02:00,00:00:00,Business,Islamabad,Islamabad,0.7,,4,53.1,5,Card,Completed
+24-Jan-16,Sunday,13:37:00,13,24-Jan-16,Sunday,13:46:00,00:09:00,Business,Islamabad,Islamabad,2.3,,4,105.9,10,Card,Completed
+24-Sep-16,Saturday,16:08:00,16,24-Sep-16,Saturday,16:53:00,00:45:00,Business,Islamabad,Unknown Location,10.9,,3,389.7,38,Card,Completed
+19-Nov-16,Saturday,08:50:00,8,19-Nov-16,Saturday,09:44:00,00:54:00,Business,Unknown Location,R?walpindi,12.7,,4,449.1,44,Card,Cancelled 
+05-May-16,Thursday,10:16:00,10,05-May-16,Thursday,10:52:00,00:36:00,Business,R?walpindi,Unknown Location,12.4,,0,439.2,43,Card,Completed
+05-Aug-16,Friday,15:56:00,15,05-Aug-16,Friday,16:20:00,00:24:00,Business,Unknown Location,Unknown Location,3.8,,1,155.4,15,Card,Cancelled 
+26-Apr-16,Tuesday,21:54:00,21,26-Apr-16,Tuesday,23:06:00,01:12:00,Business,Unknown Location,R?walpindi,17,Meeting,2,591,,Uber Cash,Cancelled 
+26-Mar-16,Saturday,22:28:00,22,26-Mar-16,Saturday,22:48:00,00:20:00,Business,Morrisville,Morrisville,6.2,,5,234.6,23,Uber Cash,Completed
+19-Aug-16,Friday,00:01:00,0,19-Aug-16,Friday,00:14:00,00:13:00,Business,Morrisville,Cary,3.1,,2,132.3,13,Uber Cash,Completed
+04-Dec-16,Sunday,12:52:00,12,04-Dec-16,Sunday,13:11:00,00:19:00,Business,Cary,Durham,10.5,Meeting,4,376.5,37,Uber Cash,Completed
+19-Jul-16,Tuesday,14:40:00,14,19-Jul-16,Tuesday,15:01:00,00:21:00,Business,Durham,Morrisville,8.1,,2,297.3,29,Cash,Completed
+12-Apr-16,Tuesday,15:10:00,15,12-Apr-16,Tuesday,15:19:00,00:09:00,Business,Morrisville,Cary,3.1,,4,132.3,13,Cash,Completed
+31-Oct-16,Monday,19:27:00,19,31-Oct-16,Monday,19:33:00,00:06:00,Business,Whitebridge,Parkway,2.1,Meeting,3,99.3,9,Cash,Completed
+06-Jul-16,Wednesday,20:30:00,20,06-Jul-16,Wednesday,20:39:00,00:09:00,Business,Cary,Morrisville,4.3,,1,171.9,17,UPI/e-Wallet,Completed
+23-Aug-16,Tuesday,21:34:00,21,23-Aug-16,Tuesday,21:41:00,00:07:00,Business,Morrisville,Cary,2.5,Meal/Entertain,4,112.5,11,Gift Card,Completed
+14-Oct-16,Friday,15:19:00,15,14-Oct-16,Friday,15:57:00,00:38:00,Business,Cary,Raleigh,20.6,,5,709.8,70,UPI/e-Wallet,Completed
+27-Jul-16,Wednesday,16:29:00,16,27-Jul-16,Wednesday,17:11:00,00:42:00,Business,Raleigh,Cary,17.6,,0,610.8,61,Cash,Completed
+12-Aug-16,Friday,18:02:00,18,12-Aug-16,Friday,18:16:00,00:14:00,Business,Cary,Apex,5.6,,1,214.8,21,Uber Cash,Completed
+05-Jul-16,Tuesday,18:31:00,18,05-Jul-16,Tuesday,18:45:00,00:14:00,Business,Apex,Apex,3.3,,5,138.9,13,Uber Cash,Completed
+02-Jul-16,Saturday,19:08:00,19,02-Jul-16,Saturday,19:25:00,00:17:00,Business,Apex,Cary,5.3,,1,204.9,20,UPI/e-Wallet,Completed
+14-Dec-16,Wednesday,08:12:00,8,14-Dec-16,Wednesday,08:22:00,00:10:00,Business,Whitebridge,Edgehill Farms,3.3,,4,138.9,13,Gift Card,Completed
+05-Sep-16,Monday,08:53:00,8,05-Sep-16,Monday,09:02:00,00:09:00,Business,Edgehill Farms,Whitebridge,3.3,,0,138.9,13,UPI/e-Wallet,Completed
+07-Jan-16,Thursday,10:41:00,10,07-Jan-16,Thursday,11:09:00,00:28:00,Business,Cary,Morrisville,7.9,Temporary Site,3,290.7,29,Uber Cash,Completed
+22-Jul-16,Friday,18:12:00,18,22-Jul-16,Friday,18:33:00,00:21:00,Business,Oakland,Emeryville,13,,3,459,45,Uber Cash,Completed
+07-Jun-16,Tuesday,19:03:00,19,07-Jun-16,Tuesday,19:13:00,00:10:00,Business,Emeryville,Berkeley,3,,4,129,,Uber Cash,Completed
+26-Jul-16,Tuesday,20:31:00,20,26-Jul-16,Tuesday,20:37:00,00:06:00,Business,Berkeley,Emeryville,3,,0,129,12,Cash,Completed
+31-Aug-16,Wednesday,09:33:00,9,31-Aug-16,Wednesday,09:47:00,00:14:00,Business,Emeryville,Oakland,3.8,,1,155.4,15,Cash,Completed
+29-Nov-16,Tuesday,09:54:00,9,29-Nov-16,Tuesday,10:21:00,00:27:00,Business,Oakland,San Francisco,9.5,,4,343.5,34,Cash,Completed
+13-Sep-16,Tuesday,13:45:00,13,13-Sep-16,Tuesday,13:56:00,00:11:00,Business,SOMISSPO,French Quarter,1.7,,2,86.1,8,UPI/e-Wallet,Completed
+26-Aug-16,Friday,14:02:00,14,26-Aug-16,Friday,14:31:00,00:29:00,Business,San Francisco,Berkeley,10.8,,5,386.4,38,Gift Card,Completed
+20-Mar-16,Sunday,15:44:00,15,20-Mar-16,Sunday,16:02:00,00:18:00,Business,West Berkeley,North Berkeley Hills,4.1,,4,165.3,16,UPI/e-Wallet,Completed
+10-Mar-16,Thursday,16:06:00,16,10-Mar-16,Thursday,16:19:00,00:13:00,Business,North Berkeley Hills,Southside,2.2,,5,102.6,10,Cash,Completed
+08-Jun-16,Wednesday,16:33:00,16,08-Jun-16,Wednesday,17:01:00,00:28:00,Business,Berkeley,Emeryville,4.6,,0,181.8,18,Uber Cash,Completed
+07-Feb-16,Sunday,11:26:00,11,07-Feb-16,Sunday,11:34:00,00:08:00,,Emeryville,Berkeley,3.1,,4,132.3,13,Gift Card,Completed
+05-Jun-16,Sunday,12:19:00,12,05-Jun-16,Sunday,13:17:00,00:58:00,,Berkeley,San Jose,47.7,,4,1604.1,100,UPI/e-Wallet,Completed
+12-Sep-16,Monday,20:44:00,20,12-Sep-16,Monday,21:37:00,00:53:00,,San Jose,Emeryville,44.6,,3,1501.8,99,Gift Card,Completed
+08-Nov-16,Tuesday,10:06:00,10,08-Nov-16,Tuesday,10:21:00,00:15:00,,Emeryville,Oakland,13.2,,5,465.6,46,UPI/e-Wallet,Completed
+07-Oct-16,Friday,00:54:00,0,07-Oct-16,Friday,01:09:00,00:15:00,Business,Morrisville,Cary,8.7,,3,317.1,31,Uber Cash,Completed
+03-Jul-16,Sunday,13:26:00,13,03-Jul-16,Sunday,14:03:00,00:37:00,,Cary,Raleigh,17.2,,4,597.6,59,Uber Cash,Completed
+11-Jan-16,Monday,17:08:00,17,11-Jan-16,Monday,17:55:00,00:47:00,Business,Raleigh,Cary,14,,4,492,49,Uber Cash,Completed
+17-Oct-16,Monday,09:24:00,9,17-Oct-16,Monday,10:05:00,00:41:00,Business,Cary,Raleigh,28.1,,0,957.3,95,Cash,Completed
+20-May-16,Friday,12:17:00,12,20-May-16,Friday,12:59:00,00:42:00,Business,Raleigh,Cary,28.2,,3,960.6,96,Cash,Completed
+05-May-16,Thursday,19:04:00,19,05-May-16,Thursday,19:14:00,00:10:00,Business,Cary,Morrisville,3.1,Meal/Entertain,4,132.3,,Cash,Completed
+08-Jul-16,Friday,21:10:00,21,08-Jul-16,Friday,21:25:00,00:15:00,Business,Morrisville,Cary,3.1,Customer Visit,5,132.3,13,Gift Card,Completed
+14-May-16,Saturday,14:57:00,14,14-May-16,Saturday,15:26:00,00:29:00,Business,Cary,Durham,16.4,,3,571.2,57,Uber Cash,Completed
+11-Jun-16,Saturday,15:33:00,15,11-Jun-16,Saturday,16:13:00,00:40:00,Business,Durham,Morrisville,15.4,,4,538.2,53,UPI/e-Wallet,Completed
+11-Jun-16,Saturday,16:34:00,16,11-Jun-16,Saturday,16:41:00,00:07:00,Business,Morrisville,Cary,2.2,,5,102.6,10,UPI/e-Wallet,Completed
+16-Jul-16,Saturday,13:27:00,13,16-Jul-16,Saturday,14:08:00,00:41:00,Business,Cary,Apex,11.2,,0,399.6,39,UPI/e-Wallet,Completed
+13-Dec-16,Tuesday,15:04:00,15,13-Dec-16,Tuesday,15:11:00,00:07:00,Business,Apex,Eagle Rock,2.2,,5,102.6,10,UPI/e-Wallet,Completed
+12-Dec-16,Monday,15:16:00,15,12-Dec-16,Monday,15:33:00,00:17:00,Business,Eagle Rock,Cary,3.6,,4,148.8,14,UPI/e-Wallet,Completed
+05-Sep-16,Monday,20:00:00,20,05-Sep-16,Monday,20:11:00,00:11:00,Business,Whitebridge,Savon Height,3.6,Meal/Entertain,0,148.8,14,UPI/e-Wallet,Completed
+09-Oct-16,Sunday,20:54:00,20,09-Oct-16,Sunday,21:03:00,00:09:00,Business,Savon Height,Parkway,4.9,,2,191.7,19,Uber Cash,Completed
+12-Jun-16,Sunday,22:24:00,22,12-Jun-16,Sunday,22:45:00,00:21:00,Business,Parkway,Whitebridge,8.7,Errand/Supplies,0,317.1,31,Gift Card,Completed
+15-Aug-16,Monday,19:25:00,19,15-Aug-16,Monday,19:31:00,00:06:00,Business,Whitebridge,Parkway,2.1,Meeting,1,99.3,9,Cash,Completed
+28-Jan-16,Thursday,20:53:00,20,28-Jan-16,Thursday,21:03:00,00:10:00,Business,Parkway,Whitebridge,2.1,,5,99.3,9,Cash,Completed
+11-Sep-16,Sunday,18:51:00,18,11-Sep-16,Sunday,19:16:00,00:25:00,Business,Cary,Morrisville,8.4,Meeting,0,307.2,30,Cash,Completed
+30-Nov-16,Wednesday,19:20:00,19,30-Nov-16,Wednesday,19:35:00,00:15:00,Business,Morrisville,Morrisville,5.9,,4,224.7,22,UPI/e-Wallet,Completed
+27-May-16,Friday,19:52:00,19,27-May-16,Friday,20:21:00,00:29:00,Business,Huntington Woods,Huntington Woods,12.1,,0,429.3,42,Gift Card,Completed
+07-Oct-16,Friday,20:47:00,20,07-Oct-16,Friday,20:54:00,00:07:00,Business,Huntington Woods,Weston,3.9,,3,158.7,15,UPI/e-Wallet,Completed
+07-Aug-16,Sunday,21:26:00,21,07-Aug-16,Sunday,21:48:00,00:22:00,Business,Morrisville,Cary,6.2,,1,234.6,23,Cash,Completed
+01-Jul-16,Friday,11:34:00,11,01-Jul-16,Friday,11:52:00,00:18:00,Business,Cary,Durham,10.4,Meeting,0,373.2,,Uber Cash,Completed
+15-Apr-16,Friday,13:06:00,13,15-Apr-16,Friday,13:36:00,00:30:00,Business,Durham,Cary,9.9,Meeting,4,356.7,35,Uber Cash,Completed
+04-Jun-16,Saturday,15:53:00,15,04-Jun-16,Saturday,17:59:00,02:06:00,Business,Cary,Winston Salem,107,Meeting,0,3561,65,UPI/e-Wallet,Completed
+19-Oct-16,Wednesday,18:13:00,18,19-Oct-16,Wednesday,20:07:00,01:54:00,Business,Winston Salem,Asheville,133.6,Meeting,0,4438.8,65,Gift Card,Completed
+15-Sep-16,Thursday,20:13:00,20,15-Sep-16,Thursday,22:00:00,01:47:00,Business,Asheville,Topton,91.8,Meeting,3,3059.4,98,UPI/e-Wallet,Completed
+17-Jan-16,Sunday,15:22:00,15,17-Jan-16,Sunday,17:05:00,01:43:00,Business,Topton,Hayesville,40.7,Meeting,2,1373.1,99,UPI/e-Wallet,Completed
+02-Feb-16,Tuesday,17:13:00,17,02-Feb-16,Tuesday,19:19:00,02:06:00,Business,Hayesville,Topton,75.7,,4,2528.1,96,Uber Cash,Completed
+13-Jul-16,Wednesday,07:49:00,7,13-Jul-16,Wednesday,08:30:00,00:41:00,Business,Topton,Bryson City,29.8,,0,1013.4,85,UPI/e-Wallet,Completed
+13-Dec-16,Tuesday,09:07:00,9,13-Dec-16,Tuesday,10:09:00,01:02:00,Business,Bryson City,Bryson City,16.3,,3,567.9,56,Cash,Completed
+21-Dec-16,Wednesday,10:11:00,10,21-Dec-16,Wednesday,10:38:00,00:27:00,Business,Bryson City,Bryson City,6.5,,2,244.5,24,Gift Card,Completed
+05-Dec-16,Monday,10:51:00,10,05-Dec-16,Monday,11:21:00,00:30:00,Business,Bryson City,Bryson City,6.3,,4,237.9,23,Uber Cash,Completed
+21-Aug-16,Sunday,12:24:00,12,21-Aug-16,Sunday,12:35:00,00:11:00,Business,Bryson City,Almond,6.6,,5,247.8,24,UPI/e-Wallet,Completed
+05-Feb-16,Friday,12:58:00,12,05-Feb-16,Friday,13:18:00,00:20:00,Business,Almond,Bryson City,15.2,,3,531.6,,Gift Card,Completed
+01-Dec-16,Thursday,13:24:00,13,01-Dec-16,Thursday,14:37:00,01:13:00,Business,Bryson City,Asheville,68.4,,,2287.2,99,UPI/e-Wallet,Completed
+21-Mar-16,Monday,15:22:00,15,21-Mar-16,Monday,18:23:00,03:01:00,Business,Asheville,Mebane,195.9,,4,6494.7,56,Cash,Completed
+10-Jan-16,Sunday,18:26:00,18,10-Jan-16,Sunday,19:39:00,01:13:00,Business,Mebane,Cary,45.2,,0,1521.6,88,Gift Card,Completed
+10-Jul-16,Sunday,18:11:00,18,10-Jul-16,Sunday,18:20:00,00:09:00,Business,Cary,Morrisville,3.2,,2,135.6,13,UPI/e-Wallet,Completed
+06-Aug-16,Saturday,18:47:00,18,06-Aug-16,Saturday,19:16:00,00:29:00,Business,Morrisville,Raleigh,10.3,,4,369.9,36,Gift Card,Completed
+29-Jan-16,Friday,20:18:00,20,29-Jan-16,Friday,20:44:00,00:26:00,Business,Raleigh,Cary,13.1,,5,462.3,46,UPI/e-Wallet,Completed
+07-Feb-16,Sunday,21:45:00,21,07-Feb-16,Sunday,22:10:00,00:25:00,Business,Savon Height,Whitebridge,9.6,Errand/Supplies,2,346.8,34,Cash,Completed
+25-Sep-16,Sunday,11:50:00,11,25-Sep-16,Sunday,12:27:00,00:37:00,Business,Cary,Durham,16.5,,5,574.5,57,Uber Cash,Completed
+17-Dec-16,Saturday,16:29:00,16,17-Dec-16,Saturday,17:02:00,00:33:00,Business,Durham,Cary,12.8,,0,452.4,45,Uber Cash,Completed
+19-May-16,Thursday,17:35:00,17,19-May-16,Thursday,17:42:00,00:07:00,Business,Whitebridge,Whitebridge,1.2,,0,69.6,6,UPI/e-Wallet,Completed
+23-May-16,Monday,19:14:00,19,23-May-16,Monday,19:20:00,00:06:00,Business,Whitebridge,Whitebridge,1,,0,63,,Gift Card,Completed
+09-Sep-16,Friday,19:59:00,19,09-Sep-16,Friday,20:12:00,00:13:00,Business,Whitebridge,Whitebridge,4.1,,0,165.3,16,UPI/e-Wallet,Completed
+10-Nov-16,Thursday,20:41:00,20,10-Nov-16,Thursday,20:55:00,00:14:00,Business,Whitebridge,Whitebridge,4.2,Meal/Entertain,5,168.6,16,Gift Card,Completed
+29-Jun-16,Wednesday,15:10:00,15,29-Jun-16,Wednesday,15:18:00,00:08:00,Business,Whitebridge,Westpark Place,1.4,,1,76.2,7,Uber Cash,Completed
+18-Sep-16,Sunday,15:45:00,15,18-Sep-16,Sunday,15:52:00,00:07:00,Personal,Westpark Place,Whitebridge,1.8,,3,89.4,8,Uber Cash,Completed
+03-May-16,Tuesday,16:46:00,16,03-May-16,Tuesday,17:11:00,00:25:00,Personal,Cary,Morrisville,8.5,Meeting,5,310.5,31,Uber Cash,Completed
+15-May-16,Sunday,17:34:00,17,15-May-16,Sunday,17:49:00,00:15:00,Personal,Morrisville,Morrisville,5,,2,195,19,Cash,Completed
+06-Jan-16,Wednesday,17:53:00,17,06-Jan-16,Wednesday,18:00:00,00:07:00,Personal,Morrisville,Cary,3.8,,1,155.4,15,Cash,Completed
+09-Jan-16,Saturday,11:28:00,11,09-Jan-16,Saturday,11:34:00,00:06:00,Personal,Whitebridge,Hazelwood,2.5,,5,112.5,11,Cash,Completed
+19-Nov-16,Saturday,12:43:00,12,19-Nov-16,Saturday,12:49:00,00:06:00,Personal,Hazelwood,Whitebridge,2.4,,,109.2,10,UPI/e-Wallet,Completed
+30-Nov-16,Wednesday,13:42:00,13,30-Nov-16,Wednesday,13:47:00,00:05:00,Personal,Whitebridge,Westpark Place,1.4,,2,76.2,7,Uber Cash,Completed
+27-Dec-16,Tuesday,14:13:00,14,27-Dec-16,Tuesday,14:26:00,00:13:00,Personal,Westpark Place,Whitebridge,1.8,,0,89.4,8,UPI/e-Wallet,Completed
+11-Feb-16,Thursday,18:51:00,18,11-Feb-16,Thursday,19:08:00,00:17:00,Personal,Cary,Morrisville,3.1,Meal/Entertain,5,132.3,13,Cash,Completed
+01-Jan-16,Friday,22:46:00,22,01-Jan-16,Friday,22:58:00,00:12:00,Personal,Morrisville,Cary,3.1,Customer Visit,0,132.3,13,Gift Card,Completed
+07-Dec-16,Wednesday,10:02:00,10,07-Dec-16,Wednesday,10:18:00,00:16:00,Personal,Cary,Morrisville,7.9,Temporary Site,1,290.7,29,Uber Cash,Completed
+02-Nov-16,Wednesday,18:14:00,18,02-Nov-16,Wednesday,18:21:00,00:07:00,Personal,San Jose,Santa Clara,3.8,,5,155.4,15,UPI/e-Wallet,Completed
+29-Sep-16,Thursday,21:04:00,21,29-Sep-16,Thursday,21:20:00,00:16:00,Personal,Agnew,Cory,4.3,,1,171.9,17,Gift Card,Completed
+21-Feb-16,Sunday,22:12:00,22,21-Feb-16,Sunday,22:25:00,00:13:00,Personal,Cory,Agnew,3.9,,0,158.7,15,UPI/e-Wallet,Completed
+15-Sep-16,Thursday,08:34:00,8,15-Sep-16,Thursday,08:43:00,00:09:00,Personal,Agnew,Renaissance,2.2,,1,102.6,10,Gift Card,Completed
+20-Nov-16,Sunday,17:29:00,17,20-Nov-16,Sunday,17:40:00,00:11:00,Business,Renaissance,Agnew,2.8,,1,122.4,12,Card,Completed
+18-Dec-16,Sunday,19:20:00,19,18-Dec-16,Sunday,19:28:00,00:08:00,Business,Agnew,Agnew,2.2,,3,102.6,10,Card,Completed
+28-Sep-16,Wednesday,10:50:00,10,28-Sep-16,Wednesday,11:04:00,00:14:00,Business,Agnew,Renaissance,2.4,,3,109.2,10,Card,Completed
+26-Nov-16,Saturday,16:05:00,16,26-Nov-16,Saturday,16:22:00,00:17:00,Business,Renaissance,Agnew,2.8,Meeting,0,122.4,12,Card,Completed
+22-Mar-16,Tuesday,16:27:00,16,22-Mar-16,Tuesday,17:28:00,01:01:00,Business,Santa Clara,Berkeley,43.9,Customer Visit,2,1478.7,98,Gift Card,Completed
+29-Jul-16,Friday,19:04:00,19,29-Jul-16,Friday,19:12:00,00:08:00,Business,Downtown,West Berkeley,1.8,,5,89.4,,Cash,Completed
+11-May-16,Wednesday,20:06:00,20,11-May-16,Wednesday,20:21:00,00:15:00,Business,West Berkeley,Central,3.3,,5,138.9,13,Cash,Completed
+02-Aug-16,Tuesday,12:28:00,12,02-Aug-16,Tuesday,12:57:00,00:29:00,Business,Berkeley,San Francisco,11.8,Between Offices,4,419.4,41,Cash,Completed
+23-Apr-16,Saturday,19:17:00,19,23-Apr-16,Saturday,19:57:00,00:40:00,Business,San Francisco,Berkeley,13.2,Between Offices,1,465.6,46,UPI/e-Wallet,Completed
+03-Oct-16,Monday,10:29:00,10,03-Oct-16,Monday,10:57:00,00:28:00,Business,Berkeley,San Francisco,12.2,Between Offices,4,432.6,43,Gift Card,Completed
+21-Jun-16,Tuesday,12:16:00,12,21-Jun-16,Tuesday,12:49:00,00:33:00,Business,San Francisco,Berkeley,11.3,Meeting,1,402.9,40,UPI/e-Wallet,Completed
+28-Aug-16,Sunday,13:41:00,13,28-Aug-16,Sunday,14:01:00,00:20:00,Business,Berkeley,Emeryville,3.6,,3,148.8,14,Cash,Completed
+05-Sep-16,Monday,16:21:00,16,05-Sep-16,Monday,16:34:00,00:13:00,Business,Emeryville,Berkeley,3,,2,129,12,Uber Cash,Completed
+27-Nov-16,Sunday,13:08:00,13,27-Nov-16,Sunday,13:41:00,00:33:00,Personal,Berkeley,San Francisco,11.4,,3,406.2,40,Uber Cash,Completed
+27-Dec-16,Tuesday,15:58:00,15,27-Dec-16,Tuesday,16:04:00,00:06:00,Personal,NOMA,Downtown,0.9,,,59.7,5,UPI/e-Wallet,Completed
+21-Nov-16,Monday,17:31:00,17,21-Nov-16,Monday,18:03:00,00:32:00,Personal,Downtown,Sunnyside,6.2,,0,234.6,23,Gift Card,Completed
+13-Oct-16,Thursday,18:09:00,18,13-Oct-16,Thursday,18:14:00,00:05:00,Personal,Sunnyside,Ingleside,0.7,,4,53.1,5,UPI/e-Wallet,Completed
+04-May-16,Wednesday,18:21:00,18,04-May-16,Wednesday,18:35:00,00:14:00,Personal,Ingleside,Potrero Flats,5.5,Meeting,5,211.5,21,Uber Cash,Completed
+15-Nov-16,Tuesday,18:40:00,18,15-Nov-16,Tuesday,19:17:00,00:37:00,Personal,San Francisco,Oakland,12.7,Customer Visit,5,449.1,44,Uber Cash,Completed
+24-Aug-16,Wednesday,20:52:00,20,24-Aug-16,Wednesday,21:02:00,00:10:00,Personal,Oakland,Berkeley,2.6,,3,115.8,11,Uber Cash,Completed
+22-Aug-16,Monday,21:56:00,21,22-Aug-16,Monday,22:02:00,00:06:00,Personal,Central,Central,1.1,,1,66.3,6,Cash,Completed
+04-Mar-16,Friday,09:46:00,9,04-Mar-16,Friday,10:15:00,00:29:00,Personal,Berkeley,San Francisco,12.6,Temporary Site,5,445.8,44,Cash,Completed
+11-Mar-16,Friday,10:20:00,10,11-Mar-16,Friday,10:31:00,00:11:00,Personal,Tenderloin,SOMISSPO,1.2,,0,69.6,6,Cash,Completed
+04-Sep-16,Sunday,14:57:00,14,04-Sep-16,Sunday,15:07:00,00:10:00,Personal,SOMISSPO,Tenderloin,1.1,,2,66.3,6,UPI/e-Wallet,Completed
+13-Apr-16,Wednesday,15:17:00,15,13-Apr-16,Wednesday,15:22:00,00:05:00,Business,San Francisco,Oakland,9.9,Temporary Site,2,356.7,35,Gift Card,Completed
+15-Apr-16,Friday,15:30:00,15,15-Apr-16,Friday,15:53:00,00:23:00,Business,Oakland,Berkeley,6,Meeting,2,228,22,UPI/e-Wallet,Completed
+10-Aug-16,Wednesday,19:18:00,19,10-Aug-16,Wednesday,19:21:00,00:03:00,Business,West Berkeley,Central,0.8,,3,56.4,5,Cash,Completed
+26-Jul-16,Tuesday,09:35:00,9,26-Jul-16,Tuesday,10:23:00,00:48:00,,Berkeley,Menlo Park,45.9,Customer Visit,3,1544.7,87,Uber Cash,Completed
+26-Jan-16,Tuesday,12:58:00,12,26-Jan-16,Tuesday,13:13:00,00:15:00,Business,Menlo Park,Palo Alto,4,,0,162,16,Uber Cash,Completed
+18-Nov-16,Friday,14:20:00,14,18-Nov-16,Friday,14:32:00,00:12:00,Business,Palo Alto,Menlo Park,2.5,,4,112.5,11,UPI/e-Wallet,Completed
+03-Feb-16,Wednesday,14:39:00,14,03-Feb-16,Wednesday,15:46:00,01:07:00,,Menlo Park,Berkeley,36.6,Customer Visit,3,1237.8,20,Gift Card,Completed
+04-May-16,Wednesday,18:30:00,18,04-May-16,Wednesday,18:43:00,00:13:00,Business,Central,College Avenue,2.9,,3,125.7,12,UPI/e-Wallet,Completed
+03-Jun-16,Friday,21:08:00,21,03-Jun-16,Friday,21:18:00,00:10:00,Business,College Avenue,Central,2.6,,4,115.8,11,Gift Card,Completed
+12-Sep-16,Monday,10:32:00,10,12-Sep-16,Monday,10:52:00,00:20:00,Business,Central,South,2.3,,1,105.9,10,UPI/e-Wallet,Completed
+29-Sep-16,Thursday,10:55:00,10,29-Sep-16,Thursday,11:25:00,00:30:00,Business,South,Downtown,6.4,,4,241.2,24,UPI/e-Wallet,Completed
+09-Jun-16,Thursday,13:07:00,13,09-Jun-16,Thursday,13:15:00,00:08:00,Business,Downtown,Central,1.4,,,76.2,7,UPI/e-Wallet,Completed
+26-Nov-16,Saturday,13:46:00,13,26-Nov-16,Saturday,13:50:00,00:04:00,Business,Central,West Berkeley,0.6,,0,49.8,4,UPI/e-Wallet,Completed
+16-May-16,Monday,14:22:00,14,16-May-16,Monday,14:53:00,00:31:00,Business,West Berkeley,South,5.9,Meeting,4,224.7,22,UPI/e-Wallet,Completed
+23-Jan-16,Saturday,15:14:00,15,23-Jan-16,Saturday,15:21:00,00:07:00,Business,South,Southwest Berkeley,0.8,,2,56.4,5,UPI/e-Wallet,Completed
+20-Feb-16,Saturday,15:25:00,15,20-Feb-16,Saturday,15:36:00,00:11:00,,Berkeley,Emeryville,1.3,,5,72.9,,UPI/e-Wallet,Completed
+24-Oct-16,Monday,15:40:00,15,24-Oct-16,Monday,15:59:00,00:19:00,Business,Emeryville,Berkeley,3.7,Errand/Supplies,4,152.1,,Gift Card,Completed
+25-Oct-16,Tuesday,08:54:00,8,25-Oct-16,Tuesday,09:02:00,00:08:00,Business,Central,Central,2.3,,1,105.9,,UPI/e-Wallet,Completed
+21-Apr-16,Thursday,09:27:00,9,21-Apr-16,Thursday,09:53:00,00:26:00,Business,Central,Central,2.6,,4,115.8,,Cash,Completed
+09-Mar-16,Wednesday,10:31:00,10,09-Mar-16,Wednesday,10:37:00,00:06:00,Business,Central,Southside,1.9,,3,92.7,,Uber Cash,Completed
+06-Jul-16,Wednesday,11:04:00,11,06-Jul-16,Wednesday,11:16:00,00:12:00,Business,Southside,West Berkeley,2.1,,0,99.3,,Uber Cash,Completed
+19-Jan-16,Tuesday,12:22:00,12,19-Jan-16,Tuesday,12:51:00,00:29:00,Business,West Berkeley,Southside,4,Meeting,2,162,,UPI/e-Wallet,Completed
+14-Jul-16,Thursday,13:05:00,13,14-Jul-16,Thursday,13:11:00,00:06:00,,Southside,South Berkeley,0.9,,,59.7,,Gift Card,Completed
+11-Mar-16,Friday,13:14:00,13,11-Mar-16,Friday,13:18:00,00:04:00,Business,South Berkeley,Southside,0.9,,,59.7,5,UPI/e-Wallet,Completed
+29-May-16,Sunday,14:35:00,14,29-May-16,Sunday,14:46:00,00:11:00,,Southside,Central,2.4,,,109.2,10,UPI/e-Wallet,Completed
+21-Apr-16,Thursday,15:14:00,15,21-Apr-16,Thursday,15:24:00,00:10:00,,Central,Southside,1.9,,2,92.7,9,Gift Card,Completed
+13-Apr-16,Wednesday,15:47:00,15,13-Apr-16,Wednesday,15:59:00,00:12:00,,Southside,Central,1.9,,,92.7,9,UPI/e-Wallet,Completed
+03-Dec-16,Saturday,11:24:00,11,03-Dec-16,Saturday,12:13:00,00:49:00,,Berkeley,Mountain View,44.6,Customer Visit,,1501.8,0,Cash,Completed
+25-Sep-16,Sunday,13:40:00,13,25-Sep-16,Sunday,14:33:00,00:53:00,,Mountain View,Berkeley,43.6,Customer Visit,0,1468.8,0,Uber Cash,Completed
+21-Dec-16,Wednesday,15:27:00,15,21-Dec-16,Wednesday,15:36:00,00:09:00,,Berkeley,Emeryville,2.5,,1,112.5,11,Uber Cash,Completed
+04-Feb-16,Thursday,20:19:00,20,04-Feb-16,Thursday,20:30:00,00:11:00,,Emeryville,Berkeley,3.7,Errand/Supplies,1,152.1,15,UPI/e-Wallet,Completed
+27-Nov-16,Sunday,13:59:00,13,27-Nov-16,Sunday,14:06:00,00:07:00,,Berkeley,Oakland,5.1,,,198.3,19,Gift Card,Completed
+02-Jul-16,Saturday,14:09:00,14,02-Jul-16,Saturday,14:26:00,00:17:00,Business,Oakland,San Francisco,9.7,Temporary Site,5,350.1,35,UPI/e-Wallet,Completed
+16-Mar-16,Wednesday,20:44:00,20,16-Mar-16,Wednesday,21:00:00,00:16:00,Business,San Francisco,Berkeley,11.8,Temporary Site,0,419.4,41,UPI/e-Wallet,Completed
+13-Aug-16,Saturday,20:21:00,20,13-Aug-16,Saturday,20:27:00,00:06:00,Business,Berkeley,El Cerrito,2.3,Temporary Site,,105.9,10,Gift Card,Completed
+28-Aug-16,Sunday,22:52:00,22,28-Aug-16,Sunday,23:02:00,00:10:00,Business,El Cerrito,Berkeley,3.1,Meal/Entertain,5,132.3,13,UPI/e-Wallet,Completed
+07-Feb-16,Sunday,10:13:00,10,07-Feb-16,Sunday,10:44:00,00:31:00,Business,Berkeley,Oakland,16.3,Customer Visit,,567.9,56,Cash,Completed
+22-Aug-16,Monday,20:09:00,20,22-Aug-16,Monday,20:19:00,00:10:00,Business,Cary,Morrisville,3.1,Meal/Entertain,0,132.3,13,Uber Cash,Completed
+31-Jan-16,Sunday,21:23:00,21,31-Jan-16,Sunday,21:34:00,00:11:00,,Morrisville,Cary,5.2,Meal/Entertain,2,201.6,20,Uber Cash,Completed
+08-Dec-16,Thursday,21:56:00,21,08-Dec-16,Thursday,22:21:00,00:25:00,Business,Krendle Woods,Whitebridge,6.1,Meeting,1,231.3,23,UPI/e-Wallet,Completed
+12-Oct-16,Wednesday,13:51:00,13,12-Oct-16,Wednesday,14:10:00,00:19:00,Business,Cary,Durham,10.3,Meeting,1,369.9,36,Gift Card,Completed
+14-Feb-16,Sunday,14:30:00,14,14-Feb-16,Sunday,14:51:00,00:21:00,Business,Durham,Cary,10.5,Meeting,5,376.5,37,UPI/e-Wallet,Completed
+03-Aug-16,Wednesday,16:01:00,16,03-Aug-16,Wednesday,16:06:00,00:05:00,Business,Cary,Cary,1.5,,3,79.5,7,UPI/e-Wallet,Completed
+23-Feb-16,Tuesday,16:27:00,16,23-Feb-16,Tuesday,16:41:00,00:14:00,Business,Cary,Cary,1.8,,2,89.4,8,Gift Card,Completed
+23-May-16,Monday,17:41:00,17,23-May-16,Monday,17:54:00,00:13:00,Business,Cary,Apex,5.4,Errand/Supplies,5,208.2,20,UPI/e-Wallet,Completed
+29-Jan-16,Friday,21:14:00,21,29-Jan-16,Friday,21:35:00,00:21:00,Business,Apex,Cary,5.4,Customer Visit,5,208.2,20,Cash,Completed
+29-Nov-16,Tuesday,10:27:00,10,29-Nov-16,Tuesday,11:32:00,01:05:00,Business,Cary,Cary,39.2,Between Offices,3,1323.6,98,Uber Cash,Completed
+01-Sep-16,Thursday,11:58:00,11,01-Sep-16,Thursday,12:28:00,00:30:00,Business,Cary,Cary,6.4,Customer Visit,3,241.2,24,Uber Cash,Completed
+28-Oct-16,Friday,14:58:00,14,28-Oct-16,Friday,15:07:00,00:09:00,,Cary,Cary,2.7,Meeting,2,119.1,11,UPI/e-Wallet,Completed
+11-Feb-16,Thursday,17:45:00,17,11-Feb-16,Thursday,18:37:00,00:52:00,Business,Cary,Cary,18.5,Errand/Supplies,4,640.5,64,Gift Card,Completed
+18-Jun-16,Saturday,13:37:00,13,18-Jun-16,Saturday,13:49:00,00:12:00,Business,Cary,Cary,2.5,Meal/Entertain,0,112.5,11,UPI/e-Wallet,Completed
+30-Oct-16,Sunday,14:34:00,14,30-Oct-16,Sunday,14:44:00,00:10:00,Business,Cary,Cary,2.1,Meal/Entertain,0,99.3,9,Uber Cash,Completed
+11-Sep-16,Sunday,17:50:00,17,11-Sep-16,Sunday,18:04:00,00:14:00,Business,Cary,Unknown Location,6.7,Errand/Supplies,2,251.1,25,Uber Cash,Completed
+27-Jul-16,Wednesday,18:18:00,18,27-Jul-16,Wednesday,18:27:00,00:09:00,,Unknown Location,Morrisville,3.5,Meal/Entertain,1,145.5,14,UPI/e-Wallet,Cancelled 
+16-May-16,Monday,18:43:00,18,16-May-16,Monday,18:51:00,00:08:00,Business,Morrisville,Cary,3.4,Errand/Supplies,,142.2,14,Gift Card,Completed
+05-May-16,Thursday,15:12:00,15,05-May-16,Thursday,15:27:00,00:15:00,Business,Cary,Cary,5.5,Meeting,,211.5,21,UPI/e-Wallet,Completed
+13-Aug-16,Saturday,15:31:00,15,13-Aug-16,Saturday,15:44:00,00:13:00,Business,Cary,Cary,4.1,Meeting,3,165.3,16,Cash,Completed
+03-Jul-16,Sunday,15:51:00,15,03-Jul-16,Sunday,16:43:00,00:52:00,Business,Cary,Cary,12.7,Customer Visit,4,449.1,44,Uber Cash,Completed
+12-Oct-16,Wednesday,18:18:00,18,12-Oct-16,Wednesday,18:28:00,00:10:00,Business,Cary,Morrisville,3,Meal/Entertain,4,129,12,Uber Cash,Completed
+04-Mar-16,Friday,21:02:00,21,04-Mar-16,Friday,21:14:00,00:12:00,Business,Morrisville,Cary,3.5,Customer Visit,4,145.5,14,UPI/e-Wallet,Completed
+04-Jan-16,Monday,15:34:00,15,04-Jan-16,Monday,15:50:00,00:16:00,Business,Cary,Cary,5.9,Meal/Entertain,1,224.7,22,Gift Card,Completed
+11-Dec-16,Sunday,16:18:00,16,11-Dec-16,Sunday,16:29:00,00:11:00,Business,Cary,Cary,1.9,,,92.7,9,UPI/e-Wallet,Completed
+02-Oct-16,Sunday,16:49:00,16,02-Oct-16,Sunday,17:00:00,00:11:00,Business,Cary,Cary,3.3,,3,138.9,13,Gift Card,Completed
+17-Oct-16,Monday,18:37:00,18,17-Oct-16,Monday,18:47:00,00:10:00,Business,Cary,Cary,1.3,,4,72.9,7,UPI/e-Wallet,Completed
+12-Feb-16,Friday,11:47:00,11,12-Feb-16,Friday,12:04:00,00:17:00,Business,Cary,Durham,10.3,Meeting,4,369.9,36,Gift Card,Completed
+30-Jun-16,Thursday,13:13:00,13,30-Jun-16,Thursday,13:31:00,00:18:00,,Durham,Cary,11.1,Meeting,,396.3,39,UPI/e-Wallet,Completed
+22-Oct-16,Saturday,15:54:00,15,22-Oct-16,Saturday,15:59:00,00:05:00,Business,Cary,Cary,1.4,,3,76.2,7,Cash,Completed
+09-May-16,Monday,17:00:00,17,09-May-16,Monday,17:12:00,00:12:00,Business,Cary,Apex,5.1,Meeting,5,198.3,19,Uber Cash,Completed
+04-May-16,Wednesday,17:36:00,17,04-May-16,Wednesday,17:56:00,00:20:00,,Apex,Holly Springs,9,Meeting,3,327,32,Uber Cash,Completed
+29-May-16,Sunday,18:29:00,18,29-May-16,Sunday,19:04:00,00:35:00,Business,Holly Springs,Cary,13.3,Between Offices,0,468.9,46,UPI/e-Wallet,Completed
+08-Jul-16,Friday,19:47:00,19,08-Jul-16,Friday,19:54:00,00:07:00,Business,Cary,Cary,2.5,Errand/Supplies,0,112.5,11,Gift Card,Completed
+18-Dec-16,Sunday,15:59:00,15,18-Dec-16,Sunday,16:06:00,00:07:00,Business,Cary,Morrisville,3.3,Meal/Entertain,1,138.9,13,UPI/e-Wallet,Completed
+29-Nov-16,Tuesday,18:55:00,18,29-Nov-16,Tuesday,19:09:00,00:14:00,Business,Morrisville,Cary,2.9,,5,125.7,,Gift Card,Completed
+23-Aug-16,Tuesday,11:03:00,11,23-Aug-16,Tuesday,11:34:00,00:31:00,Business,Cary,Raleigh,8.5,Customer Visit,3,310.5,,UPI/e-Wallet,Completed
+14-Jul-16,Thursday,11:53:00,11,14-Jul-16,Thursday,12:35:00,00:42:00,Business,Raleigh,Morrisville,6.7,Temporary Site,0,251.1,,Gift Card,Completed
+12-Apr-16,Tuesday,12:43:00,12,12-Apr-16,Tuesday,12:53:00,00:10:00,Business,Morrisville,Cary,3.1,,4,132.3,,UPI/e-Wallet,Completed
+24-Nov-16,Thursday,07:44:00,7,24-Nov-16,Thursday,07:59:00,00:15:00,Business,Cary,Cary,5.5,Meeting,,211.5,,Cash,Completed
+14-Oct-16,Friday,08:37:00,8,14-Oct-16,Friday,08:53:00,00:16:00,Business,Cary,Cary,5.5,Errand/Supplies,3,211.5,,Uber Cash,Completed
+01-May-16,Sunday,18:00:00,18,01-May-16,Sunday,18:12:00,00:12:00,Business,Cary,Morrisville,2.9,Meal/Entertain,5,125.7,,Uber Cash,Completed
+23-Apr-16,Saturday,20:36:00,20,23-Apr-16,Saturday,20:46:00,00:10:00,Business,Morrisville,Cary,2.9,Customer Visit,1,125.7,,UPI/e-Wallet,Completed
+07-Nov-16,Monday,12:12:00,12,07-Nov-16,Monday,12:23:00,00:11:00,,Cary,Apex,5.1,Meal/Entertain,4,198.3,,Gift Card,Completed
+19-Feb-16,Friday,13:07:00,13,19-Feb-16,Friday,13:22:00,00:15:00,Business,Apex,Cary,5.3,Customer Visit,5,204.9,20,UPI/e-Wallet,Completed
+18-Jul-16,Monday,20:41:00,20,18-Jul-16,Monday,20:48:00,00:07:00,Business,Cary,Morrisville,3.3,Meal/Entertain,3,138.9,13,Uber Cash,Completed
+20-Nov-16,Sunday,22:59:00,22,20-Nov-16,Sunday,23:07:00,00:08:00,Business,Morrisville,Cary,3,Customer Visit,1,129,12,Uber Cash,Completed
+29-Jul-16,Friday,18:35:00,18,29-Jul-16,Friday,18:56:00,00:21:00,Business,Cary,Wake Co.,6.6,Errand/Supplies,2,247.8,24,Uber Cash,Completed
+04-Feb-16,Thursday,19:08:00,19,04-Feb-16,Thursday,19:15:00,00:07:00,Business,Wake Co.,Morrisville,1.8,,5,89.4,8,UPI/e-Wallet,Completed
+30-Nov-16,Wednesday,20:31:00,20,30-Nov-16,Wednesday,20:41:00,00:10:00,Business,Morrisville,Cary,3,Customer Visit,2,129,12,Gift Card,Completed
+14-Nov-16,Monday,18:56:00,18,14-Nov-16,Monday,19:03:00,00:07:00,Business,Cary,Morrisville,2.9,Meal/Entertain,5,125.7,0,UPI/e-Wallet,Completed
+07-Jun-16,Tuesday,20:23:00,20,07-Jun-16,Tuesday,20:34:00,00:11:00,Business,Morrisville,Cary,3.4,Customer Visit,2,142.2,14,Cash,Completed
+05-Sep-16,Monday,18:04:00,18,05-Sep-16,Monday,18:17:00,00:13:00,Business,Cary,Cary,4.1,,0,165.3,16,Uber Cash,Completed
+26-Sep-16,Monday,19:22:00,19,26-Sep-16,Monday,19:37:00,00:15:00,Business,Cary,Cary,3.8,Meal/Entertain,,155.4,15,Uber Cash,Completed
+15-Apr-16,Friday,12:03:00,12,15-Apr-16,Friday,12:32:00,00:29:00,Business,Cary,Cary,6.6,Meeting,5,247.8,24,UPI/e-Wallet,Completed
+30-Jul-16,Saturday,12:35:00,12,30-Jul-16,Saturday,12:46:00,00:11:00,,Cary,Cary,4,Meeting,5,162,16,Gift Card,Completed
+24-Dec-16,Saturday,19:53:00,19,24-Dec-16,Saturday,20:13:00,00:20:00,Business,Cary,Cary,7,Customer Visit,0,261,26,UPI/e-Wallet,Completed
+25-Mar-16,Friday,21:13:00,21,25-Mar-16,Friday,21:50:00,00:37:00,Business,Cary,Cary,6.9,Meal/Entertain,1,257.7,25,Gift Card,Completed
+16-Mar-16,Wednesday,14:19:00,14,16-Mar-16,Wednesday,14:32:00,00:13:00,Business,Cary,Cary,3.4,Errand/Supplies,4,142.2,14,UPI/e-Wallet,Completed
+07-Jan-16,Thursday,14:53:00,14,07-Jan-16,Thursday,15:02:00,00:09:00,Business,Cary,Cary,3.4,Errand/Supplies,1,142.2,14,Gift Card,Completed
+01-Sep-16,Thursday,19:22:00,19,01-Sep-16,Thursday,19:27:00,00:05:00,Business,Cary,Cary,2,Meeting,0,96,9,UPI/e-Wallet,Completed
+04-Mar-16,Friday,21:26:00,21,04-Mar-16,Friday,21:31:00,00:05:00,Business,Cary,Cary,2,Errand/Supplies,2,96,9,Cash,Completed
+03-Apr-16,Sunday,12:09:00,12,03-Apr-16,Sunday,12:24:00,00:15:00,Business,Cary,Apex,5.1,Errand/Supplies,3,198.3,19,Uber Cash,Completed
+17-Jun-16,Friday,13:15:00,13,17-Jun-16,Friday,13:43:00,00:28:00,Business,Apex,Cary,8.8,Temporary Site,4,320.4,32,Uber Cash,Completed
+05-May-16,Thursday,20:11:00,20,05-May-16,Thursday,20:34:00,00:23:00,Business,Cary,Cary,5.6,Meeting,1,214.8,0,UPI/e-Wallet,Completed
+11-Dec-16,Sunday,22:03:00,22,11-Dec-16,Sunday,22:57:00,00:54:00,Business,Cary,Cary,18.9,Customer Visit,0,653.7,65,Gift Card,Completed
+05-Nov-16,Saturday,12:43:00,12,05-Nov-16,Saturday,13:16:00,00:33:00,Business,Cary,Fuquay-Varina,15.6,Meeting,0,544.8,54,UPI/e-Wallet,Completed
+24-Nov-16,Thursday,14:42:00,14,24-Nov-16,Thursday,15:18:00,00:36:00,,Fuquay-Varina,Cary,15.6,Errand/Supplies,4,544.8,54,Gift Card,Completed
+19-Apr-16,Tuesday,18:17:00,18,19-Apr-16,Tuesday,18:27:00,00:10:00,Business,Cary,Morrisville,3,Meal/Entertain,,129,12,UPI/e-Wallet,Completed
+19-Oct-16,Wednesday,22:09:00,22,19-Oct-16,Wednesday,22:21:00,00:12:00,Business,Morrisville,Cary,3.1,Customer Visit,2,132.3,13,Gift Card,Completed
+08-May-16,Sunday,16:06:00,16,08-May-16,Sunday,16:16:00,00:10:00,Business,Cary,Morrisville,3,Meal/Entertain,4,129,12,UPI/e-Wallet,Completed
+31-Jan-16,Sunday,19:05:00,19,31-Jan-16,Sunday,19:15:00,00:10:00,Business,Morrisville,Cary,4.8,Errand/Supplies,1,188.4,18,Cash,Completed
+11-Sep-16,Sunday,21:48:00,21,11-Sep-16,Sunday,21:56:00,00:08:00,Business,Cary,Cary,2.1,Errand/Supplies,2,99.3,9,Uber Cash,Completed
+25-May-16,Wednesday,13:22:00,13,25-May-16,Wednesday,13:32:00,00:10:00,Business,Cary,Cary,3.1,Errand/Supplies,0,132.3,13,Uber Cash,Completed
+23-Jan-16,Saturday,13:36:00,13,23-Jan-16,Saturday,13:51:00,00:15:00,Business,Cary,Apex,4.4,Meal/Entertain,4,175.2,,UPI/e-Wallet,Completed
+13-Oct-16,Thursday,14:26:00,14,13-Oct-16,Thursday,14:39:00,00:13:00,Business,Apex,Cary,4.7,Customer Visit,1,185.1,18,Gift Card,Completed
+22-Jul-16,Friday,17:51:00,17,22-Jul-16,Friday,18:01:00,00:10:00,,Cary,Morrisville,3,Meal/Entertain,1,129,12,UPI/e-Wallet,Completed
+30-Dec-16,Friday,20:48:00,20,30-Dec-16,Friday,20:57:00,00:09:00,Business,Morrisville,Cary,3,Customer Visit,4,129,12,Uber Cash,Completed
+13-Jul-16,Wednesday,18:19:00,18,13-Jul-16,Wednesday,18:29:00,00:10:00,Business,Cary,Cary,4.2,Errand/Supplies,3,168.6,16,Uber Cash,Completed
+29-Mar-16,Tuesday,20:20:00,20,29-Mar-16,Tuesday,20:29:00,00:09:00,Business,Cary,Cary,4.1,Meal/Entertain,4,165.3,16,UPI/e-Wallet,Completed
+17-Nov-16,Thursday,16:52:00,16,17-Nov-16,Thursday,17:10:00,00:18:00,Business,Cary,Cary,3.4,,4,142.2,14,Gift Card,Completed
+10-Jun-16,Friday,17:22:00,17,10-Jun-16,Friday,17:34:00,00:12:00,Business,Cary,Cary,3.3,,,138.9,13,UPI/e-Wallet,Completed
+14-Jul-16,Thursday,17:50:00,17,14-Jul-16,Thursday,18:00:00,00:10:00,,Cary,Morrisville,3,Meal/Entertain,,129,12,Cash,Completed
+03-Jan-16,Sunday,20:24:00,20,03-Jan-16,Sunday,20:40:00,00:16:00,Business,Morrisville,Cary,3.1,Customer Visit,,132.3,13,Uber Cash,Completed
+06-Aug-16,Saturday,14:20:00,14,06-Aug-16,Saturday,14:54:00,00:34:00,Business,Cary,Morrisville,10.6,Meeting,,379.8,37,Uber Cash,Completed
+29-Feb-16,Monday,15:38:00,15,29-Feb-16,Monday,16:12:00,00:34:00,Business,Unknown Location,Unknown Location,4.8,Airport/Travel,,188.4,18,UPI/e-Wallet,Cancelled 
+22-Jun-16,Wednesday,17:19:00,17,22-Jun-16,Wednesday,17:59:00,00:40:00,Business,Unknown Location,Unknown Location,5.3,Temporary Site,,204.9,20,Gift Card,Cancelled 
+07-Oct-16,Friday,13:03:00,13,07-Oct-16,Friday,13:41:00,00:38:00,Business,Unknown Location,Unknown Location,4.9,Errand/Supplies,1,191.7,19,UPI/e-Wallet,Cancelled 
+25-Jun-16,Saturday,16:38:00,16,25-Jun-16,Saturday,17:25:00,00:47:00,Business,Unknown Location,Unknown Location,10.2,Errand/Supplies,3,366.6,36,Gift Card,Cancelled 
+26-Nov-16,Saturday,20:35:00,20,26-Nov-16,Saturday,21:04:00,00:29:00,Business,Unknown Location,Unknown Location,9.2,,0,333.6,33,UPI/e-Wallet,Cancelled 
+20-Jun-16,Monday,09:08:00,9,20-Jun-16,Monday,09:36:00,00:28:00,Business,Unknown Location,Islamabad,7.7,Errand/Supplies,5,284.1,28,Gift Card,Cancelled 
+23-Sep-16,Friday,10:15:00,10,23-Sep-16,Friday,10:34:00,00:19:00,Business,Islamabad,Rawalpindi,5.9,Temporary Site,2,224.7,22,UPI/e-Wallet,Completed
+15-Feb-16,Monday,13:04:00,13,15-Feb-16,Monday,13:08:00,00:04:00,Business,Rawalpindi,Unknown Location,0.7,Errand/Supplies,3,53.1,5,Cash,Completed
+12-Dec-16,Monday,13:24:00,13,12-Dec-16,Monday,13:35:00,00:11:00,Business,Unknown Location,Unknown Location,1.3,,2,72.9,7,Uber Cash,Cancelled 
+13-Nov-16,Sunday,14:07:00,14,13-Nov-16,Sunday,14:15:00,00:08:00,,Unknown Location,Unknown Location,2.5,,2,112.5,11,Uber Cash,Cancelled 
+16-May-16,Monday,14:18:00,14,16-May-16,Monday,14:32:00,00:14:00,Business,Unknown Location,Unknown Location,5.3,,4,204.9,,UPI/e-Wallet,Cancelled 
+15-Jan-16,Friday,14:37:00,14,15-Jan-16,Friday,14:50:00,00:13:00,Business,Unknown Location,Unknown Location,5.4,,5,208.2,20,Gift Card,Cancelled 
+13-Sep-16,Tuesday,15:09:00,15,13-Sep-16,Tuesday,15:38:00,00:29:00,Business,Unknown Location,Rawalpindi,10.2,Customer Visit,4,366.6,36,UPI/e-Wallet,Cancelled 
+19-Dec-16,Monday,16:50:00,16,19-Dec-16,Monday,17:09:00,00:19:00,Business,Rawalpindi,Islamabad,7.2,Customer Visit,1,267.6,26,Uber Cash,Completed
+14-Jun-16,Tuesday,19:05:00,19,14-Jun-16,Tuesday,19:17:00,00:12:00,Business,Islamabad,Unknown Location,2.2,,5,102.6,10,Uber Cash,Completed
+25-Oct-16,Tuesday,19:55:00,19,25-Oct-16,Tuesday,20:30:00,00:35:00,,Unknown Location,Unknown Location,11,Meeting,2,393,39,UPI/e-Wallet,Cancelled 
+21-Jul-16,Thursday,08:49:00,8,21-Jul-16,Thursday,09:24:00,00:35:00,Business,Unknown Location,Rawalpindi,12,,0,426,42,Gift Card,Cancelled 
+07-Oct-16,Friday,10:30:00,10,07-Oct-16,Friday,10:48:00,00:18:00,Business,Rawalpindi,Rawalpindi,3.3,Errand/Supplies,0,138.9,13,UPI/e-Wallet,Completed
+20-Apr-16,Wednesday,11:30:00,11,20-Apr-16,Wednesday,12:17:00,00:47:00,Business,Rawalpindi,Unknown Location,19.4,Meeting,3,670.2,67,Cash,Completed
+01-Mar-16,Tuesday,13:14:00,13,01-Mar-16,Tuesday,13:20:00,00:06:00,Business,Unknown Location,Unknown Location,1.7,Errand/Supplies,1,86.1,8,Uber Cash,Cancelled 
+21-Mar-16,Monday,13:54:00,13,21-Mar-16,Monday,14:17:00,00:23:00,Business,Unknown Location,Islamabad,5.7,Temporary Site,3,218.1,21,Uber Cash,Cancelled 
+22-Mar-16,Tuesday,16:14:00,16,22-Mar-16,Tuesday,16:24:00,00:10:00,,Islamabad,Islamabad,1.8,Errand/Supplies,5,89.4,,UPI/e-Wallet,Completed
+28-Apr-16,Thursday,16:56:00,16,28-Apr-16,Thursday,17:07:00,00:11:00,Business,Islamabad,Islamabad,1.4,Errand/Supplies,5,76.2,7,Gift Card,Completed
+17-Dec-16,Saturday,18:47:00,18,17-Dec-16,Saturday,19:21:00,00:34:00,Business,Islamabad,Unknown Location,10.3,Customer Visit,,369.9,36,UPI/e-Wallet,Completed
+12-Oct-16,Wednesday,07:42:00,7,12-Oct-16,Wednesday,08:10:00,00:28:00,Business,Unknown Location,Unknown Location,11.5,Meeting,1,409.5,40,Uber Cash,Cancelled 
+27-Jan-16,Wednesday,10:14:00,10,27-Jan-16,Wednesday,10:30:00,00:16:00,Business,Unknown Location,Islamabad,4.9,Errand/Supplies,3,191.7,19,Uber Cash,Cancelled 
+04-Jul-16,Monday,11:35:00,11,04-Jul-16,Monday,11:49:00,00:14:00,Business,Islamabad,Unknown Location,3.5,Meal/Entertain,2,145.5,0,Uber Cash,Completed
+28-Aug-16,Sunday,12:51:00,12,28-Aug-16,Sunday,13:33:00,00:42:00,Business,Unknown Location,Unknown Location,16.2,Meeting,4,564.6,56,Uber Cash,Cancelled 
+14-May-16,Saturday,15:38:00,15,14-May-16,Saturday,15:49:00,00:11:00,Business,Unknown Location,Unknown Location,2,Errand/Supplies,3,96,9,UPI/e-Wallet,Cancelled 
+25-Feb-16,Thursday,15:55:00,15,25-Feb-16,Thursday,16:05:00,00:10:00,Business,Unknown Location,Islamabad,2.1,Errand/Supplies,2,99.3,9,Gift Card,Cancelled 
+15-Apr-16,Friday,17:45:00,17,15-Apr-16,Friday,17:54:00,00:09:00,Business,Islamabad,Islamabad,2.1,Meeting,5,99.3,9,UPI/e-Wallet,Completed
+14-Jan-16,Thursday,17:59:00,17,14-Jan-16,Thursday,18:31:00,00:32:00,Business,Islamabad,Unknown Location,7.2,Customer Visit,,267.6,26,Cash,Completed
+22-Feb-16,Monday,19:49:00,19,22-Feb-16,Monday,20:35:00,00:46:00,Business,Unknown Location,Rawalpindi,12,Meeting,0,426,42,Uber Cash,Cancelled 
+07-Feb-16,Sunday,20:56:00,20,07-Feb-16,Sunday,23:42:00,02:46:00,Business,Rawalpindi,Unknown Location,103,Meeting,0,3429,100,Uber Cash,Completed
+08-Dec-16,Thursday,15:40:00,15,08-Dec-16,Thursday,16:38:00,00:58:00,Business,Unknown Location,Unknown Location,32.3,Meeting,2,1095.9,100,UPI/e-Wallet,Cancelled 
+14-May-16,Saturday,17:04:00,17,14-May-16,Saturday,17:20:00,00:16:00,Business,Unknown Location,Unknown Location,5.3,Customer Visit,0,204.9,,Gift Card,Cancelled 
+05-Sep-16,Monday,17:27:00,17,05-Sep-16,Monday,17:53:00,00:26:00,,Unknown Location,Unknown Location,11.6,Meeting,5,412.8,41,UPI/e-Wallet,Cancelled 
+13-Feb-16,Saturday,17:56:00,17,13-Feb-16,Saturday,18:29:00,00:33:00,Business,Unknown Location,Unknown Location,23.2,Meeting,0,795.6,79,Gift Card,Cancelled 
+26-Mar-16,Saturday,18:31:00,18,26-Mar-16,Saturday,18:37:00,00:06:00,Business,Unknown Location,Unknown Location,3.2,Errand/Supplies,4,135.6,13,UPI/e-Wallet,Cancelled 
+12-Jan-16,Tuesday,18:38:00,18,12-Jan-16,Tuesday,18:47:00,00:09:00,Business,Unknown Location,Unknown Location,12.3,Temporary Site,5,435.9,43,Gift Card,Cancelled 
+09-Jan-16,Saturday,19:04:00,19,09-Jan-16,Saturday,19:50:00,00:46:00,Business,Unknown Location,Lahore,14,Meeting,2,492,49,UPI/e-Wallet,Cancelled 
+30-Aug-16,Tuesday,21:41:00,21,30-Aug-16,Tuesday,21:53:00,00:12:00,Business,Lahore,Lahore,2.1,Meal/Entertain,1,99.3,9,Cash,Completed
+27-Jan-16,Wednesday,23:27:00,23,27-Jan-16,Wednesday,23:32:00,00:05:00,Business,Lahore,Lahore,2.1,Customer Visit,2,99.3,,Uber Cash,Completed
+23-Mar-16,Wednesday,09:21:00,9,23-Mar-16,Wednesday,09:41:00,00:20:00,Business,Lahore,Lahore,3,Meeting,0,129,12,Uber Cash,Completed
+08-Dec-16,Thursday,11:33:00,11,08-Dec-16,Thursday,11:58:00,00:25:00,Business,Lahore,Unknown Location,6.2,Meeting,2,234.6,23,UPI/e-Wallet,Completed
+29-Nov-16,Tuesday,14:15:00,14,29-Nov-16,Tuesday,15:25:00,01:10:00,Business,Unknown Location,Unknown Location,9.6,Meeting,5,346.8,34,Gift Card,Cancelled 
+13-Feb-16,Saturday,16:23:00,16,13-Feb-16,Saturday,16:34:00,00:11:00,Business,Unknown Location,Unknown Location,1.3,Errand/Supplies,1,72.9,7,UPI/e-Wallet,Cancelled 
+02-Nov-16,Wednesday,17:34:00,17,02-Nov-16,Wednesday,18:27:00,00:53:00,Business,Unknown Location,Lahore,7.1,Meal/Entertain,2,264.3,26,Uber Cash,Cancelled 
+23-Mar-16,Wednesday,07:43:00,7,23-Mar-16,Wednesday,08:04:00,00:21:00,Business,Lahore,Unknown Location,6.3,Meal/Entertain,4,237.9,,Uber Cash,Completed
+09-May-16,Monday,09:19:00,9,09-May-16,Monday,09:55:00,00:36:00,Business,Unknown Location,Lahore,10.7,Meal/Entertain,2,383.1,38,Uber Cash,Cancelled 
+26-Nov-16,Saturday,10:34:00,10,26-Nov-16,Saturday,10:53:00,00:19:00,Business,Lahore,Lahore,5.3,Meal/Entertain,,204.9,20,UPI/e-Wallet,Completed
+18-Feb-16,Thursday,12:51:00,12,18-Feb-16,Thursday,12:53:00,00:02:00,Business,Lahore,Lahore,1.6,Errand/Supplies,5,82.8,8,UPI/e-Wallet,Completed
+05-Dec-16,Monday,13:08:00,13,05-Dec-16,Monday,13:29:00,00:21:00,Business,Lahore,Lahore,3.6,Errand/Supplies,4,148.8,14,UPI/e-Wallet,Completed
+30-Jan-16,Saturday,17:12:00,17,30-Jan-16,Saturday,17:27:00,00:15:00,Business,Lahore,Lahore,1.7,Errand/Supplies,4,86.1,8,Gift Card,Completed
+30-Oct-16,Sunday,19:12:00,19,30-Oct-16,Sunday,19:27:00,00:15:00,,Lahore,Lahore,2.9,Meal/Entertain,0,125.7,12,UPI/e-Wallet,Completed
+17-Nov-16,Thursday,22:04:00,22,17-Nov-16,Thursday,22:09:00,00:05:00,Business,Lahore,Lahore,0.6,Errand/Supplies,5,49.8,,Cash,Completed
+08-Apr-16,Friday,00:10:00,0,08-Apr-16,Friday,00:14:00,00:04:00,Business,Lahore,Lahore,0.6,Errand/Supplies,1,49.8,4,Uber Cash,Completed
+27-Apr-16,Wednesday,19:15:00,19,27-Apr-16,Wednesday,19:26:00,00:11:00,Business,Lahore,Lahore,2.3,Meal/Entertain,5,105.9,10,Uber Cash,Completed
+12-Apr-16,Tuesday,21:58:00,21,12-Apr-16,Tuesday,22:04:00,00:06:00,Business,Lahore,Lahore,2.3,Meal/Entertain,4,105.9,10,UPI/e-Wallet,Completed
+22-Dec-16,Thursday,08:30:00,8,22-Dec-16,Thursday,08:41:00,00:11:00,Business,Lahore,Lahore,3.2,Meal/Entertain,1,135.6,13,Gift Card,Completed
+21-Sep-16,Wednesday,09:05:00,9,21-Sep-16,Wednesday,09:19:00,00:14:00,Business,Lahore,Lahore,6.2,Customer Visit,4,234.6,23,UPI/e-Wallet,Completed
+24-Mar-16,Thursday,10:15:00,10,24-Mar-16,Thursday,10:36:00,00:21:00,Business,Lahore,Lahore,7.7,Customer Visit,5,284.1,28,Gift Card,Completed
+31-Jul-16,Sunday,11:29:00,11,31-Jul-16,Sunday,11:42:00,00:13:00,Business,Lahore,Lahore,3.8,Customer Visit,4,155.4,15,Gift Card,Completed
+19-Dec-16,Monday,13:09:00,13,19-Dec-16,Monday,13:43:00,00:34:00,Business,Lahore,Unknown Location,7.9,Meeting,1,290.7,29,UPI/e-Wallet,Completed
+12-Jul-16,Tuesday,07:02:00,7,12-Jul-16,Tuesday,07:14:00,00:12:00,Business,Karachi,Karachi,4.9,Temporary Site,1,191.7,19,Gift Card,Completed
+02-Dec-16,Friday,08:37:00,8,02-Dec-16,Friday,08:59:00,00:22:00,Business,Karachi,Karachi,5,Meal/Entertain,5,195,19,UPI/e-Wallet,Completed
+01-Apr-16,Friday,12:53:00,12,01-Apr-16,Friday,12:57:00,00:04:00,Business,Karachi,Karachi,0.6,Meal/Entertain,0,49.8,,Cash,Completed
+10-Aug-16,Wednesday,14:49:00,14,10-Aug-16,Wednesday,15:03:00,00:14:00,Business,Karachi,Unknown Location,3.1,Customer Visit,,132.3,13,Uber Cash,Completed
+13-Oct-16,Thursday,16:34:00,16,13-Oct-16,Thursday,16:58:00,00:24:00,Business,Unknown Location,Karachi,7.9,Meeting,2,290.7,29,Gift Card,Cancelled 
+12-Aug-16,Friday,19:19:00,19,12-Aug-16,Friday,19:50:00,00:31:00,Business,Karachi,Karachi,5.5,Customer Visit,4,211.5,21,UPI/e-Wallet,Completed
+16-Feb-16,Tuesday,08:34:00,8,16-Feb-16,Tuesday,09:06:00,00:32:00,Business,Karachi,Unknown Location,10.3,Meal/Entertain,2,369.9,36,Gift Card,Completed
+27-Jun-16,Monday,11:42:00,11,27-Jun-16,Monday,12:12:00,00:30:00,Business,Unknown Location,Karachi,10.4,Errand/Supplies,1,373.2,,UPI/e-Wallet,Cancelled 
+06-Jun-16,Monday,13:53:00,13,06-Jun-16,Monday,14:01:00,00:08:00,Business,Karachi,Karachi,2,Errand/Supplies,1,96,9,Card,Completed
+24-Jan-16,Sunday,15:04:00,15,24-Jan-16,Sunday,15:39:00,00:35:00,Business,Karachi,Unknown Location,8.5,Meal/Entertain,2,310.5,31,Card,Completed
+21-Oct-16,Friday,17:02:00,17,21-Oct-16,Friday,17:16:00,00:14:00,Business,Unknown Location,Karachi,4.4,Errand/Supplies,3,175.2,17,Card,Cancelled 
+05-Apr-16,Tuesday,18:33:00,18,05-Apr-16,Tuesday,18:56:00,00:23:00,,Karachi,Karachi,3.8,Errand/Supplies,1,155.4,15,Card,Completed
+18-Aug-16,Thursday,22:44:00,22,18-Aug-16,Thursday,23:18:00,00:34:00,Business,Karachi,Karachi,5.1,Errand/Supplies,1,198.3,19,Card,Completed
+29-May-16,Sunday,00:49:00,0,29-May-16,Sunday,01:06:00,00:17:00,Business,Karachi,Karachi,3.8,Errand/Supplies,2,155.4,15,UPI/e-Wallet,Completed
+20-Aug-16,Saturday,09:44:00,9,20-Aug-16,Saturday,10:07:00,00:23:00,Business,Karachi,Unknown Location,11.6,Meal/Entertain,4,412.8,41,Gift Card,Completed
+27-May-16,Friday,11:28:00,11,27-May-16,Friday,12:00:00,00:32:00,Business,Unknown Location,Karachi,11.9,Meal/Entertain,0,422.7,42,UPI/e-Wallet,Cancelled 
+05-Jul-16,Tuesday,12:25:00,12,05-Jul-16,Tuesday,12:33:00,00:08:00,Business,Karachi,Karachi,1.4,Errand/Supplies,2,76.2,7,Cash,Completed
+01-Sep-16,Thursday,13:17:00,13,01-Sep-16,Thursday,13:24:00,00:07:00,Business,Karachi,Karachi,1.1,Errand/Supplies,4,66.3,6,Uber Cash,Completed
+18-Mar-16,Friday,13:56:00,13,18-Mar-16,Friday,14:11:00,00:15:00,Business,Karachi,Karachi,4.1,Airport/Travel,1,165.3,16,Uber Cash,Completed
+20-Feb-16,Saturday,14:42:00,14,20-Feb-16,Saturday,14:58:00,00:16:00,Business,Karachi,Karachi,6.1,Between Offices,1,231.3,23,UPI/e-Wallet,Completed
+24-Aug-16,Wednesday,15:05:00,15,24-Aug-16,Wednesday,15:16:00,00:11:00,Business,Karachi,Karachi,1.3,Errand/Supplies,2,72.9,,Gift Card,Completed
+19-Nov-16,Saturday,18:59:00,18,19-Nov-16,Saturday,19:14:00,00:15:00,Business,Karachi,Unknown Location,3,Meal/Entertain,5,129,12,UPI/e-Wallet,Completed
+21-Dec-16,Wednesday,19:50:00,19,21-Dec-16,Wednesday,20:10:00,00:20:00,Business,Unknown Location,Karachi,4.1,Customer Visit,5,165.3,16,Uber Cash,Cancelled 
+02-Aug-16,Tuesday,20:15:00,20,02-Aug-16,Tuesday,20:45:00,00:30:00,Business,Karachi,Karachi,7.2,Meeting,4,267.6,26,Uber Cash,Completed
+17-Feb-16,Wednesday,20:53:00,20,17-Feb-16,Wednesday,21:42:00,00:49:00,Business,Karachi,Unknown Location,6.4,,,241.2,24,Cash,Completed
+23-May-16,Monday,23:14:00,23,23-May-16,Monday,23:47:00,00:33:00,Business,Unknown Location,Karachi,12.9,Meeting,1,455.7,45,Cash,Cancelled 
+08-Jan-16,Friday,10:15:00,10,08-Jan-16,Friday,10:33:00,00:18:00,Business,Karachi,Karachi,2.8,Errand/Supplies,1,122.4,12,Cash,Completed
+11-Apr-16,Monday,11:31:00,11,11-Apr-16,Monday,11:56:00,00:25:00,Business,Karachi,Karachi,2.9,Errand/Supplies,3,125.7,12,Card,Completed
+08-Aug-16,Monday,15:41:00,15,08-Aug-16,Monday,16:03:00,00:22:00,Business,Karachi,Karachi,4.6,Errand/Supplies,4,181.8,18,Card,Completed
+24-Dec-16,Saturday,16:45:00,16,24-Dec-16,Saturday,17:08:00,00:23:00,,Karachi,Karachi,4.6,Meeting,5,181.8,18,Card,Completed
+14-Oct-16,Friday,23:06:00,23,14-Oct-16,Friday,23:10:00,00:04:00,Business,Karachi,Karachi,0.8,Customer Visit,3,56.4,,Card,Completed
+21-Sep-16,Wednesday,01:07:00,1,21-Sep-16,Wednesday,01:14:00,00:07:00,Business,Karachi,Karachi,0.7,Meeting,4,53.1,,Card,Completed
+16-Jan-16,Saturday,13:24:00,13,16-Jan-16,Saturday,13:42:00,00:18:00,Business,Karachi,Unknown Location,3.9,Temporary Site,,158.7,15,Card,Completed
+05-May-16,Thursday,15:03:00,15,05-May-16,Thursday,15:38:00,00:35:00,Business,Unknown Location,Unknown Location,16.2,Meeting,5,564.6,56,UPI/e-Wallet,Cancelled 
+02-Mar-16,Wednesday,21:32:00,21,02-Mar-16,Wednesday,21:50:00,00:18:00,Business,Katunayake,Gampaha,6.4,Temporary Site,,241.2,24,UPI/e-Wallet,Completed
+15-May-16,Sunday,22:08:00,22,15-May-16,Sunday,23:51:00,01:43:00,Business,Gampaha,Ilukwatta,48.2,Temporary Site,4,1620.6,,UPI/e-Wallet,Completed
